@@ -1,0 +1,21 @@
+{
+  "name": "Overwatch 2 - AP Tracker",
+  "package_version": "1.0.0",
+  "package_uid": "ow2_ap",
+  "author": "Fafale",
+  "target_poptracker_version": "0.31.0",
+  "variants": {
+    "standard": {
+      "display_name": "Map Tracker",
+      "flags": [
+        "ap"
+      ]
+    },
+    "var_itemsonly": {
+      "display_name": "Items Only",
+      "flags": [
+        "ap"
+      ]
+    }
+  }
+}

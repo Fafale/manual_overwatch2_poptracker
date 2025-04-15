@@ -1,0 +1,260 @@
+{
+  // sets layouts for shadred items grids
+  // bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
+  "shared_item_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "10, 10",
+            "h_alignment": "left",
+            "rows": [
+              [
+                "toggle",
+                "progressive",
+                "Medal"
+              ],
+              [
+                "consumable",
+                "progressive_toggle",
+                "Mastery_DVa"
+              ],
+              [
+                "Hero_DVa",
+                "Hero_Doomfist",
+                "Hero_Hazard",
+                "Hero_Junker Queen",
+                "Hero_Mauga",
+                "Hero_Orisa",
+                "Hero_Ramattra"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Tank Heroes": {
+    "type": "array",
+    "margin": "38, -5",
+    "content": [
+      {
+        "type": "itemgrid",
+        "item_margin": "2",
+        "item_size": "40",
+        "rows": [
+          [
+            "Hero_DVa",
+            "Hero_Doomfist",
+            "Hero_Hazard",
+            "Hero_Junker Queen",
+            "Hero_Mauga",
+            "Hero_Orisa",
+            "Hero_Ramattra"
+          ],
+          [
+            "Hero_Reinhardt",
+            "Hero_Roadhog",
+            "Hero_Sigma",
+            "Hero_Winston",
+            "Hero_Wrecking Ball",
+            "Hero_Zarya"
+          ]				
+        ]
+      }
+    ]
+  },
+  "Damage Heroes": {
+    "type": "array",
+    "margin": "-5,-5",
+    "content": [
+      {
+        "type": "itemgrid",
+        "item_margin": "2",
+        "item_size": "40",
+        "rows": [
+          [
+            "Hero_Ashe",
+            "Hero_Bastion",
+            "Hero_Cassidy",
+            "Hero_Echo",
+            "Hero_Genji",
+            "Hero_Hanzo",
+            "Hero_Junkrat",
+            "Hero_Mei",
+            "Hero_Pharah"
+          ],
+          [
+            "Hero_Reaper",
+            "Hero_Sojourn",
+            "Hero_Soldier 76",
+            "Hero_Sombra",
+            "Hero_Symmetra",
+            "Hero_Torbjorn",
+            "Hero_Tracer",
+            "Hero_Venture",
+            "Hero_Widowmaker"
+          ]				
+        ]
+      }
+    ]
+  },
+  "Support Heroes": {
+    "type": "array",
+    "margin": "60,-5",
+    "content": [
+      {
+        "type": "itemgrid",
+        "item_margin": "2,2",
+        "item_size": "40,40",
+        "rows": [
+          [
+            "Hero_Ana",
+            "Hero_Baptiste",
+            "Hero_Brigitte",
+            "Hero_Illari",
+            "Hero_Juno",
+            "Hero_Kiriko"
+          ],
+          [
+            "Hero_Lifeweaver",
+            "Hero_Lucio",
+            "Hero_Mercy",
+            "Hero_Moira",
+            "Hero_Zenyatta"
+          ]				
+        ]
+      }
+    ]
+  },
+  "Heroes Items": {
+    "type": "group",
+    "header": "Heroes",
+    "content": [
+      {
+        "type": "dock",
+        "content": [
+          {
+            "type": "dock",
+            "content": [
+              {
+                "type": "group",
+                "header": "Tank Heroes",
+                "content": [
+                  {
+                    "type": "layout",
+                    "key": "Tank Heroes"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "dock",
+            "content": [
+              {
+                "type": "group",
+                "header": "Damage Heroes",
+                "content": {
+                  "type": "layout",
+                  "key": "Damage Heroes"
+                }
+              }
+            ]
+          },
+          {
+            "type": "dock",
+            "content": [
+              {
+                "type": "group",
+                "header": "Support Heroes",
+                "content": {
+                  "type": "layout",
+                  "key": "Support Heroes"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Hero Masteries": {
+    "type": "group",
+    "header": "Hero Masteries",
+    "content": [
+      {
+        "type": "dock",
+        "dock": "left",
+        "h_alignment": "center",
+        "v_alignment": "center",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "3,3",
+            "item_size": "52,52",
+            "rows": [
+              [
+                "Mastery_Mercy",
+                "Mastery_Reinhardt",
+                "Mastery_Tracer",
+                "Mastery_Sojourn",
+                "Mastery_Winston",
+                "Mastery_DVa",
+                "Mastery_Echo"
+              ],
+              [
+                "Mastery_Genji",
+                "Mastery_Lucio",
+                "Mastery_Mei",
+                "Mastery_Soldier 76",
+                "Mastery_Kiriko",
+                "Mastery_Cassidy",
+                "Mastery_Brigitte"
+              ]				
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Deathmatch Items": {
+    "type": "group",
+    "title": "Deathmatch Items",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+          {
+            "type": "item",
+            "item": "Solo_Deathmatch"
+          },
+          {
+            "type": "item",
+            "item": "Team_Deathmatch"
+          }
+        ]
+      }
+    ]
+  },
+  "Medals": {
+    "type": "group",
+    "title": "Received Medals",
+    "content":[
+      {
+        "type": "item",
+        "item_h_alignment": "center",
+        "item_size": "32,32",
+        "item": "Medal"
+      }
+    ]
+  }
+}

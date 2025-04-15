@@ -1,0 +1,517 @@
+[
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
+  {
+    "name": "Medals",
+    "type": "consumable",
+    "img": "images/items/medal.png",
+    "codes": "Medal",
+
+    "overlay_background":"#000000",
+    "overlay_font_size": 14,
+    "overlay_align": "center",
+
+    "initial_quantity": 0,
+    "max_quantity": 500
+  },
+
+  // Deathmatch
+
+  {
+    "name": "Solo Deathmatch",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "Solo_Deathmatch"
+  },
+  {
+    "name": "Team Deathmatch",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "Team_Deathmatch"
+  },
+
+  // Hero Mastery
+
+  {
+    "name": "Hero Mastery - Mercy",
+    "type": "consumable",
+    "img": "images/heroes/Mercy.png",
+    "codes": "Mastery_Mercy",
+
+    "overlay_background":"#000000",
+    "overlay_font_size": 14,
+    
+    "initial_quantity": 0,
+    "max_quantity": 3
+  },
+  {
+    "name": "Hero Mastery - Reinhardt",
+    "type": "consumable",
+    "img": "images/heroes/Reinhardt.png",
+    "codes": "Mastery_Reinhardt",
+
+    "overlay_background":"#000000",
+    "overlay_font_size": 14,
+    
+    "initial_quantity": 0,
+    "max_quantity": 3
+  },
+  {
+    "name": "Hero Mastery - Tracer",
+    "type": "consumable",
+    "img": "images/heroes/Tracer.png",
+    "codes": "Mastery_Tracer",
+
+    "overlay_background":"#000000",
+    "overlay_font_size": 14,
+    
+    "initial_quantity": 0,
+    "max_quantity": 3
+  },
+  {
+    "name": "Hero Mastery - Sojourn",
+    "type": "consumable",
+    "img": "images/heroes/Sojourn.png",
+    "codes": "Mastery_Sojourn",
+
+    "overlay_background":"#000000",
+    "overlay_font_size": 14,
+    
+    "initial_quantity": 0,
+    "max_quantity": 3
+  },
+  {
+    "name": "Hero Mastery - Winston",
+    "type": "consumable",
+    "img": "images/heroes/Winston.png",
+    "codes": "Mastery_Winston",
+
+    "overlay_background":"#000000",
+    "overlay_font_size": 14,
+    
+    "initial_quantity": 0,
+    "max_quantity": 3
+  },
+  {
+    "name": "Hero Mastery - DVa",
+    "type": "consumable",
+    "img": "images/heroes/DVa.png",
+    "codes": "Mastery_DVa",
+
+    "overlay_background":"#000000",
+    "overlay_font_size": 14,
+    
+    "initial_quantity": 0,
+    "max_quantity": 3
+  },
+  {
+    "name": "Hero Mastery - Echo",
+    "type": "consumable",
+    "img": "images/heroes/Echo.png",
+    "codes": "Mastery_Echo",
+
+    "overlay_background":"#000000",
+    "overlay_font_size": 14,
+    
+    "initial_quantity": 0,
+    "max_quantity": 3
+  },
+  {
+    "name": "Hero Mastery - Genji",
+    "type": "consumable",
+    "img": "images/heroes/Genji.png",
+    "codes": "Mastery_Genji",
+
+    "overlay_background":"#000000",
+    "overlay_font_size": 14,
+    
+    "initial_quantity": 0,
+    "max_quantity": 3
+  },
+  {
+    "name": "Hero Mastery - Lucio",
+    "type": "consumable",
+    "img": "images/heroes/Lucio.png",
+    "codes": "Mastery_Lucio",
+
+    "overlay_background":"#000000",
+    "overlay_font_size": 14,
+    
+    "initial_quantity": 0,
+    "max_quantity": 3
+  },
+  {
+    "name": "Hero Mastery - Mei",
+    "type": "consumable",
+    "img": "images/heroes/Mei.png",
+    "codes": "Mastery_Mei",
+
+    "overlay_background":"#000000",
+    "overlay_font_size": 14,
+    
+    "initial_quantity": 0,
+    "max_quantity": 3
+  },
+  {
+    "name": "Hero Mastery - Soldier 76",
+    "type": "consumable",
+    "img": "images/heroes/Soldier 76.png",
+    "codes": "Mastery_Soldier 76",
+
+    "overlay_background":"#000000",
+    "overlay_font_size": 14,
+    
+    "initial_quantity": 0,
+    "max_quantity": 3
+  },
+  {
+    "name": "Hero Mastery - Kiriko",
+    "type": "consumable",
+    "img": "images/heroes/Kiriko.png",
+    "codes": "Mastery_Kiriko",
+
+    "overlay_background":"#000000",
+    "overlay_font_size": 14,
+    
+    "initial_quantity": 0,
+    "max_quantity": 3
+  },
+  {
+    "name": "Hero Mastery - Cassidy",
+    "type": "consumable",
+    "img": "images/heroes/Cassidy.png",
+    "codes": "Mastery_Cassidy",
+
+    "overlay_background":"#000000",
+    "overlay_font_size": 14,
+    
+    "initial_quantity": 0,
+    "max_quantity": 3
+  },
+  {
+    "name": "Hero Mastery - Brigitte",
+    "type": "consumable",
+    "img": "images/heroes/Brigitte.png",
+    "codes": "Mastery_Brigitte",
+
+    "overlay_background":"#000000",
+    "overlay_font_size": 14,
+    
+    "initial_quantity": 0,
+    "max_quantity": 3
+  },
+  
+  // Heroes
+  
+  {
+    "name": "DVa",
+    "type": "toggle",
+    "img": "images/heroes/DVa.png",
+    "codes": "Hero_DVa"
+  },
+  {
+    "name": "Doomfist",
+    "type": "toggle",
+    "img": "images/heroes/Doomfist.png",
+    "codes": "Hero_Doomfist"
+  },
+  {
+    "name": "Hazard",
+    "type": "toggle",
+    "img": "images/heroes/Hazard.png",
+    "codes": "Hero_Hazard"
+  },
+  {
+    "name": "Junker Queen",
+    "type": "toggle",
+    "img": "images/heroes/Junker Queen.png",
+    "codes": "Hero_Junker Queen"
+  },
+  {
+    "name": "Mauga",
+    "type": "toggle",
+    "img": "images/heroes/Mauga.png",
+    "codes": "Hero_Mauga"
+  },
+  {
+    "name": "Orisa",
+    "type": "toggle",
+    "img": "images/heroes/Orisa.png",
+    "codes": "Hero_Orisa"
+  },
+  {
+    "name": "Ramattra",
+    "type": "toggle",
+    "img": "images/heroes/Ramattra.png",
+    "codes": "Hero_Ramattra"
+  },
+  {
+    "name": "Reinhardt",
+    "type": "toggle",
+    "img": "images/heroes/Reinhardt.png",
+    "codes": "Hero_Reinhardt"
+  },
+  {
+    "name": "Roadhog",
+    "type": "toggle",
+    "img": "images/heroes/Roadhog.png",
+    "codes": "Hero_Roadhog"
+  },
+  {
+    "name": "Sigma",
+    "type": "toggle",
+    "img": "images/heroes/Sigma.png",
+    "codes": "Hero_Sigma"
+  },
+  {
+    "name": "Winston",
+    "type": "toggle",
+    "img": "images/heroes/Winston.png",
+    "codes": "Hero_Winston"
+  },
+  {
+    "name": "Wrecking Ball",
+    "type": "toggle",
+    "img": "images/heroes/Wrecking Ball.png",
+    "codes": "Hero_Wrecking Ball"
+  },
+  {
+    "name": "Zarya",
+    "type": "toggle",
+    "img": "images/heroes/Zarya.png",
+    "codes": "Hero_Zarya"
+  },
+  {
+    "name": "Ashe",
+    "type": "toggle",
+    "img": "images/heroes/Ashe.png",
+    "codes": "Hero_Ashe"
+  },
+  {
+    "name": "Bastion",
+    "type": "toggle",
+    "img": "images/heroes/Bastion.png",
+    "codes": "Hero_Bastion"
+  },
+  {
+    "name": "Cassidy",
+    "type": "toggle",
+    "img": "images/heroes/Cassidy.png",
+    "codes": "Hero_Cassidy"
+  },
+  {
+    "name": "Echo",
+    "type": "toggle",
+    "img": "images/heroes/Echo.png",
+    "codes": "Hero_Echo"
+  },
+  {
+    "name": "Genji",
+    "type": "toggle",
+    "img": "images/heroes/Genji.png",
+    "codes": "Hero_Genji"
+  },
+  {
+    "name": "Hanzo",
+    "type": "toggle",
+    "img": "images/heroes/Hanzo.png",
+    "codes": "Hero_Hanzo"
+  },
+  {
+    "name": "Junkrat",
+    "type": "toggle",
+    "img": "images/heroes/Junkrat.png",
+    "codes": "Hero_Junkrat"
+  },
+  {
+    "name": "Mei",
+    "type": "toggle",
+    "img": "images/heroes/Mei.png",
+    "codes": "Hero_Mei"
+  },
+  {
+    "name": "Pharah",
+    "type": "toggle",
+    "img": "images/heroes/Pharah.png",
+    "codes": "Hero_Pharah"
+  },
+  {
+    "name": "Reaper",
+    "type": "toggle",
+    "img": "images/heroes/Reaper.png",
+    "codes": "Hero_Reaper"
+  },
+  {
+    "name": "Sojourn",
+    "type": "toggle",
+    "img": "images/heroes/Sojourn.png",
+    "codes": "Hero_Sojourn"
+  },
+  {
+    "name": "Soldier 76",
+    "type": "toggle",
+    "img": "images/heroes/Soldier 76.png",
+    "codes": "Hero_Soldier 76"
+  },
+  {
+    "name": "Sombra",
+    "type": "toggle",
+    "img": "images/heroes/Sombra.png",
+    "codes": "Hero_Sombra"
+  },
+  {
+    "name": "Symmetra",
+    "type": "toggle",
+    "img": "images/heroes/Symmetra.png",
+    "codes": "Hero_Symmetra"
+  },
+  {
+    "name": "Torbjorn",
+    "type": "toggle",
+    "img": "images/heroes/Torbjorn.png",
+    "codes": "Hero_Torbjorn"
+  },
+  {
+    "name": "Tracer",
+    "type": "toggle",
+    "img": "images/heroes/Tracer.png",
+    "codes": "Hero_Tracer"
+  },
+  {
+    "name": "Venture",
+    "type": "toggle",
+    "img": "images/heroes/Venture.png",
+    "codes": "Hero_Venture"
+  },
+  {
+    "name": "Widowmaker",
+    "type": "toggle",
+    "img": "images/heroes/Widowmaker.png",
+    "codes": "Hero_Widowmaker"
+  },
+  {
+    "name": "Ana",
+    "type": "toggle",
+    "img": "images/heroes/Ana.png",
+    "codes": "Hero_Ana"
+  },
+  {
+    "name": "Baptiste",
+    "type": "toggle",
+    "img": "images/heroes/Baptiste.png",
+    "codes": "Hero_Baptiste"
+  },
+  {
+    "name": "Brigitte",
+    "type": "toggle",
+    "img": "images/heroes/Brigitte.png",
+    "codes": "Hero_Brigitte"
+  },
+  {
+    "name": "Illari",
+    "type": "toggle",
+    "img": "images/heroes/Illari.png",
+    "codes": "Hero_Illari"
+  },
+  {
+    "name": "Juno",
+    "type": "toggle",
+    "img": "images/heroes/Juno.png",
+    "codes": "Hero_Juno"
+  },
+  {
+    "name": "Kiriko",
+    "type": "toggle",
+    "img": "images/heroes/Kiriko.png",
+    "codes": "Hero_Kiriko"
+  },
+  {
+    "name": "Lifeweaver",
+    "type": "toggle",
+    "img": "images/heroes/Lifeweaver.png",
+    "codes": "Hero_Lifeweaver"
+  },
+  {
+    "name": "Lucio",
+    "type": "toggle",
+    "img": "images/heroes/Lucio.png",
+    "codes": "Hero_Lucio"
+  },
+  {
+    "name": "Mercy",
+    "type": "toggle",
+    "img": "images/heroes/Mercy.png",
+    "codes": "Hero_Mercy"
+  },
+  {
+    "name": "Moira",
+    "type": "toggle",
+    "img": "images/heroes/Moira.png",
+    "codes": "Hero_Moira"
+  },
+  {
+    "name": "Zenyatta",
+    "type": "toggle",
+    "img": "images/heroes/Zenyatta.png",
+    "codes": "Hero_Zenyatta"
+  },
+
+
+
+  ////////////////////////////
+
+
+
+  {
+    "name": "Toggle",
+    "type": "toggle",
+    "img": "images/items/toggle.png",
+    "codes": "toggle"
+  },
+  {
+    "name": "Progressive",
+    "type": "progressive",
+    "allow_disabled": true,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/progressive.png",
+        "codes": "progressive",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/items/progressive_2.png",
+        "codes": "progressive_2",
+        "inherit_codes": false
+      }
+    ]
+  },
+  {
+    "name": "Consumable",
+    "type": "consumable",
+    "img": "images/items/consumable.png",
+    "max_quantity": 8,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 1,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable"
+  },
+  {
+    "name": "Progressive Toggle",
+    "type": "progressive_toggle",
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/progressive.png",
+        "codes": "progressive_toggle",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/items/progressive_2.png",
+        "codes": "progressive_toggle_2",
+        "inherit_codes": false
+      }
+    ]
+  }
+]
