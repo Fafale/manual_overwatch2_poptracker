@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Include Hero Masteries",
+    "type": "progressive",
+    "loop": false,
+    "capturable": false,
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "codes": "HeroMastery",
+    "stages": [
+      {
+        "img": "images/items/toggle.png",
+        "inherit_codes": false,
+        "codes": "HeroMastery_off"
+      },
+      {
+        "img": "images/items/progressive.png",
+        "inherit_codes": false,
+        "codes": "HeroMastery_progressive"
+      },
+      {
+        "img": "images/items/progressive_2.png",
+        "inherit_codes": false,
+        "codes": "HeroMastery_complete"
+      }
+    ]
+  }
+]
