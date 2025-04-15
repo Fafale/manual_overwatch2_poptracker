@@ -24,6 +24,7 @@ ScriptHost:LoadScript("scripts/custom_items/progressiveTogglePlus.lua")
 ScriptHost:LoadScript("scripts/custom_items/progressiveTogglePlusWrapper.lua")
 
 -- Items
+Tracker:AddItems("items/settings.jsonc")
 Tracker:AddItems("items/items.jsonc")
 
 if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
@@ -31,12 +32,14 @@ if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     Tracker:AddMaps("maps/maps.jsonc")
     -- Locations
     Tracker:AddLocations("locations/locations.jsonc")
+    Tracker:AddLocations("locations/masteries.jsonc")
 end
 
 -- Layout
 Tracker:AddLayouts("layouts/items.jsonc")
 Tracker:AddLayouts("layouts/tracker.jsonc")
 Tracker:AddLayouts("layouts/broadcast.jsonc")
+Tracker:AddLayouts("layouts/settings.jsonc")
 
 -- AutoTracking for Poptracker
 if PopVersion and PopVersion >= "0.18.0" then
