@@ -1,0 +1,1512 @@
+item_name_to_id:
+  Ana: 34
+  Ashe: 16
+  Baptiste: 35
+  Bastion: 17
+  Brigitte: 36
+  Cassidy: 18
+  DVa: 3
+  Doomfist: 4
+  Echo: 19
+  Genji: 20
+  Hanzo: 21
+  Hazard: 5
+  Hero Mastery - Brigitte: 58
+  Hero Mastery - Cassidy: 57
+  Hero Mastery - DVa: 50
+  Hero Mastery - Echo: 51
+  Hero Mastery - Genji: 52
+  Hero Mastery - Kiriko: 56
+  Hero Mastery - Lucio: 53
+  Hero Mastery - Mei: 54
+  Hero Mastery - Mercy: 45
+  Hero Mastery - Reinhardt: 46
+  Hero Mastery - Sojourn: 48
+  Hero Mastery - Soldier 76: 55
+  Hero Mastery - Tracer: 47
+  Hero Mastery - Winston: 49
+  Illari: 37
+  Junker Queen: 6
+  Junkrat: 22
+  Juno: 38
+  Kiriko: 39
+  Lifeweaver: 40
+  Lucio: 41
+  Mauga: 7
+  Medal: 2
+  Mei: 23
+  Mercy: 42
+  Moira: 43
+  Nothing: 61
+  Orisa: 8
+  Pharah: 24
+  Ramattra: 9
+  Reaper: 25
+  Reinhardt: 10
+  Roadhog: 11
+  Sigma: 12
+  Sojourn: 26
+  Soldier 76: 27
+  Solo Deathmatch: 59
+  Sombra: 28
+  Symmetra: 29
+  Team Deathmatch: 60
+  Torbjorn: 30
+  Tracer: 31
+  Ultimate Medal (Victory): 1
+  Venture: 32
+  Widowmaker: 33
+  Winston: 13
+  Wrecking Ball: 14
+  Zarya: 15
+  Zenyatta: 44
+location_name_to_id:
+  Ana - Get Eliminations (1): 1157
+  Ana - Get Eliminations (2): 1158
+  Ana - Get Eliminations (3): 1159
+  Ana - Get Eliminations (4): 1160
+  Ana - Get Eliminations (5): 1161
+  Ashe - Get Eliminations (1): 1067
+  Ashe - Get Eliminations (2): 1068
+  Ashe - Get Eliminations (3): 1069
+  Ashe - Get Eliminations (4): 1070
+  Ashe - Get Eliminations (5): 1071
+  Baptiste - Get Eliminations (1): 1162
+  Baptiste - Get Eliminations (2): 1163
+  Baptiste - Get Eliminations (3): 1164
+  Baptiste - Get Eliminations (4): 1165
+  Baptiste - Get Eliminations (5): 1166
+  Bastion - Get Eliminations (1): 1072
+  Bastion - Get Eliminations (2): 1073
+  Bastion - Get Eliminations (3): 1074
+  Bastion - Get Eliminations (4): 1075
+  Bastion - Get Eliminations (5): 1076
+  Brigitte - Get Eliminations (1): 1167
+  Brigitte - Get Eliminations (2): 1168
+  Brigitte - Get Eliminations (3): 1169
+  Brigitte - Get Eliminations (4): 1170
+  Brigitte - Get Eliminations (5): 1171
+  Cassidy - Get Eliminations (1): 1077
+  Cassidy - Get Eliminations (2): 1078
+  Cassidy - Get Eliminations (3): 1079
+  Cassidy - Get Eliminations (4): 1080
+  Cassidy - Get Eliminations (5): 1081
+  DVa - Get Eliminations (1): 1002
+  DVa - Get Eliminations (2): 1003
+  DVa - Get Eliminations (3): 1004
+  DVa - Get Eliminations (4): 1005
+  DVa - Get Eliminations (5): 1006
+  Doomfist - Get Eliminations (1): 1007
+  Doomfist - Get Eliminations (2): 1008
+  Doomfist - Get Eliminations (3): 1009
+  Doomfist - Get Eliminations (4): 1010
+  Doomfist - Get Eliminations (5): 1011
+  Echo - Get Eliminations (1): 1082
+  Echo - Get Eliminations (2): 1083
+  Echo - Get Eliminations (3): 1084
+  Echo - Get Eliminations (4): 1085
+  Echo - Get Eliminations (5): 1086
+  Gather 1 Medal: 2
+  Gather 10 Medals: 11
+  Gather 100 Medals: 101
+  Gather 101 Medals: 102
+  Gather 102 Medals: 103
+  Gather 103 Medals: 104
+  Gather 104 Medals: 105
+  Gather 105 Medals: 106
+  Gather 106 Medals: 107
+  Gather 107 Medals: 108
+  Gather 108 Medals: 109
+  Gather 109 Medals: 110
+  Gather 11 Medals: 12
+  Gather 110 Medals: 111
+  Gather 111 Medals: 112
+  Gather 112 Medals: 113
+  Gather 113 Medals: 114
+  Gather 114 Medals: 115
+  Gather 115 Medals: 116
+  Gather 116 Medals: 117
+  Gather 117 Medals: 118
+  Gather 118 Medals: 119
+  Gather 119 Medals: 120
+  Gather 12 Medals: 13
+  Gather 120 Medals: 121
+  Gather 121 Medals: 122
+  Gather 122 Medals: 123
+  Gather 123 Medals: 124
+  Gather 124 Medals: 125
+  Gather 125 Medals: 126
+  Gather 126 Medals: 127
+  Gather 127 Medals: 128
+  Gather 128 Medals: 129
+  Gather 129 Medals: 130
+  Gather 13 Medals: 14
+  Gather 130 Medals: 131
+  Gather 131 Medals: 132
+  Gather 132 Medals: 133
+  Gather 133 Medals: 134
+  Gather 134 Medals: 135
+  Gather 135 Medals: 136
+  Gather 136 Medals: 137
+  Gather 137 Medals: 138
+  Gather 138 Medals: 139
+  Gather 139 Medals: 140
+  Gather 14 Medals: 15
+  Gather 140 Medals: 141
+  Gather 141 Medals: 142
+  Gather 142 Medals: 143
+  Gather 143 Medals: 144
+  Gather 144 Medals: 145
+  Gather 145 Medals: 146
+  Gather 146 Medals: 147
+  Gather 147 Medals: 148
+  Gather 148 Medals: 149
+  Gather 149 Medals: 150
+  Gather 15 Medals: 16
+  Gather 150 Medals: 151
+  Gather 151 Medals: 152
+  Gather 152 Medals: 153
+  Gather 153 Medals: 154
+  Gather 154 Medals: 155
+  Gather 155 Medals: 156
+  Gather 156 Medals: 157
+  Gather 157 Medals: 158
+  Gather 158 Medals: 159
+  Gather 159 Medals: 160
+  Gather 16 Medals: 17
+  Gather 160 Medals: 161
+  Gather 161 Medals: 162
+  Gather 162 Medals: 163
+  Gather 163 Medals: 164
+  Gather 164 Medals: 165
+  Gather 165 Medals: 166
+  Gather 166 Medals: 167
+  Gather 167 Medals: 168
+  Gather 168 Medals: 169
+  Gather 169 Medals: 170
+  Gather 17 Medals: 18
+  Gather 170 Medals: 171
+  Gather 171 Medals: 172
+  Gather 172 Medals: 173
+  Gather 173 Medals: 174
+  Gather 174 Medals: 175
+  Gather 175 Medals: 176
+  Gather 176 Medals: 177
+  Gather 177 Medals: 178
+  Gather 178 Medals: 179
+  Gather 179 Medals: 180
+  Gather 18 Medals: 19
+  Gather 180 Medals: 181
+  Gather 181 Medals: 182
+  Gather 182 Medals: 183
+  Gather 183 Medals: 184
+  Gather 184 Medals: 185
+  Gather 185 Medals: 186
+  Gather 186 Medals: 187
+  Gather 187 Medals: 188
+  Gather 188 Medals: 189
+  Gather 189 Medals: 190
+  Gather 19 Medals: 20
+  Gather 190 Medals: 191
+  Gather 191 Medals: 192
+  Gather 192 Medals: 193
+  Gather 193 Medals: 194
+  Gather 194 Medals: 195
+  Gather 195 Medals: 196
+  Gather 196 Medals: 197
+  Gather 197 Medals: 198
+  Gather 198 Medals: 199
+  Gather 199 Medals: 200
+  Gather 2 Medals: 3
+  Gather 20 Medals: 21
+  Gather 200 Medals: 201
+  Gather 201 Medals: 202
+  Gather 202 Medals: 203
+  Gather 203 Medals: 204
+  Gather 204 Medals: 205
+  Gather 205 Medals: 206
+  Gather 206 Medals: 207
+  Gather 207 Medals: 208
+  Gather 208 Medals: 209
+  Gather 209 Medals: 210
+  Gather 21 Medals: 22
+  Gather 210 Medals: 211
+  Gather 211 Medals: 212
+  Gather 212 Medals: 213
+  Gather 213 Medals: 214
+  Gather 214 Medals: 215
+  Gather 215 Medals: 216
+  Gather 216 Medals: 217
+  Gather 217 Medals: 218
+  Gather 218 Medals: 219
+  Gather 219 Medals: 220
+  Gather 22 Medals: 23
+  Gather 220 Medals: 221
+  Gather 221 Medals: 222
+  Gather 222 Medals: 223
+  Gather 223 Medals: 224
+  Gather 224 Medals: 225
+  Gather 225 Medals: 226
+  Gather 226 Medals: 227
+  Gather 227 Medals: 228
+  Gather 228 Medals: 229
+  Gather 229 Medals: 230
+  Gather 23 Medals: 24
+  Gather 230 Medals: 231
+  Gather 231 Medals: 232
+  Gather 232 Medals: 233
+  Gather 233 Medals: 234
+  Gather 234 Medals: 235
+  Gather 235 Medals: 236
+  Gather 236 Medals: 237
+  Gather 237 Medals: 238
+  Gather 238 Medals: 239
+  Gather 239 Medals: 240
+  Gather 24 Medals: 25
+  Gather 240 Medals: 241
+  Gather 241 Medals: 242
+  Gather 242 Medals: 243
+  Gather 243 Medals: 244
+  Gather 244 Medals: 245
+  Gather 245 Medals: 246
+  Gather 246 Medals: 247
+  Gather 247 Medals: 248
+  Gather 248 Medals: 249
+  Gather 249 Medals: 250
+  Gather 25 Medals: 26
+  Gather 250 Medals: 251
+  Gather 251 Medals: 252
+  Gather 252 Medals: 253
+  Gather 253 Medals: 254
+  Gather 254 Medals: 255
+  Gather 255 Medals: 256
+  Gather 256 Medals: 257
+  Gather 257 Medals: 258
+  Gather 258 Medals: 259
+  Gather 259 Medals: 260
+  Gather 26 Medals: 27
+  Gather 260 Medals: 261
+  Gather 261 Medals: 262
+  Gather 262 Medals: 263
+  Gather 263 Medals: 264
+  Gather 264 Medals: 265
+  Gather 265 Medals: 266
+  Gather 266 Medals: 267
+  Gather 267 Medals: 268
+  Gather 268 Medals: 269
+  Gather 269 Medals: 270
+  Gather 27 Medals: 28
+  Gather 270 Medals: 271
+  Gather 271 Medals: 272
+  Gather 272 Medals: 273
+  Gather 273 Medals: 274
+  Gather 274 Medals: 275
+  Gather 275 Medals: 276
+  Gather 276 Medals: 277
+  Gather 277 Medals: 278
+  Gather 278 Medals: 279
+  Gather 279 Medals: 280
+  Gather 28 Medals: 29
+  Gather 280 Medals: 281
+  Gather 281 Medals: 282
+  Gather 282 Medals: 283
+  Gather 283 Medals: 284
+  Gather 284 Medals: 285
+  Gather 285 Medals: 286
+  Gather 286 Medals: 287
+  Gather 287 Medals: 288
+  Gather 288 Medals: 289
+  Gather 289 Medals: 290
+  Gather 29 Medals: 30
+  Gather 290 Medals: 291
+  Gather 291 Medals: 292
+  Gather 292 Medals: 293
+  Gather 293 Medals: 294
+  Gather 294 Medals: 295
+  Gather 295 Medals: 296
+  Gather 296 Medals: 297
+  Gather 297 Medals: 298
+  Gather 298 Medals: 299
+  Gather 299 Medals: 300
+  Gather 3 Medals: 4
+  Gather 30 Medals: 31
+  Gather 300 Medals: 301
+  Gather 301 Medals: 302
+  Gather 302 Medals: 303
+  Gather 303 Medals: 304
+  Gather 304 Medals: 305
+  Gather 305 Medals: 306
+  Gather 306 Medals: 307
+  Gather 307 Medals: 308
+  Gather 308 Medals: 309
+  Gather 309 Medals: 310
+  Gather 31 Medals: 32
+  Gather 310 Medals: 311
+  Gather 311 Medals: 312
+  Gather 312 Medals: 313
+  Gather 313 Medals: 314
+  Gather 314 Medals: 315
+  Gather 315 Medals: 316
+  Gather 316 Medals: 317
+  Gather 317 Medals: 318
+  Gather 318 Medals: 319
+  Gather 319 Medals: 320
+  Gather 32 Medals: 33
+  Gather 320 Medals: 321
+  Gather 321 Medals: 322
+  Gather 322 Medals: 323
+  Gather 323 Medals: 324
+  Gather 324 Medals: 325
+  Gather 325 Medals: 326
+  Gather 326 Medals: 327
+  Gather 327 Medals: 328
+  Gather 328 Medals: 329
+  Gather 329 Medals: 330
+  Gather 33 Medals: 34
+  Gather 330 Medals: 331
+  Gather 331 Medals: 332
+  Gather 332 Medals: 333
+  Gather 333 Medals: 334
+  Gather 334 Medals: 335
+  Gather 335 Medals: 336
+  Gather 336 Medals: 337
+  Gather 337 Medals: 338
+  Gather 338 Medals: 339
+  Gather 339 Medals: 340
+  Gather 34 Medals: 35
+  Gather 340 Medals: 341
+  Gather 341 Medals: 342
+  Gather 342 Medals: 343
+  Gather 343 Medals: 344
+  Gather 344 Medals: 345
+  Gather 345 Medals: 346
+  Gather 346 Medals: 347
+  Gather 347 Medals: 348
+  Gather 348 Medals: 349
+  Gather 349 Medals: 350
+  Gather 35 Medals: 36
+  Gather 350 Medals: 351
+  Gather 351 Medals: 352
+  Gather 352 Medals: 353
+  Gather 353 Medals: 354
+  Gather 354 Medals: 355
+  Gather 355 Medals: 356
+  Gather 356 Medals: 357
+  Gather 357 Medals: 358
+  Gather 358 Medals: 359
+  Gather 359 Medals: 360
+  Gather 36 Medals: 37
+  Gather 360 Medals: 361
+  Gather 361 Medals: 362
+  Gather 362 Medals: 363
+  Gather 363 Medals: 364
+  Gather 364 Medals: 365
+  Gather 365 Medals: 366
+  Gather 366 Medals: 367
+  Gather 367 Medals: 368
+  Gather 368 Medals: 369
+  Gather 369 Medals: 370
+  Gather 37 Medals: 38
+  Gather 370 Medals: 371
+  Gather 371 Medals: 372
+  Gather 372 Medals: 373
+  Gather 373 Medals: 374
+  Gather 374 Medals: 375
+  Gather 375 Medals: 376
+  Gather 376 Medals: 377
+  Gather 377 Medals: 378
+  Gather 378 Medals: 379
+  Gather 379 Medals: 380
+  Gather 38 Medals: 39
+  Gather 380 Medals: 381
+  Gather 381 Medals: 382
+  Gather 382 Medals: 383
+  Gather 383 Medals: 384
+  Gather 384 Medals: 385
+  Gather 385 Medals: 386
+  Gather 386 Medals: 387
+  Gather 387 Medals: 388
+  Gather 388 Medals: 389
+  Gather 389 Medals: 390
+  Gather 39 Medals: 40
+  Gather 390 Medals: 391
+  Gather 391 Medals: 392
+  Gather 392 Medals: 393
+  Gather 393 Medals: 394
+  Gather 394 Medals: 395
+  Gather 395 Medals: 396
+  Gather 396 Medals: 397
+  Gather 397 Medals: 398
+  Gather 398 Medals: 399
+  Gather 399 Medals: 400
+  Gather 4 Medals: 5
+  Gather 40 Medals: 41
+  Gather 400 Medals: 401
+  Gather 401 Medals: 402
+  Gather 402 Medals: 403
+  Gather 403 Medals: 404
+  Gather 404 Medals: 405
+  Gather 405 Medals: 406
+  Gather 406 Medals: 407
+  Gather 407 Medals: 408
+  Gather 408 Medals: 409
+  Gather 409 Medals: 410
+  Gather 41 Medals: 42
+  Gather 410 Medals: 411
+  Gather 411 Medals: 412
+  Gather 412 Medals: 413
+  Gather 413 Medals: 414
+  Gather 414 Medals: 415
+  Gather 415 Medals: 416
+  Gather 416 Medals: 417
+  Gather 417 Medals: 418
+  Gather 418 Medals: 419
+  Gather 419 Medals: 420
+  Gather 42 Medals: 43
+  Gather 420 Medals: 421
+  Gather 421 Medals: 422
+  Gather 422 Medals: 423
+  Gather 423 Medals: 424
+  Gather 424 Medals: 425
+  Gather 425 Medals: 426
+  Gather 426 Medals: 427
+  Gather 427 Medals: 428
+  Gather 428 Medals: 429
+  Gather 429 Medals: 430
+  Gather 43 Medals: 44
+  Gather 430 Medals: 431
+  Gather 431 Medals: 432
+  Gather 432 Medals: 433
+  Gather 433 Medals: 434
+  Gather 434 Medals: 435
+  Gather 435 Medals: 436
+  Gather 436 Medals: 437
+  Gather 437 Medals: 438
+  Gather 438 Medals: 439
+  Gather 439 Medals: 440
+  Gather 44 Medals: 45
+  Gather 440 Medals: 441
+  Gather 441 Medals: 442
+  Gather 442 Medals: 443
+  Gather 443 Medals: 444
+  Gather 444 Medals: 445
+  Gather 445 Medals: 446
+  Gather 446 Medals: 447
+  Gather 447 Medals: 448
+  Gather 448 Medals: 449
+  Gather 449 Medals: 450
+  Gather 45 Medals: 46
+  Gather 450 Medals: 451
+  Gather 451 Medals: 452
+  Gather 452 Medals: 453
+  Gather 453 Medals: 454
+  Gather 454 Medals: 455
+  Gather 455 Medals: 456
+  Gather 456 Medals: 457
+  Gather 457 Medals: 458
+  Gather 458 Medals: 459
+  Gather 459 Medals: 460
+  Gather 46 Medals: 47
+  Gather 460 Medals: 461
+  Gather 461 Medals: 462
+  Gather 462 Medals: 463
+  Gather 463 Medals: 464
+  Gather 464 Medals: 465
+  Gather 465 Medals: 466
+  Gather 466 Medals: 467
+  Gather 467 Medals: 468
+  Gather 468 Medals: 469
+  Gather 469 Medals: 470
+  Gather 47 Medals: 48
+  Gather 470 Medals: 471
+  Gather 471 Medals: 472
+  Gather 472 Medals: 473
+  Gather 473 Medals: 474
+  Gather 474 Medals: 475
+  Gather 475 Medals: 476
+  Gather 476 Medals: 477
+  Gather 477 Medals: 478
+  Gather 478 Medals: 479
+  Gather 479 Medals: 480
+  Gather 48 Medals: 49
+  Gather 480 Medals: 481
+  Gather 481 Medals: 482
+  Gather 482 Medals: 483
+  Gather 483 Medals: 484
+  Gather 484 Medals: 485
+  Gather 485 Medals: 486
+  Gather 486 Medals: 487
+  Gather 487 Medals: 488
+  Gather 488 Medals: 489
+  Gather 489 Medals: 490
+  Gather 49 Medals: 50
+  Gather 490 Medals: 491
+  Gather 491 Medals: 492
+  Gather 492 Medals: 493
+  Gather 493 Medals: 494
+  Gather 494 Medals: 495
+  Gather 495 Medals: 496
+  Gather 496 Medals: 497
+  Gather 497 Medals: 498
+  Gather 498 Medals: 499
+  Gather 499 Medals: 500
+  Gather 5 Medals: 6
+  Gather 50 Medals: 51
+  Gather 500 Medals: 501
+  Gather 51 Medals: 52
+  Gather 52 Medals: 53
+  Gather 53 Medals: 54
+  Gather 54 Medals: 55
+  Gather 55 Medals: 56
+  Gather 56 Medals: 57
+  Gather 57 Medals: 58
+  Gather 58 Medals: 59
+  Gather 59 Medals: 60
+  Gather 6 Medals: 7
+  Gather 60 Medals: 61
+  Gather 61 Medals: 62
+  Gather 62 Medals: 63
+  Gather 63 Medals: 64
+  Gather 64 Medals: 65
+  Gather 65 Medals: 66
+  Gather 66 Medals: 67
+  Gather 67 Medals: 68
+  Gather 68 Medals: 69
+  Gather 69 Medals: 70
+  Gather 7 Medals: 8
+  Gather 70 Medals: 71
+  Gather 71 Medals: 72
+  Gather 72 Medals: 73
+  Gather 73 Medals: 74
+  Gather 74 Medals: 75
+  Gather 75 Medals: 76
+  Gather 76 Medals: 77
+  Gather 77 Medals: 78
+  Gather 78 Medals: 79
+  Gather 79 Medals: 80
+  Gather 8 Medals: 9
+  Gather 80 Medals: 81
+  Gather 81 Medals: 82
+  Gather 82 Medals: 83
+  Gather 83 Medals: 84
+  Gather 84 Medals: 85
+  Gather 85 Medals: 86
+  Gather 86 Medals: 87
+  Gather 87 Medals: 88
+  Gather 88 Medals: 89
+  Gather 89 Medals: 90
+  Gather 9 Medals: 10
+  Gather 90 Medals: 91
+  Gather 91 Medals: 92
+  Gather 92 Medals: 93
+  Gather 93 Medals: 94
+  Gather 94 Medals: 95
+  Gather 95 Medals: 96
+  Gather 96 Medals: 97
+  Gather 97 Medals: 98
+  Gather 98 Medals: 99
+  Gather 99 Medals: 100
+  Genji - Get Eliminations (1): 1087
+  Genji - Get Eliminations (2): 1088
+  Genji - Get Eliminations (3): 1089
+  Genji - Get Eliminations (4): 1090
+  Genji - Get Eliminations (5): 1091
+  Goal (Gather 1 Medal): 502
+  Goal (Gather 10 Medals): 511
+  Goal (Gather 100 Medals): 601
+  Goal (Gather 101 Medals): 602
+  Goal (Gather 102 Medals): 603
+  Goal (Gather 103 Medals): 604
+  Goal (Gather 104 Medals): 605
+  Goal (Gather 105 Medals): 606
+  Goal (Gather 106 Medals): 607
+  Goal (Gather 107 Medals): 608
+  Goal (Gather 108 Medals): 609
+  Goal (Gather 109 Medals): 610
+  Goal (Gather 11 Medals): 512
+  Goal (Gather 110 Medals): 611
+  Goal (Gather 111 Medals): 612
+  Goal (Gather 112 Medals): 613
+  Goal (Gather 113 Medals): 614
+  Goal (Gather 114 Medals): 615
+  Goal (Gather 115 Medals): 616
+  Goal (Gather 116 Medals): 617
+  Goal (Gather 117 Medals): 618
+  Goal (Gather 118 Medals): 619
+  Goal (Gather 119 Medals): 620
+  Goal (Gather 12 Medals): 513
+  Goal (Gather 120 Medals): 621
+  Goal (Gather 121 Medals): 622
+  Goal (Gather 122 Medals): 623
+  Goal (Gather 123 Medals): 624
+  Goal (Gather 124 Medals): 625
+  Goal (Gather 125 Medals): 626
+  Goal (Gather 126 Medals): 627
+  Goal (Gather 127 Medals): 628
+  Goal (Gather 128 Medals): 629
+  Goal (Gather 129 Medals): 630
+  Goal (Gather 13 Medals): 514
+  Goal (Gather 130 Medals): 631
+  Goal (Gather 131 Medals): 632
+  Goal (Gather 132 Medals): 633
+  Goal (Gather 133 Medals): 634
+  Goal (Gather 134 Medals): 635
+  Goal (Gather 135 Medals): 636
+  Goal (Gather 136 Medals): 637
+  Goal (Gather 137 Medals): 638
+  Goal (Gather 138 Medals): 639
+  Goal (Gather 139 Medals): 640
+  Goal (Gather 14 Medals): 515
+  Goal (Gather 140 Medals): 641
+  Goal (Gather 141 Medals): 642
+  Goal (Gather 142 Medals): 643
+  Goal (Gather 143 Medals): 644
+  Goal (Gather 144 Medals): 645
+  Goal (Gather 145 Medals): 646
+  Goal (Gather 146 Medals): 647
+  Goal (Gather 147 Medals): 648
+  Goal (Gather 148 Medals): 649
+  Goal (Gather 149 Medals): 650
+  Goal (Gather 15 Medals): 516
+  Goal (Gather 150 Medals): 651
+  Goal (Gather 151 Medals): 652
+  Goal (Gather 152 Medals): 653
+  Goal (Gather 153 Medals): 654
+  Goal (Gather 154 Medals): 655
+  Goal (Gather 155 Medals): 656
+  Goal (Gather 156 Medals): 657
+  Goal (Gather 157 Medals): 658
+  Goal (Gather 158 Medals): 659
+  Goal (Gather 159 Medals): 660
+  Goal (Gather 16 Medals): 517
+  Goal (Gather 160 Medals): 661
+  Goal (Gather 161 Medals): 662
+  Goal (Gather 162 Medals): 663
+  Goal (Gather 163 Medals): 664
+  Goal (Gather 164 Medals): 665
+  Goal (Gather 165 Medals): 666
+  Goal (Gather 166 Medals): 667
+  Goal (Gather 167 Medals): 668
+  Goal (Gather 168 Medals): 669
+  Goal (Gather 169 Medals): 670
+  Goal (Gather 17 Medals): 518
+  Goal (Gather 170 Medals): 671
+  Goal (Gather 171 Medals): 672
+  Goal (Gather 172 Medals): 673
+  Goal (Gather 173 Medals): 674
+  Goal (Gather 174 Medals): 675
+  Goal (Gather 175 Medals): 676
+  Goal (Gather 176 Medals): 677
+  Goal (Gather 177 Medals): 678
+  Goal (Gather 178 Medals): 679
+  Goal (Gather 179 Medals): 680
+  Goal (Gather 18 Medals): 519
+  Goal (Gather 180 Medals): 681
+  Goal (Gather 181 Medals): 682
+  Goal (Gather 182 Medals): 683
+  Goal (Gather 183 Medals): 684
+  Goal (Gather 184 Medals): 685
+  Goal (Gather 185 Medals): 686
+  Goal (Gather 186 Medals): 687
+  Goal (Gather 187 Medals): 688
+  Goal (Gather 188 Medals): 689
+  Goal (Gather 189 Medals): 690
+  Goal (Gather 19 Medals): 520
+  Goal (Gather 190 Medals): 691
+  Goal (Gather 191 Medals): 692
+  Goal (Gather 192 Medals): 693
+  Goal (Gather 193 Medals): 694
+  Goal (Gather 194 Medals): 695
+  Goal (Gather 195 Medals): 696
+  Goal (Gather 196 Medals): 697
+  Goal (Gather 197 Medals): 698
+  Goal (Gather 198 Medals): 699
+  Goal (Gather 199 Medals): 700
+  Goal (Gather 2 Medals): 503
+  Goal (Gather 20 Medals): 521
+  Goal (Gather 200 Medals): 701
+  Goal (Gather 201 Medals): 702
+  Goal (Gather 202 Medals): 703
+  Goal (Gather 203 Medals): 704
+  Goal (Gather 204 Medals): 705
+  Goal (Gather 205 Medals): 706
+  Goal (Gather 206 Medals): 707
+  Goal (Gather 207 Medals): 708
+  Goal (Gather 208 Medals): 709
+  Goal (Gather 209 Medals): 710
+  Goal (Gather 21 Medals): 522
+  Goal (Gather 210 Medals): 711
+  Goal (Gather 211 Medals): 712
+  Goal (Gather 212 Medals): 713
+  Goal (Gather 213 Medals): 714
+  Goal (Gather 214 Medals): 715
+  Goal (Gather 215 Medals): 716
+  Goal (Gather 216 Medals): 717
+  Goal (Gather 217 Medals): 718
+  Goal (Gather 218 Medals): 719
+  Goal (Gather 219 Medals): 720
+  Goal (Gather 22 Medals): 523
+  Goal (Gather 220 Medals): 721
+  Goal (Gather 221 Medals): 722
+  Goal (Gather 222 Medals): 723
+  Goal (Gather 223 Medals): 724
+  Goal (Gather 224 Medals): 725
+  Goal (Gather 225 Medals): 726
+  Goal (Gather 226 Medals): 727
+  Goal (Gather 227 Medals): 728
+  Goal (Gather 228 Medals): 729
+  Goal (Gather 229 Medals): 730
+  Goal (Gather 23 Medals): 524
+  Goal (Gather 230 Medals): 731
+  Goal (Gather 231 Medals): 732
+  Goal (Gather 232 Medals): 733
+  Goal (Gather 233 Medals): 734
+  Goal (Gather 234 Medals): 735
+  Goal (Gather 235 Medals): 736
+  Goal (Gather 236 Medals): 737
+  Goal (Gather 237 Medals): 738
+  Goal (Gather 238 Medals): 739
+  Goal (Gather 239 Medals): 740
+  Goal (Gather 24 Medals): 525
+  Goal (Gather 240 Medals): 741
+  Goal (Gather 241 Medals): 742
+  Goal (Gather 242 Medals): 743
+  Goal (Gather 243 Medals): 744
+  Goal (Gather 244 Medals): 745
+  Goal (Gather 245 Medals): 746
+  Goal (Gather 246 Medals): 747
+  Goal (Gather 247 Medals): 748
+  Goal (Gather 248 Medals): 749
+  Goal (Gather 249 Medals): 750
+  Goal (Gather 25 Medals): 526
+  Goal (Gather 250 Medals): 751
+  Goal (Gather 251 Medals): 752
+  Goal (Gather 252 Medals): 753
+  Goal (Gather 253 Medals): 754
+  Goal (Gather 254 Medals): 755
+  Goal (Gather 255 Medals): 756
+  Goal (Gather 256 Medals): 757
+  Goal (Gather 257 Medals): 758
+  Goal (Gather 258 Medals): 759
+  Goal (Gather 259 Medals): 760
+  Goal (Gather 26 Medals): 527
+  Goal (Gather 260 Medals): 761
+  Goal (Gather 261 Medals): 762
+  Goal (Gather 262 Medals): 763
+  Goal (Gather 263 Medals): 764
+  Goal (Gather 264 Medals): 765
+  Goal (Gather 265 Medals): 766
+  Goal (Gather 266 Medals): 767
+  Goal (Gather 267 Medals): 768
+  Goal (Gather 268 Medals): 769
+  Goal (Gather 269 Medals): 770
+  Goal (Gather 27 Medals): 528
+  Goal (Gather 270 Medals): 771
+  Goal (Gather 271 Medals): 772
+  Goal (Gather 272 Medals): 773
+  Goal (Gather 273 Medals): 774
+  Goal (Gather 274 Medals): 775
+  Goal (Gather 275 Medals): 776
+  Goal (Gather 276 Medals): 777
+  Goal (Gather 277 Medals): 778
+  Goal (Gather 278 Medals): 779
+  Goal (Gather 279 Medals): 780
+  Goal (Gather 28 Medals): 529
+  Goal (Gather 280 Medals): 781
+  Goal (Gather 281 Medals): 782
+  Goal (Gather 282 Medals): 783
+  Goal (Gather 283 Medals): 784
+  Goal (Gather 284 Medals): 785
+  Goal (Gather 285 Medals): 786
+  Goal (Gather 286 Medals): 787
+  Goal (Gather 287 Medals): 788
+  Goal (Gather 288 Medals): 789
+  Goal (Gather 289 Medals): 790
+  Goal (Gather 29 Medals): 530
+  Goal (Gather 290 Medals): 791
+  Goal (Gather 291 Medals): 792
+  Goal (Gather 292 Medals): 793
+  Goal (Gather 293 Medals): 794
+  Goal (Gather 294 Medals): 795
+  Goal (Gather 295 Medals): 796
+  Goal (Gather 296 Medals): 797
+  Goal (Gather 297 Medals): 798
+  Goal (Gather 298 Medals): 799
+  Goal (Gather 299 Medals): 800
+  Goal (Gather 3 Medals): 504
+  Goal (Gather 30 Medals): 531
+  Goal (Gather 300 Medals): 801
+  Goal (Gather 301 Medals): 802
+  Goal (Gather 302 Medals): 803
+  Goal (Gather 303 Medals): 804
+  Goal (Gather 304 Medals): 805
+  Goal (Gather 305 Medals): 806
+  Goal (Gather 306 Medals): 807
+  Goal (Gather 307 Medals): 808
+  Goal (Gather 308 Medals): 809
+  Goal (Gather 309 Medals): 810
+  Goal (Gather 31 Medals): 532
+  Goal (Gather 310 Medals): 811
+  Goal (Gather 311 Medals): 812
+  Goal (Gather 312 Medals): 813
+  Goal (Gather 313 Medals): 814
+  Goal (Gather 314 Medals): 815
+  Goal (Gather 315 Medals): 816
+  Goal (Gather 316 Medals): 817
+  Goal (Gather 317 Medals): 818
+  Goal (Gather 318 Medals): 819
+  Goal (Gather 319 Medals): 820
+  Goal (Gather 32 Medals): 533
+  Goal (Gather 320 Medals): 821
+  Goal (Gather 321 Medals): 822
+  Goal (Gather 322 Medals): 823
+  Goal (Gather 323 Medals): 824
+  Goal (Gather 324 Medals): 825
+  Goal (Gather 325 Medals): 826
+  Goal (Gather 326 Medals): 827
+  Goal (Gather 327 Medals): 828
+  Goal (Gather 328 Medals): 829
+  Goal (Gather 329 Medals): 830
+  Goal (Gather 33 Medals): 534
+  Goal (Gather 330 Medals): 831
+  Goal (Gather 331 Medals): 832
+  Goal (Gather 332 Medals): 833
+  Goal (Gather 333 Medals): 834
+  Goal (Gather 334 Medals): 835
+  Goal (Gather 335 Medals): 836
+  Goal (Gather 336 Medals): 837
+  Goal (Gather 337 Medals): 838
+  Goal (Gather 338 Medals): 839
+  Goal (Gather 339 Medals): 840
+  Goal (Gather 34 Medals): 535
+  Goal (Gather 340 Medals): 841
+  Goal (Gather 341 Medals): 842
+  Goal (Gather 342 Medals): 843
+  Goal (Gather 343 Medals): 844
+  Goal (Gather 344 Medals): 845
+  Goal (Gather 345 Medals): 846
+  Goal (Gather 346 Medals): 847
+  Goal (Gather 347 Medals): 848
+  Goal (Gather 348 Medals): 849
+  Goal (Gather 349 Medals): 850
+  Goal (Gather 35 Medals): 536
+  Goal (Gather 350 Medals): 851
+  Goal (Gather 351 Medals): 852
+  Goal (Gather 352 Medals): 853
+  Goal (Gather 353 Medals): 854
+  Goal (Gather 354 Medals): 855
+  Goal (Gather 355 Medals): 856
+  Goal (Gather 356 Medals): 857
+  Goal (Gather 357 Medals): 858
+  Goal (Gather 358 Medals): 859
+  Goal (Gather 359 Medals): 860
+  Goal (Gather 36 Medals): 537
+  Goal (Gather 360 Medals): 861
+  Goal (Gather 361 Medals): 862
+  Goal (Gather 362 Medals): 863
+  Goal (Gather 363 Medals): 864
+  Goal (Gather 364 Medals): 865
+  Goal (Gather 365 Medals): 866
+  Goal (Gather 366 Medals): 867
+  Goal (Gather 367 Medals): 868
+  Goal (Gather 368 Medals): 869
+  Goal (Gather 369 Medals): 870
+  Goal (Gather 37 Medals): 538
+  Goal (Gather 370 Medals): 871
+  Goal (Gather 371 Medals): 872
+  Goal (Gather 372 Medals): 873
+  Goal (Gather 373 Medals): 874
+  Goal (Gather 374 Medals): 875
+  Goal (Gather 375 Medals): 876
+  Goal (Gather 376 Medals): 877
+  Goal (Gather 377 Medals): 878
+  Goal (Gather 378 Medals): 879
+  Goal (Gather 379 Medals): 880
+  Goal (Gather 38 Medals): 539
+  Goal (Gather 380 Medals): 881
+  Goal (Gather 381 Medals): 882
+  Goal (Gather 382 Medals): 883
+  Goal (Gather 383 Medals): 884
+  Goal (Gather 384 Medals): 885
+  Goal (Gather 385 Medals): 886
+  Goal (Gather 386 Medals): 887
+  Goal (Gather 387 Medals): 888
+  Goal (Gather 388 Medals): 889
+  Goal (Gather 389 Medals): 890
+  Goal (Gather 39 Medals): 540
+  Goal (Gather 390 Medals): 891
+  Goal (Gather 391 Medals): 892
+  Goal (Gather 392 Medals): 893
+  Goal (Gather 393 Medals): 894
+  Goal (Gather 394 Medals): 895
+  Goal (Gather 395 Medals): 896
+  Goal (Gather 396 Medals): 897
+  Goal (Gather 397 Medals): 898
+  Goal (Gather 398 Medals): 899
+  Goal (Gather 399 Medals): 900
+  Goal (Gather 4 Medals): 505
+  Goal (Gather 40 Medals): 541
+  Goal (Gather 400 Medals): 901
+  Goal (Gather 401 Medals): 902
+  Goal (Gather 402 Medals): 903
+  Goal (Gather 403 Medals): 904
+  Goal (Gather 404 Medals): 905
+  Goal (Gather 405 Medals): 906
+  Goal (Gather 406 Medals): 907
+  Goal (Gather 407 Medals): 908
+  Goal (Gather 408 Medals): 909
+  Goal (Gather 409 Medals): 910
+  Goal (Gather 41 Medals): 542
+  Goal (Gather 410 Medals): 911
+  Goal (Gather 411 Medals): 912
+  Goal (Gather 412 Medals): 913
+  Goal (Gather 413 Medals): 914
+  Goal (Gather 414 Medals): 915
+  Goal (Gather 415 Medals): 916
+  Goal (Gather 416 Medals): 917
+  Goal (Gather 417 Medals): 918
+  Goal (Gather 418 Medals): 919
+  Goal (Gather 419 Medals): 920
+  Goal (Gather 42 Medals): 543
+  Goal (Gather 420 Medals): 921
+  Goal (Gather 421 Medals): 922
+  Goal (Gather 422 Medals): 923
+  Goal (Gather 423 Medals): 924
+  Goal (Gather 424 Medals): 925
+  Goal (Gather 425 Medals): 926
+  Goal (Gather 426 Medals): 927
+  Goal (Gather 427 Medals): 928
+  Goal (Gather 428 Medals): 929
+  Goal (Gather 429 Medals): 930
+  Goal (Gather 43 Medals): 544
+  Goal (Gather 430 Medals): 931
+  Goal (Gather 431 Medals): 932
+  Goal (Gather 432 Medals): 933
+  Goal (Gather 433 Medals): 934
+  Goal (Gather 434 Medals): 935
+  Goal (Gather 435 Medals): 936
+  Goal (Gather 436 Medals): 937
+  Goal (Gather 437 Medals): 938
+  Goal (Gather 438 Medals): 939
+  Goal (Gather 439 Medals): 940
+  Goal (Gather 44 Medals): 545
+  Goal (Gather 440 Medals): 941
+  Goal (Gather 441 Medals): 942
+  Goal (Gather 442 Medals): 943
+  Goal (Gather 443 Medals): 944
+  Goal (Gather 444 Medals): 945
+  Goal (Gather 445 Medals): 946
+  Goal (Gather 446 Medals): 947
+  Goal (Gather 447 Medals): 948
+  Goal (Gather 448 Medals): 949
+  Goal (Gather 449 Medals): 950
+  Goal (Gather 45 Medals): 546
+  Goal (Gather 450 Medals): 951
+  Goal (Gather 451 Medals): 952
+  Goal (Gather 452 Medals): 953
+  Goal (Gather 453 Medals): 954
+  Goal (Gather 454 Medals): 955
+  Goal (Gather 455 Medals): 956
+  Goal (Gather 456 Medals): 957
+  Goal (Gather 457 Medals): 958
+  Goal (Gather 458 Medals): 959
+  Goal (Gather 459 Medals): 960
+  Goal (Gather 46 Medals): 547
+  Goal (Gather 460 Medals): 961
+  Goal (Gather 461 Medals): 962
+  Goal (Gather 462 Medals): 963
+  Goal (Gather 463 Medals): 964
+  Goal (Gather 464 Medals): 965
+  Goal (Gather 465 Medals): 966
+  Goal (Gather 466 Medals): 967
+  Goal (Gather 467 Medals): 968
+  Goal (Gather 468 Medals): 969
+  Goal (Gather 469 Medals): 970
+  Goal (Gather 47 Medals): 548
+  Goal (Gather 470 Medals): 971
+  Goal (Gather 471 Medals): 972
+  Goal (Gather 472 Medals): 973
+  Goal (Gather 473 Medals): 974
+  Goal (Gather 474 Medals): 975
+  Goal (Gather 475 Medals): 976
+  Goal (Gather 476 Medals): 977
+  Goal (Gather 477 Medals): 978
+  Goal (Gather 478 Medals): 979
+  Goal (Gather 479 Medals): 980
+  Goal (Gather 48 Medals): 549
+  Goal (Gather 480 Medals): 981
+  Goal (Gather 481 Medals): 982
+  Goal (Gather 482 Medals): 983
+  Goal (Gather 483 Medals): 984
+  Goal (Gather 484 Medals): 985
+  Goal (Gather 485 Medals): 986
+  Goal (Gather 486 Medals): 987
+  Goal (Gather 487 Medals): 988
+  Goal (Gather 488 Medals): 989
+  Goal (Gather 489 Medals): 990
+  Goal (Gather 49 Medals): 550
+  Goal (Gather 490 Medals): 991
+  Goal (Gather 491 Medals): 992
+  Goal (Gather 492 Medals): 993
+  Goal (Gather 493 Medals): 994
+  Goal (Gather 494 Medals): 995
+  Goal (Gather 495 Medals): 996
+  Goal (Gather 496 Medals): 997
+  Goal (Gather 497 Medals): 998
+  Goal (Gather 498 Medals): 999
+  Goal (Gather 499 Medals): 1000
+  Goal (Gather 5 Medals): 506
+  Goal (Gather 50 Medals): 551
+  Goal (Gather 500 Medals): 1001
+  Goal (Gather 51 Medals): 552
+  Goal (Gather 52 Medals): 553
+  Goal (Gather 53 Medals): 554
+  Goal (Gather 54 Medals): 555
+  Goal (Gather 55 Medals): 556
+  Goal (Gather 56 Medals): 557
+  Goal (Gather 57 Medals): 558
+  Goal (Gather 58 Medals): 559
+  Goal (Gather 59 Medals): 560
+  Goal (Gather 6 Medals): 507
+  Goal (Gather 60 Medals): 561
+  Goal (Gather 61 Medals): 562
+  Goal (Gather 62 Medals): 563
+  Goal (Gather 63 Medals): 564
+  Goal (Gather 64 Medals): 565
+  Goal (Gather 65 Medals): 566
+  Goal (Gather 66 Medals): 567
+  Goal (Gather 67 Medals): 568
+  Goal (Gather 68 Medals): 569
+  Goal (Gather 69 Medals): 570
+  Goal (Gather 7 Medals): 508
+  Goal (Gather 70 Medals): 571
+  Goal (Gather 71 Medals): 572
+  Goal (Gather 72 Medals): 573
+  Goal (Gather 73 Medals): 574
+  Goal (Gather 74 Medals): 575
+  Goal (Gather 75 Medals): 576
+  Goal (Gather 76 Medals): 577
+  Goal (Gather 77 Medals): 578
+  Goal (Gather 78 Medals): 579
+  Goal (Gather 79 Medals): 580
+  Goal (Gather 8 Medals): 509
+  Goal (Gather 80 Medals): 581
+  Goal (Gather 81 Medals): 582
+  Goal (Gather 82 Medals): 583
+  Goal (Gather 83 Medals): 584
+  Goal (Gather 84 Medals): 585
+  Goal (Gather 85 Medals): 586
+  Goal (Gather 86 Medals): 587
+  Goal (Gather 87 Medals): 588
+  Goal (Gather 88 Medals): 589
+  Goal (Gather 89 Medals): 590
+  Goal (Gather 9 Medals): 510
+  Goal (Gather 90 Medals): 591
+  Goal (Gather 91 Medals): 592
+  Goal (Gather 92 Medals): 593
+  Goal (Gather 93 Medals): 594
+  Goal (Gather 94 Medals): 595
+  Goal (Gather 95 Medals): 596
+  Goal (Gather 96 Medals): 597
+  Goal (Gather 97 Medals): 598
+  Goal (Gather 98 Medals): 599
+  Goal (Gather 99 Medals): 600
+  Goal (Medal Hunt): 1
+  Hanzo - Get Eliminations (1): 1092
+  Hanzo - Get Eliminations (2): 1093
+  Hanzo - Get Eliminations (3): 1094
+  Hanzo - Get Eliminations (4): 1095
+  Hanzo - Get Eliminations (5): 1096
+  Hazard - Get Eliminations (1): 1012
+  Hazard - Get Eliminations (2): 1013
+  Hazard - Get Eliminations (3): 1014
+  Hazard - Get Eliminations (4): 1015
+  Hazard - Get Eliminations (5): 1016
+  Hero Mastery - Brigitte - Agent - Check 1: 1440
+  Hero Mastery - Brigitte - Agent - Check 2: 1441
+  Hero Mastery - Brigitte - Agent - Check 3: 1442
+  Hero Mastery - Brigitte - Agent - Check 4: 1443
+  Hero Mastery - Brigitte - Agent - Check 5: 1444
+  Hero Mastery - Brigitte - Recruit - Check 1: 1435
+  Hero Mastery - Brigitte - Recruit - Check 2: 1436
+  Hero Mastery - Brigitte - Recruit - Check 3: 1437
+  Hero Mastery - Brigitte - Recruit - Check 4: 1438
+  Hero Mastery - Brigitte - Recruit - Check 5: 1439
+  Hero Mastery - Brigitte - Veteran - Check 1: 1445
+  Hero Mastery - Brigitte - Veteran - Check 2: 1446
+  Hero Mastery - Brigitte - Veteran - Check 3: 1447
+  Hero Mastery - Brigitte - Veteran - Check 4: 1448
+  Hero Mastery - Brigitte - Veteran - Check 5: 1449
+  Hero Mastery - Cassidy - Agent - Check 1: 1425
+  Hero Mastery - Cassidy - Agent - Check 2: 1426
+  Hero Mastery - Cassidy - Agent - Check 3: 1427
+  Hero Mastery - Cassidy - Agent - Check 4: 1428
+  Hero Mastery - Cassidy - Agent - Check 5: 1429
+  Hero Mastery - Cassidy - Recruit - Check 1: 1420
+  Hero Mastery - Cassidy - Recruit - Check 2: 1421
+  Hero Mastery - Cassidy - Recruit - Check 3: 1422
+  Hero Mastery - Cassidy - Recruit - Check 4: 1423
+  Hero Mastery - Cassidy - Recruit - Check 5: 1424
+  Hero Mastery - Cassidy - Veteran - Check 1: 1430
+  Hero Mastery - Cassidy - Veteran - Check 2: 1431
+  Hero Mastery - Cassidy - Veteran - Check 3: 1432
+  Hero Mastery - Cassidy - Veteran - Check 4: 1433
+  Hero Mastery - Cassidy - Veteran - Check 5: 1434
+  Hero Mastery - DVa - Agent - Check 1: 1320
+  Hero Mastery - DVa - Agent - Check 2: 1321
+  Hero Mastery - DVa - Agent - Check 3: 1322
+  Hero Mastery - DVa - Agent - Check 4: 1323
+  Hero Mastery - DVa - Agent - Check 5: 1324
+  Hero Mastery - DVa - Recruit - Check 1: 1315
+  Hero Mastery - DVa - Recruit - Check 2: 1316
+  Hero Mastery - DVa - Recruit - Check 3: 1317
+  Hero Mastery - DVa - Recruit - Check 4: 1318
+  Hero Mastery - DVa - Recruit - Check 5: 1319
+  Hero Mastery - DVa - Veteran - Check 1: 1325
+  Hero Mastery - DVa - Veteran - Check 2: 1326
+  Hero Mastery - DVa - Veteran - Check 3: 1327
+  Hero Mastery - DVa - Veteran - Check 4: 1328
+  Hero Mastery - DVa - Veteran - Check 5: 1329
+  Hero Mastery - Echo - Agent - Check 1: 1335
+  Hero Mastery - Echo - Agent - Check 2: 1336
+  Hero Mastery - Echo - Agent - Check 3: 1337
+  Hero Mastery - Echo - Agent - Check 4: 1338
+  Hero Mastery - Echo - Agent - Check 5: 1339
+  Hero Mastery - Echo - Recruit - Check 1: 1330
+  Hero Mastery - Echo - Recruit - Check 2: 1331
+  Hero Mastery - Echo - Recruit - Check 3: 1332
+  Hero Mastery - Echo - Recruit - Check 4: 1333
+  Hero Mastery - Echo - Recruit - Check 5: 1334
+  Hero Mastery - Echo - Veteran - Check 1: 1340
+  Hero Mastery - Echo - Veteran - Check 2: 1341
+  Hero Mastery - Echo - Veteran - Check 3: 1342
+  Hero Mastery - Echo - Veteran - Check 4: 1343
+  Hero Mastery - Echo - Veteran - Check 5: 1344
+  Hero Mastery - Genji - Agent - Check 1: 1350
+  Hero Mastery - Genji - Agent - Check 2: 1351
+  Hero Mastery - Genji - Agent - Check 3: 1352
+  Hero Mastery - Genji - Agent - Check 4: 1353
+  Hero Mastery - Genji - Agent - Check 5: 1354
+  Hero Mastery - Genji - Recruit - Check 1: 1345
+  Hero Mastery - Genji - Recruit - Check 2: 1346
+  Hero Mastery - Genji - Recruit - Check 3: 1347
+  Hero Mastery - Genji - Recruit - Check 4: 1348
+  Hero Mastery - Genji - Recruit - Check 5: 1349
+  Hero Mastery - Genji - Veteran - Check 1: 1355
+  Hero Mastery - Genji - Veteran - Check 2: 1356
+  Hero Mastery - Genji - Veteran - Check 3: 1357
+  Hero Mastery - Genji - Veteran - Check 4: 1358
+  Hero Mastery - Genji - Veteran - Check 5: 1359
+  Hero Mastery - Kiriko - Agent - Check 1: 1410
+  Hero Mastery - Kiriko - Agent - Check 2: 1411
+  Hero Mastery - Kiriko - Agent - Check 3: 1412
+  Hero Mastery - Kiriko - Agent - Check 4: 1413
+  Hero Mastery - Kiriko - Agent - Check 5: 1414
+  Hero Mastery - Kiriko - Recruit - Check 1: 1405
+  Hero Mastery - Kiriko - Recruit - Check 2: 1406
+  Hero Mastery - Kiriko - Recruit - Check 3: 1407
+  Hero Mastery - Kiriko - Recruit - Check 4: 1408
+  Hero Mastery - Kiriko - Recruit - Check 5: 1409
+  Hero Mastery - Kiriko - Veteran - Check 1: 1415
+  Hero Mastery - Kiriko - Veteran - Check 2: 1416
+  Hero Mastery - Kiriko - Veteran - Check 3: 1417
+  Hero Mastery - Kiriko - Veteran - Check 4: 1418
+  Hero Mastery - Kiriko - Veteran - Check 5: 1419
+  Hero Mastery - Lucio - Agent - Check 1: 1365
+  Hero Mastery - Lucio - Agent - Check 2: 1366
+  Hero Mastery - Lucio - Agent - Check 3: 1367
+  Hero Mastery - Lucio - Agent - Check 4: 1368
+  Hero Mastery - Lucio - Agent - Check 5: 1369
+  Hero Mastery - Lucio - Recruit - Check 1: 1360
+  Hero Mastery - Lucio - Recruit - Check 2: 1361
+  Hero Mastery - Lucio - Recruit - Check 3: 1362
+  Hero Mastery - Lucio - Recruit - Check 4: 1363
+  Hero Mastery - Lucio - Recruit - Check 5: 1364
+  Hero Mastery - Lucio - Veteran - Check 1: 1370
+  Hero Mastery - Lucio - Veteran - Check 2: 1371
+  Hero Mastery - Lucio - Veteran - Check 3: 1372
+  Hero Mastery - Lucio - Veteran - Check 4: 1373
+  Hero Mastery - Lucio - Veteran - Check 5: 1374
+  Hero Mastery - Mei - Agent - Check 1: 1380
+  Hero Mastery - Mei - Agent - Check 2: 1381
+  Hero Mastery - Mei - Agent - Check 3: 1382
+  Hero Mastery - Mei - Agent - Check 4: 1383
+  Hero Mastery - Mei - Agent - Check 5: 1384
+  Hero Mastery - Mei - Recruit - Check 1: 1375
+  Hero Mastery - Mei - Recruit - Check 2: 1376
+  Hero Mastery - Mei - Recruit - Check 3: 1377
+  Hero Mastery - Mei - Recruit - Check 4: 1378
+  Hero Mastery - Mei - Recruit - Check 5: 1379
+  Hero Mastery - Mei - Veteran - Check 1: 1385
+  Hero Mastery - Mei - Veteran - Check 2: 1386
+  Hero Mastery - Mei - Veteran - Check 3: 1387
+  Hero Mastery - Mei - Veteran - Check 4: 1388
+  Hero Mastery - Mei - Veteran - Check 5: 1389
+  Hero Mastery - Mercy - Agent - Check 1: 1245
+  Hero Mastery - Mercy - Agent - Check 2: 1246
+  Hero Mastery - Mercy - Agent - Check 3: 1247
+  Hero Mastery - Mercy - Agent - Check 4: 1248
+  Hero Mastery - Mercy - Agent - Check 5: 1249
+  Hero Mastery - Mercy - Recruit - Check 1: 1240
+  Hero Mastery - Mercy - Recruit - Check 2: 1241
+  Hero Mastery - Mercy - Recruit - Check 3: 1242
+  Hero Mastery - Mercy - Recruit - Check 4: 1243
+  Hero Mastery - Mercy - Recruit - Check 5: 1244
+  Hero Mastery - Mercy - Veteran - Check 1: 1250
+  Hero Mastery - Mercy - Veteran - Check 2: 1251
+  Hero Mastery - Mercy - Veteran - Check 3: 1252
+  Hero Mastery - Mercy - Veteran - Check 4: 1253
+  Hero Mastery - Mercy - Veteran - Check 5: 1254
+  Hero Mastery - Reinhardt - Agent - Check 1: 1260
+  Hero Mastery - Reinhardt - Agent - Check 2: 1261
+  Hero Mastery - Reinhardt - Agent - Check 3: 1262
+  Hero Mastery - Reinhardt - Agent - Check 4: 1263
+  Hero Mastery - Reinhardt - Agent - Check 5: 1264
+  Hero Mastery - Reinhardt - Recruit - Check 1: 1255
+  Hero Mastery - Reinhardt - Recruit - Check 2: 1256
+  Hero Mastery - Reinhardt - Recruit - Check 3: 1257
+  Hero Mastery - Reinhardt - Recruit - Check 4: 1258
+  Hero Mastery - Reinhardt - Recruit - Check 5: 1259
+  Hero Mastery - Reinhardt - Veteran - Check 1: 1265
+  Hero Mastery - Reinhardt - Veteran - Check 2: 1266
+  Hero Mastery - Reinhardt - Veteran - Check 3: 1267
+  Hero Mastery - Reinhardt - Veteran - Check 4: 1268
+  Hero Mastery - Reinhardt - Veteran - Check 5: 1269
+  Hero Mastery - Sojourn - Agent - Check 1: 1290
+  Hero Mastery - Sojourn - Agent - Check 2: 1291
+  Hero Mastery - Sojourn - Agent - Check 3: 1292
+  Hero Mastery - Sojourn - Agent - Check 4: 1293
+  Hero Mastery - Sojourn - Agent - Check 5: 1294
+  Hero Mastery - Sojourn - Recruit - Check 1: 1285
+  Hero Mastery - Sojourn - Recruit - Check 2: 1286
+  Hero Mastery - Sojourn - Recruit - Check 3: 1287
+  Hero Mastery - Sojourn - Recruit - Check 4: 1288
+  Hero Mastery - Sojourn - Recruit - Check 5: 1289
+  Hero Mastery - Sojourn - Veteran - Check 1: 1295
+  Hero Mastery - Sojourn - Veteran - Check 2: 1296
+  Hero Mastery - Sojourn - Veteran - Check 3: 1297
+  Hero Mastery - Sojourn - Veteran - Check 4: 1298
+  Hero Mastery - Sojourn - Veteran - Check 5: 1299
+  Hero Mastery - Soldier 76 - Agent - Check 1: 1395
+  Hero Mastery - Soldier 76 - Agent - Check 2: 1396
+  Hero Mastery - Soldier 76 - Agent - Check 3: 1397
+  Hero Mastery - Soldier 76 - Agent - Check 4: 1398
+  Hero Mastery - Soldier 76 - Agent - Check 5: 1399
+  Hero Mastery - Soldier 76 - Recruit - Check 1: 1390
+  Hero Mastery - Soldier 76 - Recruit - Check 2: 1391
+  Hero Mastery - Soldier 76 - Recruit - Check 3: 1392
+  Hero Mastery - Soldier 76 - Recruit - Check 4: 1393
+  Hero Mastery - Soldier 76 - Recruit - Check 5: 1394
+  Hero Mastery - Soldier 76 - Veteran - Check 1: 1400
+  Hero Mastery - Soldier 76 - Veteran - Check 2: 1401
+  Hero Mastery - Soldier 76 - Veteran - Check 3: 1402
+  Hero Mastery - Soldier 76 - Veteran - Check 4: 1403
+  Hero Mastery - Soldier 76 - Veteran - Check 5: 1404
+  Hero Mastery - Tracer - Agent - Check 1: 1275
+  Hero Mastery - Tracer - Agent - Check 2: 1276
+  Hero Mastery - Tracer - Agent - Check 3: 1277
+  Hero Mastery - Tracer - Agent - Check 4: 1278
+  Hero Mastery - Tracer - Agent - Check 5: 1279
+  Hero Mastery - Tracer - Recruit - Check 1: 1270
+  Hero Mastery - Tracer - Recruit - Check 2: 1271
+  Hero Mastery - Tracer - Recruit - Check 3: 1272
+  Hero Mastery - Tracer - Recruit - Check 4: 1273
+  Hero Mastery - Tracer - Recruit - Check 5: 1274
+  Hero Mastery - Tracer - Veteran - Check 1: 1280
+  Hero Mastery - Tracer - Veteran - Check 2: 1281
+  Hero Mastery - Tracer - Veteran - Check 3: 1282
+  Hero Mastery - Tracer - Veteran - Check 4: 1283
+  Hero Mastery - Tracer - Veteran - Check 5: 1284
+  Hero Mastery - Winston - Agent - Check 1: 1305
+  Hero Mastery - Winston - Agent - Check 2: 1306
+  Hero Mastery - Winston - Agent - Check 3: 1307
+  Hero Mastery - Winston - Agent - Check 4: 1308
+  Hero Mastery - Winston - Agent - Check 5: 1309
+  Hero Mastery - Winston - Recruit - Check 1: 1300
+  Hero Mastery - Winston - Recruit - Check 2: 1301
+  Hero Mastery - Winston - Recruit - Check 3: 1302
+  Hero Mastery - Winston - Recruit - Check 4: 1303
+  Hero Mastery - Winston - Recruit - Check 5: 1304
+  Hero Mastery - Winston - Veteran - Check 1: 1310
+  Hero Mastery - Winston - Veteran - Check 2: 1311
+  Hero Mastery - Winston - Veteran - Check 3: 1312
+  Hero Mastery - Winston - Veteran - Check 4: 1313
+  Hero Mastery - Winston - Veteran - Check 5: 1314
+  Illari - Get Eliminations (1): 1172
+  Illari - Get Eliminations (2): 1173
+  Illari - Get Eliminations (3): 1174
+  Illari - Get Eliminations (4): 1175
+  Illari - Get Eliminations (5): 1176
+  Junker Queen - Get Eliminations (1): 1017
+  Junker Queen - Get Eliminations (2): 1018
+  Junker Queen - Get Eliminations (3): 1019
+  Junker Queen - Get Eliminations (4): 1020
+  Junker Queen - Get Eliminations (5): 1021
+  Junkrat - Get Eliminations (1): 1097
+  Junkrat - Get Eliminations (2): 1098
+  Junkrat - Get Eliminations (3): 1099
+  Junkrat - Get Eliminations (4): 1100
+  Junkrat - Get Eliminations (5): 1101
+  Juno - Get Eliminations (1): 1177
+  Juno - Get Eliminations (2): 1178
+  Juno - Get Eliminations (3): 1179
+  Juno - Get Eliminations (4): 1180
+  Juno - Get Eliminations (5): 1181
+  Kiriko - Get Eliminations (1): 1182
+  Kiriko - Get Eliminations (2): 1183
+  Kiriko - Get Eliminations (3): 1184
+  Kiriko - Get Eliminations (4): 1185
+  Kiriko - Get Eliminations (5): 1186
+  Lifeweaver - Get Eliminations (1): 1187
+  Lifeweaver - Get Eliminations (2): 1188
+  Lifeweaver - Get Eliminations (3): 1189
+  Lifeweaver - Get Eliminations (4): 1190
+  Lifeweaver - Get Eliminations (5): 1191
+  Lucio - Get Eliminations (1): 1192
+  Lucio - Get Eliminations (2): 1193
+  Lucio - Get Eliminations (3): 1194
+  Lucio - Get Eliminations (4): 1195
+  Lucio - Get Eliminations (5): 1196
+  Mauga - Get Eliminations (1): 1022
+  Mauga - Get Eliminations (2): 1023
+  Mauga - Get Eliminations (3): 1024
+  Mauga - Get Eliminations (4): 1025
+  Mauga - Get Eliminations (5): 1026
+  Mei - Get Eliminations (1): 1102
+  Mei - Get Eliminations (2): 1103
+  Mei - Get Eliminations (3): 1104
+  Mei - Get Eliminations (4): 1105
+  Mei - Get Eliminations (5): 1106
+  Mercy - Get Eliminations (1): 1197
+  Mercy - Get Eliminations (2): 1198
+  Mercy - Get Eliminations (3): 1199
+  Mercy - Get Eliminations (4): 1200
+  Mercy - Get Eliminations (5): 1201
+  Moira - Get Eliminations (1): 1202
+  Moira - Get Eliminations (2): 1203
+  Moira - Get Eliminations (3): 1204
+  Moira - Get Eliminations (4): 1205
+  Moira - Get Eliminations (5): 1206
+  Orisa - Get Eliminations (1): 1027
+  Orisa - Get Eliminations (2): 1028
+  Orisa - Get Eliminations (3): 1029
+  Orisa - Get Eliminations (4): 1030
+  Orisa - Get Eliminations (5): 1031
+  Pharah - Get Eliminations (1): 1107
+  Pharah - Get Eliminations (2): 1108
+  Pharah - Get Eliminations (3): 1109
+  Pharah - Get Eliminations (4): 1110
+  Pharah - Get Eliminations (5): 1111
+  Ramattra - Get Eliminations (1): 1032
+  Ramattra - Get Eliminations (2): 1033
+  Ramattra - Get Eliminations (3): 1034
+  Ramattra - Get Eliminations (4): 1035
+  Ramattra - Get Eliminations (5): 1036
+  Reaper - Get Eliminations (1): 1112
+  Reaper - Get Eliminations (2): 1113
+  Reaper - Get Eliminations (3): 1114
+  Reaper - Get Eliminations (4): 1115
+  Reaper - Get Eliminations (5): 1116
+  Reinhardt - Get Eliminations (1): 1037
+  Reinhardt - Get Eliminations (2): 1038
+  Reinhardt - Get Eliminations (3): 1039
+  Reinhardt - Get Eliminations (4): 1040
+  Reinhardt - Get Eliminations (5): 1041
+  Roadhog - Get Eliminations (1): 1042
+  Roadhog - Get Eliminations (2): 1043
+  Roadhog - Get Eliminations (3): 1044
+  Roadhog - Get Eliminations (4): 1045
+  Roadhog - Get Eliminations (5): 1046
+  Sigma - Get Eliminations (1): 1047
+  Sigma - Get Eliminations (2): 1048
+  Sigma - Get Eliminations (3): 1049
+  Sigma - Get Eliminations (4): 1050
+  Sigma - Get Eliminations (5): 1051
+  Sojourn - Get Eliminations (1): 1117
+  Sojourn - Get Eliminations (2): 1118
+  Sojourn - Get Eliminations (3): 1119
+  Sojourn - Get Eliminations (4): 1120
+  Sojourn - Get Eliminations (5): 1121
+  Soldier 76 - Get Eliminations (1): 1122
+  Soldier 76 - Get Eliminations (2): 1123
+  Soldier 76 - Get Eliminations (3): 1124
+  Soldier 76 - Get Eliminations (4): 1125
+  Soldier 76 - Get Eliminations (5): 1126
+  Solo Deathmatch - Check 1: 1230
+  Solo Deathmatch - Check 2: 1231
+  Solo Deathmatch - Check 3: 1232
+  Solo Deathmatch - Check 4: 1233
+  Solo Deathmatch - Check 5: 1234
+  Sombra - Get Eliminations (1): 1127
+  Sombra - Get Eliminations (2): 1128
+  Sombra - Get Eliminations (3): 1129
+  Sombra - Get Eliminations (4): 1130
+  Sombra - Get Eliminations (5): 1131
+  Symmetra - Get Eliminations (1): 1132
+  Symmetra - Get Eliminations (2): 1133
+  Symmetra - Get Eliminations (3): 1134
+  Symmetra - Get Eliminations (4): 1135
+  Symmetra - Get Eliminations (5): 1136
+  Team Deathmatch - Check 1: 1235
+  Team Deathmatch - Check 2: 1236
+  Team Deathmatch - Check 3: 1237
+  Team Deathmatch - Check 4: 1238
+  Team Deathmatch - Check 5: 1239
+  Torbjorn - Get Eliminations (1): 1137
+  Torbjorn - Get Eliminations (2): 1138
+  Torbjorn - Get Eliminations (3): 1139
+  Torbjorn - Get Eliminations (4): 1140
+  Torbjorn - Get Eliminations (5): 1141
+  Tracer - Get Eliminations (1): 1142
+  Tracer - Get Eliminations (2): 1143
+  Tracer - Get Eliminations (3): 1144
+  Tracer - Get Eliminations (4): 1145
+  Tracer - Get Eliminations (5): 1146
+  Venture - Get Eliminations (1): 1147
+  Venture - Get Eliminations (2): 1148
+  Venture - Get Eliminations (3): 1149
+  Venture - Get Eliminations (4): 1150
+  Venture - Get Eliminations (5): 1151
+  Widowmaker - Get Eliminations (1): 1152
+  Widowmaker - Get Eliminations (2): 1153
+  Widowmaker - Get Eliminations (3): 1154
+  Widowmaker - Get Eliminations (4): 1155
+  Widowmaker - Get Eliminations (5): 1156
+  Win Clash as Damage Role: 1223
+  Win Clash as Support Role: 1229
+  Win Clash as Tank Role: 1217
+  Win Control as Damage Role: 1218
+  Win Control as Support Role: 1224
+  Win Control as Tank Role: 1212
+  Win Escort as Damage Role: 1219
+  Win Escort as Support Role: 1225
+  Win Escort as Tank Role: 1213
+  Win Flashpoint as Damage Role: 1220
+  Win Flashpoint as Support Role: 1226
+  Win Flashpoint as Tank Role: 1214
+  Win Hybrid as Damage Role: 1221
+  Win Hybrid as Support Role: 1227
+  Win Hybrid as Tank Role: 1215
+  Win Push as Damage Role: 1222
+  Win Push as Support Role: 1228
+  Win Push as Tank Role: 1216
+  Winston - Get Eliminations (1): 1052
+  Winston - Get Eliminations (2): 1053
+  Winston - Get Eliminations (3): 1054
+  Winston - Get Eliminations (4): 1055
+  Winston - Get Eliminations (5): 1056
+  Wrecking Ball - Get Eliminations (1): 1057
+  Wrecking Ball - Get Eliminations (2): 1058
+  Wrecking Ball - Get Eliminations (3): 1059
+  Wrecking Ball - Get Eliminations (4): 1060
+  Wrecking Ball - Get Eliminations (5): 1061
+  Zarya - Get Eliminations (1): 1062
+  Zarya - Get Eliminations (2): 1063
+  Zarya - Get Eliminations (3): 1064
+  Zarya - Get Eliminations (4): 1065
+  Zarya - Get Eliminations (5): 1066
+  Zenyatta - Get Eliminations (1): 1207
+  Zenyatta - Get Eliminations (2): 1208
+  Zenyatta - Get Eliminations (3): 1209
+  Zenyatta - Get Eliminations (4): 1210
+  Zenyatta - Get Eliminations (5): 1211
