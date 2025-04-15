@@ -1,0 +1,107 @@
+      {
+        "name": "Hero Mastery - HERONAME",
+        "children": [
+          {
+            "name": "Hero Mastery - HERONAME - Recruit",
+            "access_rules": [
+              "Mastery_HERONAME, HeroMastery_complete",
+              "Mastery_HERONAME:1, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "HERONAME - Recruit - Check 1"
+              },
+              {
+                "name": "HERONAME - Recruit - Check 2"
+              },
+              {
+                "name": "HERONAME - Recruit - Check 3"
+              },
+              {
+                "name": "HERONAME - Recruit - Check 4"
+              },
+              {
+                "name": "HERONAME - Recruit - Check 5"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": POS_MAIN_X_1, "y": POS_MAIN_Y_1
+              },
+              {
+                "map": "Mastery",
+                "x": POS_MASTERY_X_1, "y": POS_MASTERY_Y_1
+              }
+            ]
+          },
+          {
+            "name": "Hero Mastery - HERONAME - Agent",
+            "access_rules": [
+              "Mastery_HERONAME, HeroMastery_complete",
+              "Mastery_HERONAME:2, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "HERONAME - Agent - Check 1"
+              },
+              {
+                "name": "HERONAME - Agent - Check 2"
+              },
+              {
+                "name": "HERONAME - Agent - Check 3"
+              },
+              {
+                "name": "HERONAME - Agent - Check 4"
+              },
+              {
+                "name": "HERONAME - Agent - Check 5"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": POS_MAIN_X_2, "y": POS_MAIN_Y_2
+              },
+              {
+                "map": "Mastery",
+                "x": POS_MASTERY_X_2, "y": POS_MASTERY_Y_2
+              }
+            ]
+          },
+          {
+            "name": "Hero Mastery - HERONAME - Veteran",
+            "access_rules": [
+              "Mastery_HERONAME, HeroMastery_complete",
+              "Mastery_HERONAME:3, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "HERONAME - Veteran - Check 1"
+              },
+              {
+                "name": "HERONAME - Veteran - Check 2"
+              },
+              {
+                "name": "HERONAME - Veteran - Check 3"
+              },
+              {
+                "name": "HERONAME - Veteran - Check 4"
+              },
+              {
+                "name": "HERONAME - Veteran - Check 5"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": POS_MAIN_X_3, "y": POS_MAIN_Y_3
+              },
+              {
+                "map": "Mastery",
+                "x": POS_MASTERY_X_3, "y": POS_MASTERY_Y_3
+              }
+            ]
+          }
+        ]
+      },

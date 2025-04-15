@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Hero Masteries",
+    "visibility_rules": [
+      "HeroMastery_progressive",
+      "HeroMastery_complete"
+    ],
+    "children": [
