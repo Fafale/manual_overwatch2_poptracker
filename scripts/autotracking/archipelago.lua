@@ -7,6 +7,8 @@
 ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
 
+ScriptHost:LoadScript("scripts/autotracking/slot_data.lua")
+
 CUR_INDEX = -1
 LOCAL_ITEMS = {}
 GLOBAL_ITEMS = {}
