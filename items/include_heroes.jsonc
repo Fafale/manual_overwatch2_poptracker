@@ -212,7 +212,7 @@
   {
     "name": "Include Mastery Brigitte",
     "type": "toggle",
-    "img": "images/roles/tank.png"
+    "codes": "IncludeMastery_Brigitte"
   },
   {
     "name": "Include Mastery Cassidy",
