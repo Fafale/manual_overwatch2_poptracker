@@ -36,6 +36,7 @@ if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     Tracker:AddLocations("locations/masteries.jsonc")
     Tracker:AddLocations("locations/deathmatch.jsonc")
     Tracker:AddLocations("locations/generic_wins.jsonc")
+    Tracker:AddLocations("locations/eliminations.jsonc")
 end
 
 -- Layout
