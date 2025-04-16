@@ -37,8 +37,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 30, "y": 30
+                "map": "Main", "size": 30,
+                "x": 1095, "y": 420
               },
               {
                 "map": "Mastery",
@@ -75,8 +75,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 60, "y": 30
+                "map": "Main", "size": 30,
+                "x": 1140, "y": 420
               },
               {
                 "map": "Mastery",
@@ -113,8 +113,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 90, "y": 30
+                "map": "Main", "size": 30,
+                "x": 1185, "y": 420
               },
               {
                 "map": "Mastery",
@@ -156,8 +156,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 130, "y": 30
+                "map": "Main", "size": 30,
+                "x": 1263, "y": 420
               },
               {
                 "map": "Mastery",
@@ -194,8 +194,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 160, "y": 30
+                "map": "Main", "size": 30,
+                "x": 1308, "y": 420
               },
               {
                 "map": "Mastery",
@@ -232,8 +232,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 190, "y": 30
+                "map": "Main", "size": 30,
+                "x": 1353, "y": 420
               },
               {
                 "map": "Mastery",
@@ -275,8 +275,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 230, "y": 30
+                "map": "Main", "size": 30,
+                "x": 1431, "y": 420
               },
               {
                 "map": "Mastery",
@@ -313,8 +313,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 260, "y": 30
+                "map": "Main", "size": 30,
+                "x": 1476, "y": 420
               },
               {
                 "map": "Mastery",
@@ -351,8 +351,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 290, "y": 30
+                "map": "Main", "size": 30,
+                "x": 1521, "y": 420
               },
               {
                 "map": "Mastery",
@@ -394,8 +394,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 330, "y": 30
+                "map": "Main", "size": 30,
+                "x": 1599, "y": 420
               },
               {
                 "map": "Mastery",
@@ -432,8 +432,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 360, "y": 30
+                "map": "Main", "size": 30,
+                "x": 1644, "y": 420
               },
               {
                 "map": "Mastery",
@@ -470,8 +470,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 390, "y": 30
+                "map": "Main", "size": 30,
+                "x": 1689, "y": 420
               },
               {
                 "map": "Mastery",
@@ -513,8 +513,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 430, "y": 30
+                "map": "Main", "size": 30,
+                "x": 1767, "y": 420
               },
               {
                 "map": "Mastery",
@@ -551,8 +551,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 460, "y": 30
+                "map": "Main", "size": 30,
+                "x": 1812, "y": 420
               },
               {
                 "map": "Mastery",
@@ -589,8 +589,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 490, "y": 30
+                "map": "Main", "size": 30,
+                "x": 1857, "y": 420
               },
               {
                 "map": "Mastery",
@@ -632,8 +632,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 530, "y": 30
+                "map": "Main", "size": 30,
+                "x": 1935, "y": 420
               },
               {
                 "map": "Mastery",
@@ -670,8 +670,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 560, "y": 30
+                "map": "Main", "size": 30,
+                "x": 1980, "y": 420
               },
               {
                 "map": "Mastery",
@@ -708,8 +708,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 590, "y": 30
+                "map": "Main", "size": 30,
+                "x": 2025, "y": 420
               },
               {
                 "map": "Mastery",
@@ -751,8 +751,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 630, "y": 30
+                "map": "Main", "size": 30,
+                "x": 2103, "y": 420
               },
               {
                 "map": "Mastery",
@@ -789,8 +789,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 660, "y": 30
+                "map": "Main", "size": 30,
+                "x": 2148, "y": 420
               },
               {
                 "map": "Mastery",
@@ -827,8 +827,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 690, "y": 30
+                "map": "Main", "size": 30,
+                "x": 2193, "y": 420
               },
               {
                 "map": "Mastery",
@@ -870,8 +870,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 30, "y": 70
+                "map": "Main", "size": 30,
+                "x": 1095, "y": 740
               },
               {
                 "map": "Mastery",
@@ -908,8 +908,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 60, "y": 70
+                "map": "Main", "size": 30,
+                "x": 1140, "y": 740
               },
               {
                 "map": "Mastery",
@@ -946,8 +946,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 90, "y": 70
+                "map": "Main", "size": 30,
+                "x": 1185, "y": 740
               },
               {
                 "map": "Mastery",
@@ -989,8 +989,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 130, "y": 70
+                "map": "Main", "size": 30,
+                "x": 1263, "y": 740
               },
               {
                 "map": "Mastery",
@@ -1027,8 +1027,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 160, "y": 70
+                "map": "Main", "size": 30,
+                "x": 1308, "y": 740
               },
               {
                 "map": "Mastery",
@@ -1065,8 +1065,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 190, "y": 70
+                "map": "Main", "size": 30,
+                "x": 1353, "y": 740
               },
               {
                 "map": "Mastery",
@@ -1108,8 +1108,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 230, "y": 70
+                "map": "Main", "size": 30,
+                "x": 1431, "y": 740
               },
               {
                 "map": "Mastery",
@@ -1146,8 +1146,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 260, "y": 70
+                "map": "Main", "size": 30,
+                "x": 1476, "y": 740
               },
               {
                 "map": "Mastery",
@@ -1184,8 +1184,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 290, "y": 70
+                "map": "Main", "size": 30,
+                "x": 1521, "y": 740
               },
               {
                 "map": "Mastery",
@@ -1227,8 +1227,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 330, "y": 70
+                "map": "Main", "size": 30,
+                "x": 1599, "y": 740
               },
               {
                 "map": "Mastery",
@@ -1265,8 +1265,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 360, "y": 70
+                "map": "Main", "size": 30,
+                "x": 1644, "y": 740
               },
               {
                 "map": "Mastery",
@@ -1303,8 +1303,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 390, "y": 70
+                "map": "Main", "size": 30,
+                "x": 1689, "y": 740
               },
               {
                 "map": "Mastery",
@@ -1346,8 +1346,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 430, "y": 70
+                "map": "Main", "size": 30,
+                "x": 1767, "y": 740
               },
               {
                 "map": "Mastery",
@@ -1384,8 +1384,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 460, "y": 70
+                "map": "Main", "size": 30,
+                "x": 1812, "y": 740
               },
               {
                 "map": "Mastery",
@@ -1422,8 +1422,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 490, "y": 70
+                "map": "Main", "size": 30,
+                "x": 1857, "y": 740
               },
               {
                 "map": "Mastery",
@@ -1465,8 +1465,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 530, "y": 70
+                "map": "Main", "size": 30,
+                "x": 1935, "y": 740
               },
               {
                 "map": "Mastery",
@@ -1503,8 +1503,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 560, "y": 70
+                "map": "Main", "size": 30,
+                "x": 1980, "y": 740
               },
               {
                 "map": "Mastery",
@@ -1541,8 +1541,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 590, "y": 70
+                "map": "Main", "size": 30,
+                "x": 2025, "y": 740
               },
               {
                 "map": "Mastery",
@@ -1584,8 +1584,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 630, "y": 70
+                "map": "Main", "size": 30,
+                "x": 2103, "y": 740
               },
               {
                 "map": "Mastery",
@@ -1622,8 +1622,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 660, "y": 70
+                "map": "Main", "size": 30,
+                "x": 2148, "y": 740
               },
               {
                 "map": "Mastery",
@@ -1660,8 +1660,8 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
-                "x": 690, "y": 70
+                "map": "Main", "size": 30,
+                "x": 2193, "y": 740
               },
               {
                 "map": "Mastery",
