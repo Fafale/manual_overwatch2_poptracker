@@ -4,4 +4,7 @@
         "access_rules": [
           "Category_ROLENAME:1"
         ],
+        "visibility_rules": [
+          "IncludeRole_ROLENAME"
+        ],
         "children": [

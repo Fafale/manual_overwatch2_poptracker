@@ -7,6 +7,9 @@
         "access_rules": [
           "Category_Tank:1"
         ],
+        "visibility_rules": [
+          "IncludeRole_Tank"
+        ],
         "children": [
           {
             "name": "Win Control as Tank",
@@ -97,13 +100,16 @@
                 "x": 295, "y": 838
               }
             ]
-          },
+          }
         ]
       },
       {
         "name": "Win as Damage",
         "access_rules": [
           "Category_Damage:1"
+        ],
+        "visibility_rules": [
+          "IncludeRole_Damage"
         ],
         "children": [
           {
@@ -195,13 +201,16 @@
                 "x": 413, "y": 838
               }
             ]
-          },
+          }
         ]
       },
       {
         "name": "Win as Support",
         "access_rules": [
           "Category_Support:1"
+        ],
+        "visibility_rules": [
+          "IncludeRole_Support"
         ],
         "children": [
           {
@@ -293,9 +302,9 @@
                 "x": 531, "y": 838
               }
             ]
-          },
+          }
         ]
-      },
+      }
     ]
   }
 ]
