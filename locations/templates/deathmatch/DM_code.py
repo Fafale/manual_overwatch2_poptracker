@@ -20,7 +20,7 @@ location_size = 30
 template_start = open(r"locations/templates/deathmatch/DM_main_start.txt", 'r')
 template_end = open(r"locations/templates/deathmatch/DM_main_end.txt", 'r')
 
-filepath_template = r"locations\templates\deathmatch\DM_mode.jsonc"
+filepath_template = r"locations\templates\deathmatch\DM_template.jsonc"
 
 final_template = template_start.read()
 
