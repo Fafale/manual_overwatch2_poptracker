@@ -1,5 +1,6 @@
 [
   // Hero Mastery
+
   {
     "name": "Include Hero Masteries",
     "type": "progressive",
@@ -33,6 +34,24 @@
     "max_quantity": 5,
     "initial_quantity": 1,
     "codes": "HeroMastery_CheckAmount",
+    "img": "images/items/consumable.png"
+  },
+
+  // Hero Eliminations
+  
+  {
+    "name": "Include Hero Eliminations",
+    "type": "toggle",
+    "codes": "HeroElimination_Include",
+    "img": "images/items/toggle.png"
+  },
+  {
+    "name": "Hero Eliminations Check Amount",
+    "type": "consumable",
+    "min_quantity": 1,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "codes": "HeroElimination_CheckAmount",
     "img": "images/items/consumable.png"
   },
 

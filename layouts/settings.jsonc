@@ -66,6 +66,10 @@
                 "IncludeRole_Tank",
                 "IncludeRole_Damage",
                 "IncludeRole_Support"
+              ],
+              [
+                "HeroElimination_Include",
+                "HeroElimination_CheckAmount"
               ]
             ]
           }
