@@ -1,0 +1,1396 @@
+[
+  {
+    "name": "Hero Eliminations",
+    "visibility_rules": [
+      "HeroElimination_Include"
+    ],
+    "children": [
+    {
+      "name": "Hero Eliminations - DVa",
+      "visibility_rules": [
+        "IncludeHero_DVa, IncludeRole_Tank"
+      ],
+      "sections": [
+        {
+          "name": "DVa - Get Eliminations (1)"
+        },
+        {
+          "name": "DVa - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "DVa - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "DVa - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "DVa - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 295, "y": 278
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Doomfist",
+      "visibility_rules": [
+        "IncludeHero_Doomfist, IncludeRole_Tank"
+      ],
+      "sections": [
+        {
+          "name": "Doomfist - Get Eliminations (1)"
+        },
+        {
+          "name": "Doomfist - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Doomfist - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Doomfist - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Doomfist - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 295, "y": 278
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Hazard",
+      "visibility_rules": [
+        "IncludeHero_Hazard, IncludeRole_Tank"
+      ],
+      "sections": [
+        {
+          "name": "Hazard - Get Eliminations (1)"
+        },
+        {
+          "name": "Hazard - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Hazard - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Hazard - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Hazard - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 295, "y": 278
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Junker Queen",
+      "visibility_rules": [
+        "IncludeHero_Junker Queen, IncludeRole_Tank"
+      ],
+      "sections": [
+        {
+          "name": "Junker Queen - Get Eliminations (1)"
+        },
+        {
+          "name": "Junker Queen - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Junker Queen - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Junker Queen - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Junker Queen - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 295, "y": 278
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Mauga",
+      "visibility_rules": [
+        "IncludeHero_Mauga, IncludeRole_Tank"
+      ],
+      "sections": [
+        {
+          "name": "Mauga - Get Eliminations (1)"
+        },
+        {
+          "name": "Mauga - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Mauga - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Mauga - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Mauga - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 295, "y": 278
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Orisa",
+      "visibility_rules": [
+        "IncludeHero_Orisa, IncludeRole_Tank"
+      ],
+      "sections": [
+        {
+          "name": "Orisa - Get Eliminations (1)"
+        },
+        {
+          "name": "Orisa - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Orisa - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Orisa - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Orisa - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 295, "y": 278
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Ramattra",
+      "visibility_rules": [
+        "IncludeHero_Ramattra, IncludeRole_Tank"
+      ],
+      "sections": [
+        {
+          "name": "Ramattra - Get Eliminations (1)"
+        },
+        {
+          "name": "Ramattra - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Ramattra - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Ramattra - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Ramattra - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 295, "y": 278
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Reinhardt",
+      "visibility_rules": [
+        "IncludeHero_Reinhardt, IncludeRole_Tank"
+      ],
+      "sections": [
+        {
+          "name": "Reinhardt - Get Eliminations (1)"
+        },
+        {
+          "name": "Reinhardt - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Reinhardt - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Reinhardt - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Reinhardt - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 295, "y": 278
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Roadhog",
+      "visibility_rules": [
+        "IncludeHero_Roadhog, IncludeRole_Tank"
+      ],
+      "sections": [
+        {
+          "name": "Roadhog - Get Eliminations (1)"
+        },
+        {
+          "name": "Roadhog - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Roadhog - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Roadhog - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Roadhog - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 295, "y": 278
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Sigma",
+      "visibility_rules": [
+        "IncludeHero_Sigma, IncludeRole_Tank"
+      ],
+      "sections": [
+        {
+          "name": "Sigma - Get Eliminations (1)"
+        },
+        {
+          "name": "Sigma - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Sigma - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Sigma - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Sigma - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 295, "y": 278
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Winston",
+      "visibility_rules": [
+        "IncludeHero_Winston, IncludeRole_Tank"
+      ],
+      "sections": [
+        {
+          "name": "Winston - Get Eliminations (1)"
+        },
+        {
+          "name": "Winston - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Winston - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Winston - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Winston - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 295, "y": 278
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Wrecking Ball",
+      "visibility_rules": [
+        "IncludeHero_Wrecking Ball, IncludeRole_Tank"
+      ],
+      "sections": [
+        {
+          "name": "Wrecking Ball - Get Eliminations (1)"
+        },
+        {
+          "name": "Wrecking Ball - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Wrecking Ball - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Wrecking Ball - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Wrecking Ball - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 295, "y": 278
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Zarya",
+      "visibility_rules": [
+        "IncludeHero_Zarya, IncludeRole_Tank"
+      ],
+      "sections": [
+        {
+          "name": "Zarya - Get Eliminations (1)"
+        },
+        {
+          "name": "Zarya - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Zarya - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Zarya - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Zarya - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 295, "y": 278
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Ashe",
+      "visibility_rules": [
+        "IncludeHero_Ashe, IncludeRole_Damage"
+      ],
+      "sections": [
+        {
+          "name": "Ashe - Get Eliminations (1)"
+        },
+        {
+          "name": "Ashe - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Ashe - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Ashe - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Ashe - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 413, "y": 390
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Bastion",
+      "visibility_rules": [
+        "IncludeHero_Bastion, IncludeRole_Damage"
+      ],
+      "sections": [
+        {
+          "name": "Bastion - Get Eliminations (1)"
+        },
+        {
+          "name": "Bastion - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Bastion - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Bastion - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Bastion - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 413, "y": 390
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Cassidy",
+      "visibility_rules": [
+        "IncludeHero_Cassidy, IncludeRole_Damage"
+      ],
+      "sections": [
+        {
+          "name": "Cassidy - Get Eliminations (1)"
+        },
+        {
+          "name": "Cassidy - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Cassidy - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Cassidy - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Cassidy - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 413, "y": 390
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Echo",
+      "visibility_rules": [
+        "IncludeHero_Echo, IncludeRole_Damage"
+      ],
+      "sections": [
+        {
+          "name": "Echo - Get Eliminations (1)"
+        },
+        {
+          "name": "Echo - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Echo - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Echo - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Echo - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 413, "y": 390
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Genji",
+      "visibility_rules": [
+        "IncludeHero_Genji, IncludeRole_Damage"
+      ],
+      "sections": [
+        {
+          "name": "Genji - Get Eliminations (1)"
+        },
+        {
+          "name": "Genji - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Genji - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Genji - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Genji - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 413, "y": 390
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Hanzo",
+      "visibility_rules": [
+        "IncludeHero_Hanzo, IncludeRole_Damage"
+      ],
+      "sections": [
+        {
+          "name": "Hanzo - Get Eliminations (1)"
+        },
+        {
+          "name": "Hanzo - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Hanzo - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Hanzo - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Hanzo - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 413, "y": 390
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Junkrat",
+      "visibility_rules": [
+        "IncludeHero_Junkrat, IncludeRole_Damage"
+      ],
+      "sections": [
+        {
+          "name": "Junkrat - Get Eliminations (1)"
+        },
+        {
+          "name": "Junkrat - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Junkrat - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Junkrat - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Junkrat - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 413, "y": 390
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Mei",
+      "visibility_rules": [
+        "IncludeHero_Mei, IncludeRole_Damage"
+      ],
+      "sections": [
+        {
+          "name": "Mei - Get Eliminations (1)"
+        },
+        {
+          "name": "Mei - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Mei - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Mei - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Mei - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 413, "y": 390
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Pharah",
+      "visibility_rules": [
+        "IncludeHero_Pharah, IncludeRole_Damage"
+      ],
+      "sections": [
+        {
+          "name": "Pharah - Get Eliminations (1)"
+        },
+        {
+          "name": "Pharah - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Pharah - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Pharah - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Pharah - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 413, "y": 390
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Reaper",
+      "visibility_rules": [
+        "IncludeHero_Reaper, IncludeRole_Damage"
+      ],
+      "sections": [
+        {
+          "name": "Reaper - Get Eliminations (1)"
+        },
+        {
+          "name": "Reaper - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Reaper - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Reaper - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Reaper - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 413, "y": 390
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Sojourn",
+      "visibility_rules": [
+        "IncludeHero_Sojourn, IncludeRole_Damage"
+      ],
+      "sections": [
+        {
+          "name": "Sojourn - Get Eliminations (1)"
+        },
+        {
+          "name": "Sojourn - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Sojourn - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Sojourn - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Sojourn - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 413, "y": 390
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Soldier 76",
+      "visibility_rules": [
+        "IncludeHero_Soldier 76, IncludeRole_Damage"
+      ],
+      "sections": [
+        {
+          "name": "Soldier 76 - Get Eliminations (1)"
+        },
+        {
+          "name": "Soldier 76 - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Soldier 76 - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Soldier 76 - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Soldier 76 - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 413, "y": 390
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Sombra",
+      "visibility_rules": [
+        "IncludeHero_Sombra, IncludeRole_Damage"
+      ],
+      "sections": [
+        {
+          "name": "Sombra - Get Eliminations (1)"
+        },
+        {
+          "name": "Sombra - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Sombra - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Sombra - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Sombra - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 413, "y": 390
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Symmetra",
+      "visibility_rules": [
+        "IncludeHero_Symmetra, IncludeRole_Damage"
+      ],
+      "sections": [
+        {
+          "name": "Symmetra - Get Eliminations (1)"
+        },
+        {
+          "name": "Symmetra - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Symmetra - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Symmetra - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Symmetra - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 413, "y": 390
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Torbjorn",
+      "visibility_rules": [
+        "IncludeHero_Torbjorn, IncludeRole_Damage"
+      ],
+      "sections": [
+        {
+          "name": "Torbjorn - Get Eliminations (1)"
+        },
+        {
+          "name": "Torbjorn - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Torbjorn - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Torbjorn - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Torbjorn - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 413, "y": 390
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Tracer",
+      "visibility_rules": [
+        "IncludeHero_Tracer, IncludeRole_Damage"
+      ],
+      "sections": [
+        {
+          "name": "Tracer - Get Eliminations (1)"
+        },
+        {
+          "name": "Tracer - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Tracer - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Tracer - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Tracer - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 413, "y": 390
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Venture",
+      "visibility_rules": [
+        "IncludeHero_Venture, IncludeRole_Damage"
+      ],
+      "sections": [
+        {
+          "name": "Venture - Get Eliminations (1)"
+        },
+        {
+          "name": "Venture - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Venture - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Venture - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Venture - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 413, "y": 390
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Widowmaker",
+      "visibility_rules": [
+        "IncludeHero_Widowmaker, IncludeRole_Damage"
+      ],
+      "sections": [
+        {
+          "name": "Widowmaker - Get Eliminations (1)"
+        },
+        {
+          "name": "Widowmaker - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Widowmaker - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Widowmaker - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Widowmaker - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 413, "y": 390
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Ana",
+      "visibility_rules": [
+        "IncludeHero_Ana, IncludeRole_Support"
+      ],
+      "sections": [
+        {
+          "name": "Ana - Get Eliminations (1)"
+        },
+        {
+          "name": "Ana - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Ana - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Ana - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Ana - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 531, "y": 502
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Baptiste",
+      "visibility_rules": [
+        "IncludeHero_Baptiste, IncludeRole_Support"
+      ],
+      "sections": [
+        {
+          "name": "Baptiste - Get Eliminations (1)"
+        },
+        {
+          "name": "Baptiste - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Baptiste - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Baptiste - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Baptiste - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 531, "y": 502
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Brigitte",
+      "visibility_rules": [
+        "IncludeHero_Brigitte, IncludeRole_Support"
+      ],
+      "sections": [
+        {
+          "name": "Brigitte - Get Eliminations (1)"
+        },
+        {
+          "name": "Brigitte - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Brigitte - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Brigitte - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Brigitte - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 531, "y": 502
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Illari",
+      "visibility_rules": [
+        "IncludeHero_Illari, IncludeRole_Support"
+      ],
+      "sections": [
+        {
+          "name": "Illari - Get Eliminations (1)"
+        },
+        {
+          "name": "Illari - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Illari - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Illari - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Illari - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 531, "y": 502
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Juno",
+      "visibility_rules": [
+        "IncludeHero_Juno, IncludeRole_Support"
+      ],
+      "sections": [
+        {
+          "name": "Juno - Get Eliminations (1)"
+        },
+        {
+          "name": "Juno - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Juno - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Juno - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Juno - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 531, "y": 502
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Kiriko",
+      "visibility_rules": [
+        "IncludeHero_Kiriko, IncludeRole_Support"
+      ],
+      "sections": [
+        {
+          "name": "Kiriko - Get Eliminations (1)"
+        },
+        {
+          "name": "Kiriko - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Kiriko - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Kiriko - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Kiriko - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 531, "y": 502
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Lifeweaver",
+      "visibility_rules": [
+        "IncludeHero_Lifeweaver, IncludeRole_Support"
+      ],
+      "sections": [
+        {
+          "name": "Lifeweaver - Get Eliminations (1)"
+        },
+        {
+          "name": "Lifeweaver - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Lifeweaver - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Lifeweaver - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Lifeweaver - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 531, "y": 502
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Lucio",
+      "visibility_rules": [
+        "IncludeHero_Lucio, IncludeRole_Support"
+      ],
+      "sections": [
+        {
+          "name": "Lucio - Get Eliminations (1)"
+        },
+        {
+          "name": "Lucio - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Lucio - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Lucio - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Lucio - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 531, "y": 502
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Mercy",
+      "visibility_rules": [
+        "IncludeHero_Mercy, IncludeRole_Support"
+      ],
+      "sections": [
+        {
+          "name": "Mercy - Get Eliminations (1)"
+        },
+        {
+          "name": "Mercy - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Mercy - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Mercy - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Mercy - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 531, "y": 502
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Moira",
+      "visibility_rules": [
+        "IncludeHero_Moira, IncludeRole_Support"
+      ],
+      "sections": [
+        {
+          "name": "Moira - Get Eliminations (1)"
+        },
+        {
+          "name": "Moira - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Moira - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Moira - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Moira - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 531, "y": 502
+        }
+      ]
+    },
+    {
+      "name": "Hero Eliminations - Zenyatta",
+      "visibility_rules": [
+        "IncludeHero_Zenyatta, IncludeRole_Support"
+      ],
+      "sections": [
+        {
+          "name": "Zenyatta - Get Eliminations (1)"
+        },
+        {
+          "name": "Zenyatta - Get Eliminations (2)",
+          "visibility_rules": "HeroElimination_CheckAmount:2"
+        },
+        {
+          "name": "Zenyatta - Get Eliminations (3)",
+          "visibility_rules": "HeroElimination_CheckAmount:3"
+        },
+        {
+          "name": "Zenyatta - Get Eliminations (4)",
+          "visibility_rules": "HeroElimination_CheckAmount:4"
+        },
+        {
+          "name": "Zenyatta - Get Eliminations (5)",
+          "visibility_rules": "HeroElimination_CheckAmount:5"
+        }
+      ],
+      "map_locations": [
+        {
+          "map": "Main", "size": 70,
+          "x": 531, "y": 502
+        }
+      ]
+    },
+    ]
+  }
+]
