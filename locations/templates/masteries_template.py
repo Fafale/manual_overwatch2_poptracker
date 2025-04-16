@@ -1,20 +1,20 @@
 import json
 
 heroes = [
-    "Mercy",
-    "Reinhardt",
-    "Tracer",
-    "Sojourn",
-    "Winston",
+    "Brigitte",
+    "Cassidy",
     "DVa",
     "Echo",
     "Genji",
+    "Kiriko",
     "Lucio",
     "Mei",
+    "Mercy",
+    "Reinhardt",
+    "Sojourn",
     "Soldier 76",
-    "Kiriko",
-    "Cassidy",
-    "Brigitte"
+    "Tracer",
+    "Winston"
 ]
 
 
@@ -64,6 +64,3 @@ output.write(final_template)
 output.close()
 
 print(final_template)
-
-for i in range(0, 14):
-    print(2 * (i>3))

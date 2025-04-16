@@ -93,20 +93,20 @@
             "Zenyatta"
         ],
         "Masteries":[
-            "Mercy",
-            "Reinhardt",
-            "Tracer",
-            "Sojourn",
-            "Winston",
+            "Brigitte",
+            "Cassidy",
             "DVa",
             "Echo",
             "Genji",
+            "Kiriko",
             "Lucio",
             "Mei",
+            "Mercy",
+            "Reinhardt",
+            "Sojourn",
             "Soldier 76",
-            "Kiriko",
-            "Cassidy",
-            "Brigitte"
+            "Tracer",
+            "Winston"
         ]
     }
 }
