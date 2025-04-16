@@ -51,4 +51,24 @@ function get_slot_options(slot_data)
         
         obj.Active = (stage == 1)
     end
+
+    -- Include Heroes/Masteries
+
+    if slot_data["final_includes"] ~= nil then
+        local dict_content = slot_data["final_includes"]
+        
+        for tab_name,tab_content in pairs(dict_content) do
+            for _,item in pairs(tab_content) do
+                local obj_name = ""
+                if tab_name == "masteries" then
+                    obj_name = "IncludeMastery_" .. item
+                else
+                    obj_name = "IncludeHero_" .. item
+                end
+
+                local obj = Tracker:FindObjectForCode(obj_name)
+                obj.Active = 1
+            end
+        end
+    end
 end
