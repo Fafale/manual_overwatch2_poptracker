@@ -6,32 +6,32 @@
       "HeroMastery_complete"
     ],
     "children": [      {
-        "name": "Hero Mastery - Mercy",
+        "name": "Hero Mastery - Brigitte",
         "children": [
           {
-            "name": "Hero Mastery - Mercy - Recruit",
+            "name": "Hero Mastery - Brigitte - Recruit",
             "access_rules": [
-              "Mastery_Mercy, HeroMastery_complete",
-              "Mastery_Mercy:1, HeroMastery_progressive"
+              "Mastery_Brigitte, HeroMastery_complete",
+              "Mastery_Brigitte:1, HeroMastery_progressive"
             ],
             "sections": [
               {
-                "name": "Mercy - Recruit - Check 1"
+                "name": "Brigitte - Recruit - Check 1"
               },
               {
-                "name": "Mercy - Recruit - Check 2",
+                "name": "Brigitte - Recruit - Check 2",
                 "visibility_rules": ["HeroMastery_CheckAmount:2"]
               },
               {
-                "name": "Mercy - Recruit - Check 3",
+                "name": "Brigitte - Recruit - Check 3",
                 "visibility_rules": ["HeroMastery_CheckAmount:3"]
               },
               {
-                "name": "Mercy - Recruit - Check 4",
+                "name": "Brigitte - Recruit - Check 4",
                 "visibility_rules": ["HeroMastery_CheckAmount:4"]
               },
               {
-                "name": "Mercy - Recruit - Check 5",
+                "name": "Brigitte - Recruit - Check 5",
                 "visibility_rules": ["HeroMastery_CheckAmount:5"]
               }
             ],
@@ -47,29 +47,29 @@
             ]
           },
           {
-            "name": "Hero Mastery - Mercy - Agent",
+            "name": "Hero Mastery - Brigitte - Agent",
             "access_rules": [
-              "Mastery_Mercy, HeroMastery_complete",
-              "Mastery_Mercy:2, HeroMastery_progressive"
+              "Mastery_Brigitte, HeroMastery_complete",
+              "Mastery_Brigitte:2, HeroMastery_progressive"
             ],
             "sections": [
               {
-                "name": "Mercy - Agent - Check 1"
+                "name": "Brigitte - Agent - Check 1"
               },
               {
-                "name": "Mercy - Agent - Check 2",
+                "name": "Brigitte - Agent - Check 2",
                 "visibility_rules": ["HeroMastery_CheckAmount:2"]
               },
               {
-                "name": "Mercy - Agent - Check 3",
+                "name": "Brigitte - Agent - Check 3",
                 "visibility_rules": ["HeroMastery_CheckAmount:3"]
               },
               {
-                "name": "Mercy - Agent - Check 4",
+                "name": "Brigitte - Agent - Check 4",
                 "visibility_rules": ["HeroMastery_CheckAmount:4"]
               },
               {
-                "name": "Mercy - Agent - Check 5",
+                "name": "Brigitte - Agent - Check 5",
                 "visibility_rules": ["HeroMastery_CheckAmount:5"]
               }
             ],
@@ -85,29 +85,29 @@
             ]
           },
           {
-            "name": "Hero Mastery - Mercy - Veteran",
+            "name": "Hero Mastery - Brigitte - Veteran",
             "access_rules": [
-              "Mastery_Mercy, HeroMastery_complete",
-              "Mastery_Mercy:3, HeroMastery_progressive"
+              "Mastery_Brigitte, HeroMastery_complete",
+              "Mastery_Brigitte:3, HeroMastery_progressive"
             ],
             "sections": [
               {
-                "name": "Mercy - Veteran - Check 1"
+                "name": "Brigitte - Veteran - Check 1"
               },
               {
-                "name": "Mercy - Veteran - Check 2",
+                "name": "Brigitte - Veteran - Check 2",
                 "visibility_rules": ["HeroMastery_CheckAmount:2"]
               },
               {
-                "name": "Mercy - Veteran - Check 3",
+                "name": "Brigitte - Veteran - Check 3",
                 "visibility_rules": ["HeroMastery_CheckAmount:3"]
               },
               {
-                "name": "Mercy - Veteran - Check 4",
+                "name": "Brigitte - Veteran - Check 4",
                 "visibility_rules": ["HeroMastery_CheckAmount:4"]
               },
               {
-                "name": "Mercy - Veteran - Check 5",
+                "name": "Brigitte - Veteran - Check 5",
                 "visibility_rules": ["HeroMastery_CheckAmount:5"]
               }
             ],
@@ -119,1315 +119,6 @@
               {
                 "map": "Mastery",
                 "x": 400, "y": 520
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Hero Mastery - Reinhardt",
-        "children": [
-          {
-            "name": "Hero Mastery - Reinhardt - Recruit",
-            "access_rules": [
-              "Mastery_Reinhardt, HeroMastery_complete",
-              "Mastery_Reinhardt:1, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Reinhardt - Recruit - Check 1"
-              },
-              {
-                "name": "Reinhardt - Recruit - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Reinhardt - Recruit - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Reinhardt - Recruit - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Reinhardt - Recruit - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 130, "y": 30
-              },
-              {
-                "map": "Mastery",
-                "x": 400, "y": 600
-              }
-            ]
-          },
-          {
-            "name": "Hero Mastery - Reinhardt - Agent",
-            "access_rules": [
-              "Mastery_Reinhardt, HeroMastery_complete",
-              "Mastery_Reinhardt:2, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Reinhardt - Agent - Check 1"
-              },
-              {
-                "name": "Reinhardt - Agent - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Reinhardt - Agent - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Reinhardt - Agent - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Reinhardt - Agent - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 160, "y": 30
-              },
-              {
-                "map": "Mastery",
-                "x": 450, "y": 610
-              }
-            ]
-          },
-          {
-            "name": "Hero Mastery - Reinhardt - Veteran",
-            "access_rules": [
-              "Mastery_Reinhardt, HeroMastery_complete",
-              "Mastery_Reinhardt:3, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Reinhardt - Veteran - Check 1"
-              },
-              {
-                "name": "Reinhardt - Veteran - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Reinhardt - Veteran - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Reinhardt - Veteran - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Reinhardt - Veteran - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 190, "y": 30
-              },
-              {
-                "map": "Mastery",
-                "x": 500, "y": 620
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Hero Mastery - Tracer",
-        "children": [
-          {
-            "name": "Hero Mastery - Tracer - Recruit",
-            "access_rules": [
-              "Mastery_Tracer, HeroMastery_complete",
-              "Mastery_Tracer:1, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Tracer - Recruit - Check 1"
-              },
-              {
-                "name": "Tracer - Recruit - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Tracer - Recruit - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Tracer - Recruit - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Tracer - Recruit - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 230, "y": 30
-              },
-              {
-                "map": "Mastery",
-                "x": 500, "y": 700
-              }
-            ]
-          },
-          {
-            "name": "Hero Mastery - Tracer - Agent",
-            "access_rules": [
-              "Mastery_Tracer, HeroMastery_complete",
-              "Mastery_Tracer:2, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Tracer - Agent - Check 1"
-              },
-              {
-                "name": "Tracer - Agent - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Tracer - Agent - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Tracer - Agent - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Tracer - Agent - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 260, "y": 30
-              },
-              {
-                "map": "Mastery",
-                "x": 550, "y": 710
-              }
-            ]
-          },
-          {
-            "name": "Hero Mastery - Tracer - Veteran",
-            "access_rules": [
-              "Mastery_Tracer, HeroMastery_complete",
-              "Mastery_Tracer:3, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Tracer - Veteran - Check 1"
-              },
-              {
-                "name": "Tracer - Veteran - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Tracer - Veteran - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Tracer - Veteran - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Tracer - Veteran - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 290, "y": 30
-              },
-              {
-                "map": "Mastery",
-                "x": 600, "y": 720
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Hero Mastery - Sojourn",
-        "children": [
-          {
-            "name": "Hero Mastery - Sojourn - Recruit",
-            "access_rules": [
-              "Mastery_Sojourn, HeroMastery_complete",
-              "Mastery_Sojourn:1, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Sojourn - Recruit - Check 1"
-              },
-              {
-                "name": "Sojourn - Recruit - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Sojourn - Recruit - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Sojourn - Recruit - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Sojourn - Recruit - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 330, "y": 30
-              },
-              {
-                "map": "Mastery",
-                "x": 600, "y": 800
-              }
-            ]
-          },
-          {
-            "name": "Hero Mastery - Sojourn - Agent",
-            "access_rules": [
-              "Mastery_Sojourn, HeroMastery_complete",
-              "Mastery_Sojourn:2, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Sojourn - Agent - Check 1"
-              },
-              {
-                "name": "Sojourn - Agent - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Sojourn - Agent - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Sojourn - Agent - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Sojourn - Agent - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 360, "y": 30
-              },
-              {
-                "map": "Mastery",
-                "x": 650, "y": 810
-              }
-            ]
-          },
-          {
-            "name": "Hero Mastery - Sojourn - Veteran",
-            "access_rules": [
-              "Mastery_Sojourn, HeroMastery_complete",
-              "Mastery_Sojourn:3, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Sojourn - Veteran - Check 1"
-              },
-              {
-                "name": "Sojourn - Veteran - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Sojourn - Veteran - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Sojourn - Veteran - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Sojourn - Veteran - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 390, "y": 30
-              },
-              {
-                "map": "Mastery",
-                "x": 700, "y": 820
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Hero Mastery - Winston",
-        "children": [
-          {
-            "name": "Hero Mastery - Winston - Recruit",
-            "access_rules": [
-              "Mastery_Winston, HeroMastery_complete",
-              "Mastery_Winston:1, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Winston - Recruit - Check 1"
-              },
-              {
-                "name": "Winston - Recruit - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Winston - Recruit - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Winston - Recruit - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Winston - Recruit - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 430, "y": 30
-              },
-              {
-                "map": "Mastery",
-                "x": 700, "y": 900
-              }
-            ]
-          },
-          {
-            "name": "Hero Mastery - Winston - Agent",
-            "access_rules": [
-              "Mastery_Winston, HeroMastery_complete",
-              "Mastery_Winston:2, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Winston - Agent - Check 1"
-              },
-              {
-                "name": "Winston - Agent - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Winston - Agent - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Winston - Agent - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Winston - Agent - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 460, "y": 30
-              },
-              {
-                "map": "Mastery",
-                "x": 750, "y": 910
-              }
-            ]
-          },
-          {
-            "name": "Hero Mastery - Winston - Veteran",
-            "access_rules": [
-              "Mastery_Winston, HeroMastery_complete",
-              "Mastery_Winston:3, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Winston - Veteran - Check 1"
-              },
-              {
-                "name": "Winston - Veteran - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Winston - Veteran - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Winston - Veteran - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Winston - Veteran - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 490, "y": 30
-              },
-              {
-                "map": "Mastery",
-                "x": 800, "y": 920
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Hero Mastery - DVa",
-        "children": [
-          {
-            "name": "Hero Mastery - DVa - Recruit",
-            "access_rules": [
-              "Mastery_DVa, HeroMastery_complete",
-              "Mastery_DVa:1, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "DVa - Recruit - Check 1"
-              },
-              {
-                "name": "DVa - Recruit - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "DVa - Recruit - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "DVa - Recruit - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "DVa - Recruit - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 530, "y": 30
-              },
-              {
-                "map": "Mastery",
-                "x": 800, "y": 1000
-              }
-            ]
-          },
-          {
-            "name": "Hero Mastery - DVa - Agent",
-            "access_rules": [
-              "Mastery_DVa, HeroMastery_complete",
-              "Mastery_DVa:2, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "DVa - Agent - Check 1"
-              },
-              {
-                "name": "DVa - Agent - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "DVa - Agent - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "DVa - Agent - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "DVa - Agent - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 560, "y": 30
-              },
-              {
-                "map": "Mastery",
-                "x": 850, "y": 1010
-              }
-            ]
-          },
-          {
-            "name": "Hero Mastery - DVa - Veteran",
-            "access_rules": [
-              "Mastery_DVa, HeroMastery_complete",
-              "Mastery_DVa:3, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "DVa - Veteran - Check 1"
-              },
-              {
-                "name": "DVa - Veteran - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "DVa - Veteran - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "DVa - Veteran - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "DVa - Veteran - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 590, "y": 30
-              },
-              {
-                "map": "Mastery",
-                "x": 900, "y": 1020
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Hero Mastery - Echo",
-        "children": [
-          {
-            "name": "Hero Mastery - Echo - Recruit",
-            "access_rules": [
-              "Mastery_Echo, HeroMastery_complete",
-              "Mastery_Echo:1, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Echo - Recruit - Check 1"
-              },
-              {
-                "name": "Echo - Recruit - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Echo - Recruit - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Echo - Recruit - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Echo - Recruit - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 630, "y": 30
-              },
-              {
-                "map": "Mastery",
-                "x": 900, "y": 1100
-              }
-            ]
-          },
-          {
-            "name": "Hero Mastery - Echo - Agent",
-            "access_rules": [
-              "Mastery_Echo, HeroMastery_complete",
-              "Mastery_Echo:2, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Echo - Agent - Check 1"
-              },
-              {
-                "name": "Echo - Agent - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Echo - Agent - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Echo - Agent - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Echo - Agent - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 660, "y": 30
-              },
-              {
-                "map": "Mastery",
-                "x": 950, "y": 1110
-              }
-            ]
-          },
-          {
-            "name": "Hero Mastery - Echo - Veteran",
-            "access_rules": [
-              "Mastery_Echo, HeroMastery_complete",
-              "Mastery_Echo:3, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Echo - Veteran - Check 1"
-              },
-              {
-                "name": "Echo - Veteran - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Echo - Veteran - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Echo - Veteran - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Echo - Veteran - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 690, "y": 30
-              },
-              {
-                "map": "Mastery",
-                "x": 1000, "y": 1120
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Hero Mastery - Genji",
-        "children": [
-          {
-            "name": "Hero Mastery - Genji - Recruit",
-            "access_rules": [
-              "Mastery_Genji, HeroMastery_complete",
-              "Mastery_Genji:1, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Genji - Recruit - Check 1"
-              },
-              {
-                "name": "Genji - Recruit - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Genji - Recruit - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Genji - Recruit - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Genji - Recruit - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 30, "y": 70
-              },
-              {
-                "map": "Mastery",
-                "x": 1000, "y": 500
-              }
-            ]
-          },
-          {
-            "name": "Hero Mastery - Genji - Agent",
-            "access_rules": [
-              "Mastery_Genji, HeroMastery_complete",
-              "Mastery_Genji:2, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Genji - Agent - Check 1"
-              },
-              {
-                "name": "Genji - Agent - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Genji - Agent - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Genji - Agent - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Genji - Agent - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 60, "y": 70
-              },
-              {
-                "map": "Mastery",
-                "x": 1050, "y": 510
-              }
-            ]
-          },
-          {
-            "name": "Hero Mastery - Genji - Veteran",
-            "access_rules": [
-              "Mastery_Genji, HeroMastery_complete",
-              "Mastery_Genji:3, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Genji - Veteran - Check 1"
-              },
-              {
-                "name": "Genji - Veteran - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Genji - Veteran - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Genji - Veteran - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Genji - Veteran - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 90, "y": 70
-              },
-              {
-                "map": "Mastery",
-                "x": 1100, "y": 520
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Hero Mastery - Lucio",
-        "children": [
-          {
-            "name": "Hero Mastery - Lucio - Recruit",
-            "access_rules": [
-              "Mastery_Lucio, HeroMastery_complete",
-              "Mastery_Lucio:1, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Lucio - Recruit - Check 1"
-              },
-              {
-                "name": "Lucio - Recruit - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Lucio - Recruit - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Lucio - Recruit - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Lucio - Recruit - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 130, "y": 70
-              },
-              {
-                "map": "Mastery",
-                "x": 1100, "y": 600
-              }
-            ]
-          },
-          {
-            "name": "Hero Mastery - Lucio - Agent",
-            "access_rules": [
-              "Mastery_Lucio, HeroMastery_complete",
-              "Mastery_Lucio:2, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Lucio - Agent - Check 1"
-              },
-              {
-                "name": "Lucio - Agent - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Lucio - Agent - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Lucio - Agent - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Lucio - Agent - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 160, "y": 70
-              },
-              {
-                "map": "Mastery",
-                "x": 1150, "y": 610
-              }
-            ]
-          },
-          {
-            "name": "Hero Mastery - Lucio - Veteran",
-            "access_rules": [
-              "Mastery_Lucio, HeroMastery_complete",
-              "Mastery_Lucio:3, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Lucio - Veteran - Check 1"
-              },
-              {
-                "name": "Lucio - Veteran - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Lucio - Veteran - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Lucio - Veteran - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Lucio - Veteran - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 190, "y": 70
-              },
-              {
-                "map": "Mastery",
-                "x": 1200, "y": 620
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Hero Mastery - Mei",
-        "children": [
-          {
-            "name": "Hero Mastery - Mei - Recruit",
-            "access_rules": [
-              "Mastery_Mei, HeroMastery_complete",
-              "Mastery_Mei:1, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Mei - Recruit - Check 1"
-              },
-              {
-                "name": "Mei - Recruit - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Mei - Recruit - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Mei - Recruit - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Mei - Recruit - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 230, "y": 70
-              },
-              {
-                "map": "Mastery",
-                "x": 1200, "y": 700
-              }
-            ]
-          },
-          {
-            "name": "Hero Mastery - Mei - Agent",
-            "access_rules": [
-              "Mastery_Mei, HeroMastery_complete",
-              "Mastery_Mei:2, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Mei - Agent - Check 1"
-              },
-              {
-                "name": "Mei - Agent - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Mei - Agent - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Mei - Agent - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Mei - Agent - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 260, "y": 70
-              },
-              {
-                "map": "Mastery",
-                "x": 1250, "y": 710
-              }
-            ]
-          },
-          {
-            "name": "Hero Mastery - Mei - Veteran",
-            "access_rules": [
-              "Mastery_Mei, HeroMastery_complete",
-              "Mastery_Mei:3, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Mei - Veteran - Check 1"
-              },
-              {
-                "name": "Mei - Veteran - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Mei - Veteran - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Mei - Veteran - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Mei - Veteran - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 290, "y": 70
-              },
-              {
-                "map": "Mastery",
-                "x": 1300, "y": 720
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Hero Mastery - Soldier 76",
-        "children": [
-          {
-            "name": "Hero Mastery - Soldier 76 - Recruit",
-            "access_rules": [
-              "Mastery_Soldier 76, HeroMastery_complete",
-              "Mastery_Soldier 76:1, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Soldier 76 - Recruit - Check 1"
-              },
-              {
-                "name": "Soldier 76 - Recruit - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Soldier 76 - Recruit - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Soldier 76 - Recruit - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Soldier 76 - Recruit - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 330, "y": 70
-              },
-              {
-                "map": "Mastery",
-                "x": 1300, "y": 800
-              }
-            ]
-          },
-          {
-            "name": "Hero Mastery - Soldier 76 - Agent",
-            "access_rules": [
-              "Mastery_Soldier 76, HeroMastery_complete",
-              "Mastery_Soldier 76:2, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Soldier 76 - Agent - Check 1"
-              },
-              {
-                "name": "Soldier 76 - Agent - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Soldier 76 - Agent - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Soldier 76 - Agent - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Soldier 76 - Agent - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 360, "y": 70
-              },
-              {
-                "map": "Mastery",
-                "x": 1350, "y": 810
-              }
-            ]
-          },
-          {
-            "name": "Hero Mastery - Soldier 76 - Veteran",
-            "access_rules": [
-              "Mastery_Soldier 76, HeroMastery_complete",
-              "Mastery_Soldier 76:3, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Soldier 76 - Veteran - Check 1"
-              },
-              {
-                "name": "Soldier 76 - Veteran - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Soldier 76 - Veteran - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Soldier 76 - Veteran - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Soldier 76 - Veteran - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 390, "y": 70
-              },
-              {
-                "map": "Mastery",
-                "x": 1400, "y": 820
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Hero Mastery - Kiriko",
-        "children": [
-          {
-            "name": "Hero Mastery - Kiriko - Recruit",
-            "access_rules": [
-              "Mastery_Kiriko, HeroMastery_complete",
-              "Mastery_Kiriko:1, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Kiriko - Recruit - Check 1"
-              },
-              {
-                "name": "Kiriko - Recruit - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Kiriko - Recruit - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Kiriko - Recruit - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Kiriko - Recruit - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 430, "y": 70
-              },
-              {
-                "map": "Mastery",
-                "x": 1400, "y": 900
-              }
-            ]
-          },
-          {
-            "name": "Hero Mastery - Kiriko - Agent",
-            "access_rules": [
-              "Mastery_Kiriko, HeroMastery_complete",
-              "Mastery_Kiriko:2, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Kiriko - Agent - Check 1"
-              },
-              {
-                "name": "Kiriko - Agent - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Kiriko - Agent - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Kiriko - Agent - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Kiriko - Agent - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 460, "y": 70
-              },
-              {
-                "map": "Mastery",
-                "x": 1450, "y": 910
-              }
-            ]
-          },
-          {
-            "name": "Hero Mastery - Kiriko - Veteran",
-            "access_rules": [
-              "Mastery_Kiriko, HeroMastery_complete",
-              "Mastery_Kiriko:3, HeroMastery_progressive"
-            ],
-            "sections": [
-              {
-                "name": "Kiriko - Veteran - Check 1"
-              },
-              {
-                "name": "Kiriko - Veteran - Check 2",
-                "visibility_rules": ["HeroMastery_CheckAmount:2"]
-              },
-              {
-                "name": "Kiriko - Veteran - Check 3",
-                "visibility_rules": ["HeroMastery_CheckAmount:3"]
-              },
-              {
-                "name": "Kiriko - Veteran - Check 4",
-                "visibility_rules": ["HeroMastery_CheckAmount:4"]
-              },
-              {
-                "name": "Kiriko - Veteran - Check 5",
-                "visibility_rules": ["HeroMastery_CheckAmount:5"]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "Main",
-                "x": 490, "y": 70
-              },
-              {
-                "map": "Mastery",
-                "x": 1500, "y": 920
               }
             ]
           }
@@ -1466,11 +157,11 @@
             "map_locations": [
               {
                 "map": "Main",
-                "x": 530, "y": 70
+                "x": 130, "y": 30
               },
               {
                 "map": "Mastery",
-                "x": 1500, "y": 1000
+                "x": 400, "y": 600
               }
             ]
           },
@@ -1504,11 +195,11 @@
             "map_locations": [
               {
                 "map": "Main",
-                "x": 560, "y": 70
+                "x": 160, "y": 30
               },
               {
                 "map": "Mastery",
-                "x": 1550, "y": 1010
+                "x": 450, "y": 610
               }
             ]
           },
@@ -1542,6 +233,1315 @@
             "map_locations": [
               {
                 "map": "Main",
+                "x": 190, "y": 30
+              },
+              {
+                "map": "Mastery",
+                "x": 500, "y": 620
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hero Mastery - DVa",
+        "children": [
+          {
+            "name": "Hero Mastery - DVa - Recruit",
+            "access_rules": [
+              "Mastery_DVa, HeroMastery_complete",
+              "Mastery_DVa:1, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "DVa - Recruit - Check 1"
+              },
+              {
+                "name": "DVa - Recruit - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "DVa - Recruit - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "DVa - Recruit - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "DVa - Recruit - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 230, "y": 30
+              },
+              {
+                "map": "Mastery",
+                "x": 500, "y": 700
+              }
+            ]
+          },
+          {
+            "name": "Hero Mastery - DVa - Agent",
+            "access_rules": [
+              "Mastery_DVa, HeroMastery_complete",
+              "Mastery_DVa:2, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "DVa - Agent - Check 1"
+              },
+              {
+                "name": "DVa - Agent - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "DVa - Agent - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "DVa - Agent - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "DVa - Agent - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 260, "y": 30
+              },
+              {
+                "map": "Mastery",
+                "x": 550, "y": 710
+              }
+            ]
+          },
+          {
+            "name": "Hero Mastery - DVa - Veteran",
+            "access_rules": [
+              "Mastery_DVa, HeroMastery_complete",
+              "Mastery_DVa:3, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "DVa - Veteran - Check 1"
+              },
+              {
+                "name": "DVa - Veteran - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "DVa - Veteran - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "DVa - Veteran - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "DVa - Veteran - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 290, "y": 30
+              },
+              {
+                "map": "Mastery",
+                "x": 600, "y": 720
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hero Mastery - Echo",
+        "children": [
+          {
+            "name": "Hero Mastery - Echo - Recruit",
+            "access_rules": [
+              "Mastery_Echo, HeroMastery_complete",
+              "Mastery_Echo:1, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Echo - Recruit - Check 1"
+              },
+              {
+                "name": "Echo - Recruit - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Echo - Recruit - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Echo - Recruit - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Echo - Recruit - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 330, "y": 30
+              },
+              {
+                "map": "Mastery",
+                "x": 600, "y": 800
+              }
+            ]
+          },
+          {
+            "name": "Hero Mastery - Echo - Agent",
+            "access_rules": [
+              "Mastery_Echo, HeroMastery_complete",
+              "Mastery_Echo:2, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Echo - Agent - Check 1"
+              },
+              {
+                "name": "Echo - Agent - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Echo - Agent - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Echo - Agent - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Echo - Agent - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 360, "y": 30
+              },
+              {
+                "map": "Mastery",
+                "x": 650, "y": 810
+              }
+            ]
+          },
+          {
+            "name": "Hero Mastery - Echo - Veteran",
+            "access_rules": [
+              "Mastery_Echo, HeroMastery_complete",
+              "Mastery_Echo:3, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Echo - Veteran - Check 1"
+              },
+              {
+                "name": "Echo - Veteran - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Echo - Veteran - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Echo - Veteran - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Echo - Veteran - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 390, "y": 30
+              },
+              {
+                "map": "Mastery",
+                "x": 700, "y": 820
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hero Mastery - Genji",
+        "children": [
+          {
+            "name": "Hero Mastery - Genji - Recruit",
+            "access_rules": [
+              "Mastery_Genji, HeroMastery_complete",
+              "Mastery_Genji:1, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Genji - Recruit - Check 1"
+              },
+              {
+                "name": "Genji - Recruit - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Genji - Recruit - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Genji - Recruit - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Genji - Recruit - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 430, "y": 30
+              },
+              {
+                "map": "Mastery",
+                "x": 700, "y": 900
+              }
+            ]
+          },
+          {
+            "name": "Hero Mastery - Genji - Agent",
+            "access_rules": [
+              "Mastery_Genji, HeroMastery_complete",
+              "Mastery_Genji:2, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Genji - Agent - Check 1"
+              },
+              {
+                "name": "Genji - Agent - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Genji - Agent - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Genji - Agent - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Genji - Agent - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 460, "y": 30
+              },
+              {
+                "map": "Mastery",
+                "x": 750, "y": 910
+              }
+            ]
+          },
+          {
+            "name": "Hero Mastery - Genji - Veteran",
+            "access_rules": [
+              "Mastery_Genji, HeroMastery_complete",
+              "Mastery_Genji:3, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Genji - Veteran - Check 1"
+              },
+              {
+                "name": "Genji - Veteran - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Genji - Veteran - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Genji - Veteran - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Genji - Veteran - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 490, "y": 30
+              },
+              {
+                "map": "Mastery",
+                "x": 800, "y": 920
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hero Mastery - Kiriko",
+        "children": [
+          {
+            "name": "Hero Mastery - Kiriko - Recruit",
+            "access_rules": [
+              "Mastery_Kiriko, HeroMastery_complete",
+              "Mastery_Kiriko:1, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Kiriko - Recruit - Check 1"
+              },
+              {
+                "name": "Kiriko - Recruit - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Kiriko - Recruit - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Kiriko - Recruit - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Kiriko - Recruit - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 530, "y": 30
+              },
+              {
+                "map": "Mastery",
+                "x": 800, "y": 1000
+              }
+            ]
+          },
+          {
+            "name": "Hero Mastery - Kiriko - Agent",
+            "access_rules": [
+              "Mastery_Kiriko, HeroMastery_complete",
+              "Mastery_Kiriko:2, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Kiriko - Agent - Check 1"
+              },
+              {
+                "name": "Kiriko - Agent - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Kiriko - Agent - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Kiriko - Agent - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Kiriko - Agent - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 560, "y": 30
+              },
+              {
+                "map": "Mastery",
+                "x": 850, "y": 1010
+              }
+            ]
+          },
+          {
+            "name": "Hero Mastery - Kiriko - Veteran",
+            "access_rules": [
+              "Mastery_Kiriko, HeroMastery_complete",
+              "Mastery_Kiriko:3, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Kiriko - Veteran - Check 1"
+              },
+              {
+                "name": "Kiriko - Veteran - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Kiriko - Veteran - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Kiriko - Veteran - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Kiriko - Veteran - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 590, "y": 30
+              },
+              {
+                "map": "Mastery",
+                "x": 900, "y": 1020
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hero Mastery - Lucio",
+        "children": [
+          {
+            "name": "Hero Mastery - Lucio - Recruit",
+            "access_rules": [
+              "Mastery_Lucio, HeroMastery_complete",
+              "Mastery_Lucio:1, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Lucio - Recruit - Check 1"
+              },
+              {
+                "name": "Lucio - Recruit - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Lucio - Recruit - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Lucio - Recruit - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Lucio - Recruit - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 630, "y": 30
+              },
+              {
+                "map": "Mastery",
+                "x": 900, "y": 1100
+              }
+            ]
+          },
+          {
+            "name": "Hero Mastery - Lucio - Agent",
+            "access_rules": [
+              "Mastery_Lucio, HeroMastery_complete",
+              "Mastery_Lucio:2, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Lucio - Agent - Check 1"
+              },
+              {
+                "name": "Lucio - Agent - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Lucio - Agent - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Lucio - Agent - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Lucio - Agent - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 660, "y": 30
+              },
+              {
+                "map": "Mastery",
+                "x": 950, "y": 1110
+              }
+            ]
+          },
+          {
+            "name": "Hero Mastery - Lucio - Veteran",
+            "access_rules": [
+              "Mastery_Lucio, HeroMastery_complete",
+              "Mastery_Lucio:3, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Lucio - Veteran - Check 1"
+              },
+              {
+                "name": "Lucio - Veteran - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Lucio - Veteran - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Lucio - Veteran - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Lucio - Veteran - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 690, "y": 30
+              },
+              {
+                "map": "Mastery",
+                "x": 1000, "y": 1120
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hero Mastery - Mei",
+        "children": [
+          {
+            "name": "Hero Mastery - Mei - Recruit",
+            "access_rules": [
+              "Mastery_Mei, HeroMastery_complete",
+              "Mastery_Mei:1, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Mei - Recruit - Check 1"
+              },
+              {
+                "name": "Mei - Recruit - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Mei - Recruit - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Mei - Recruit - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Mei - Recruit - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 30, "y": 70
+              },
+              {
+                "map": "Mastery",
+                "x": 1000, "y": 500
+              }
+            ]
+          },
+          {
+            "name": "Hero Mastery - Mei - Agent",
+            "access_rules": [
+              "Mastery_Mei, HeroMastery_complete",
+              "Mastery_Mei:2, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Mei - Agent - Check 1"
+              },
+              {
+                "name": "Mei - Agent - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Mei - Agent - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Mei - Agent - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Mei - Agent - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 60, "y": 70
+              },
+              {
+                "map": "Mastery",
+                "x": 1050, "y": 510
+              }
+            ]
+          },
+          {
+            "name": "Hero Mastery - Mei - Veteran",
+            "access_rules": [
+              "Mastery_Mei, HeroMastery_complete",
+              "Mastery_Mei:3, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Mei - Veteran - Check 1"
+              },
+              {
+                "name": "Mei - Veteran - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Mei - Veteran - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Mei - Veteran - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Mei - Veteran - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 90, "y": 70
+              },
+              {
+                "map": "Mastery",
+                "x": 1100, "y": 520
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hero Mastery - Mercy",
+        "children": [
+          {
+            "name": "Hero Mastery - Mercy - Recruit",
+            "access_rules": [
+              "Mastery_Mercy, HeroMastery_complete",
+              "Mastery_Mercy:1, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Mercy - Recruit - Check 1"
+              },
+              {
+                "name": "Mercy - Recruit - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Mercy - Recruit - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Mercy - Recruit - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Mercy - Recruit - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 130, "y": 70
+              },
+              {
+                "map": "Mastery",
+                "x": 1100, "y": 600
+              }
+            ]
+          },
+          {
+            "name": "Hero Mastery - Mercy - Agent",
+            "access_rules": [
+              "Mastery_Mercy, HeroMastery_complete",
+              "Mastery_Mercy:2, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Mercy - Agent - Check 1"
+              },
+              {
+                "name": "Mercy - Agent - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Mercy - Agent - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Mercy - Agent - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Mercy - Agent - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 160, "y": 70
+              },
+              {
+                "map": "Mastery",
+                "x": 1150, "y": 610
+              }
+            ]
+          },
+          {
+            "name": "Hero Mastery - Mercy - Veteran",
+            "access_rules": [
+              "Mastery_Mercy, HeroMastery_complete",
+              "Mastery_Mercy:3, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Mercy - Veteran - Check 1"
+              },
+              {
+                "name": "Mercy - Veteran - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Mercy - Veteran - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Mercy - Veteran - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Mercy - Veteran - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 190, "y": 70
+              },
+              {
+                "map": "Mastery",
+                "x": 1200, "y": 620
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hero Mastery - Reinhardt",
+        "children": [
+          {
+            "name": "Hero Mastery - Reinhardt - Recruit",
+            "access_rules": [
+              "Mastery_Reinhardt, HeroMastery_complete",
+              "Mastery_Reinhardt:1, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Reinhardt - Recruit - Check 1"
+              },
+              {
+                "name": "Reinhardt - Recruit - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Reinhardt - Recruit - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Reinhardt - Recruit - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Reinhardt - Recruit - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 230, "y": 70
+              },
+              {
+                "map": "Mastery",
+                "x": 1200, "y": 700
+              }
+            ]
+          },
+          {
+            "name": "Hero Mastery - Reinhardt - Agent",
+            "access_rules": [
+              "Mastery_Reinhardt, HeroMastery_complete",
+              "Mastery_Reinhardt:2, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Reinhardt - Agent - Check 1"
+              },
+              {
+                "name": "Reinhardt - Agent - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Reinhardt - Agent - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Reinhardt - Agent - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Reinhardt - Agent - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 260, "y": 70
+              },
+              {
+                "map": "Mastery",
+                "x": 1250, "y": 710
+              }
+            ]
+          },
+          {
+            "name": "Hero Mastery - Reinhardt - Veteran",
+            "access_rules": [
+              "Mastery_Reinhardt, HeroMastery_complete",
+              "Mastery_Reinhardt:3, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Reinhardt - Veteran - Check 1"
+              },
+              {
+                "name": "Reinhardt - Veteran - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Reinhardt - Veteran - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Reinhardt - Veteran - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Reinhardt - Veteran - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 290, "y": 70
+              },
+              {
+                "map": "Mastery",
+                "x": 1300, "y": 720
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hero Mastery - Sojourn",
+        "children": [
+          {
+            "name": "Hero Mastery - Sojourn - Recruit",
+            "access_rules": [
+              "Mastery_Sojourn, HeroMastery_complete",
+              "Mastery_Sojourn:1, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Sojourn - Recruit - Check 1"
+              },
+              {
+                "name": "Sojourn - Recruit - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Sojourn - Recruit - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Sojourn - Recruit - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Sojourn - Recruit - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 330, "y": 70
+              },
+              {
+                "map": "Mastery",
+                "x": 1300, "y": 800
+              }
+            ]
+          },
+          {
+            "name": "Hero Mastery - Sojourn - Agent",
+            "access_rules": [
+              "Mastery_Sojourn, HeroMastery_complete",
+              "Mastery_Sojourn:2, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Sojourn - Agent - Check 1"
+              },
+              {
+                "name": "Sojourn - Agent - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Sojourn - Agent - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Sojourn - Agent - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Sojourn - Agent - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 360, "y": 70
+              },
+              {
+                "map": "Mastery",
+                "x": 1350, "y": 810
+              }
+            ]
+          },
+          {
+            "name": "Hero Mastery - Sojourn - Veteran",
+            "access_rules": [
+              "Mastery_Sojourn, HeroMastery_complete",
+              "Mastery_Sojourn:3, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Sojourn - Veteran - Check 1"
+              },
+              {
+                "name": "Sojourn - Veteran - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Sojourn - Veteran - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Sojourn - Veteran - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Sojourn - Veteran - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 390, "y": 70
+              },
+              {
+                "map": "Mastery",
+                "x": 1400, "y": 820
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hero Mastery - Soldier 76",
+        "children": [
+          {
+            "name": "Hero Mastery - Soldier 76 - Recruit",
+            "access_rules": [
+              "Mastery_Soldier 76, HeroMastery_complete",
+              "Mastery_Soldier 76:1, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Soldier 76 - Recruit - Check 1"
+              },
+              {
+                "name": "Soldier 76 - Recruit - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Soldier 76 - Recruit - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Soldier 76 - Recruit - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Soldier 76 - Recruit - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 430, "y": 70
+              },
+              {
+                "map": "Mastery",
+                "x": 1400, "y": 900
+              }
+            ]
+          },
+          {
+            "name": "Hero Mastery - Soldier 76 - Agent",
+            "access_rules": [
+              "Mastery_Soldier 76, HeroMastery_complete",
+              "Mastery_Soldier 76:2, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Soldier 76 - Agent - Check 1"
+              },
+              {
+                "name": "Soldier 76 - Agent - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Soldier 76 - Agent - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Soldier 76 - Agent - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Soldier 76 - Agent - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 460, "y": 70
+              },
+              {
+                "map": "Mastery",
+                "x": 1450, "y": 910
+              }
+            ]
+          },
+          {
+            "name": "Hero Mastery - Soldier 76 - Veteran",
+            "access_rules": [
+              "Mastery_Soldier 76, HeroMastery_complete",
+              "Mastery_Soldier 76:3, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Soldier 76 - Veteran - Check 1"
+              },
+              {
+                "name": "Soldier 76 - Veteran - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Soldier 76 - Veteran - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Soldier 76 - Veteran - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Soldier 76 - Veteran - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 490, "y": 70
+              },
+              {
+                "map": "Mastery",
+                "x": 1500, "y": 920
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hero Mastery - Tracer",
+        "children": [
+          {
+            "name": "Hero Mastery - Tracer - Recruit",
+            "access_rules": [
+              "Mastery_Tracer, HeroMastery_complete",
+              "Mastery_Tracer:1, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Tracer - Recruit - Check 1"
+              },
+              {
+                "name": "Tracer - Recruit - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Tracer - Recruit - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Tracer - Recruit - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Tracer - Recruit - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 530, "y": 70
+              },
+              {
+                "map": "Mastery",
+                "x": 1500, "y": 1000
+              }
+            ]
+          },
+          {
+            "name": "Hero Mastery - Tracer - Agent",
+            "access_rules": [
+              "Mastery_Tracer, HeroMastery_complete",
+              "Mastery_Tracer:2, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Tracer - Agent - Check 1"
+              },
+              {
+                "name": "Tracer - Agent - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Tracer - Agent - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Tracer - Agent - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Tracer - Agent - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
+                "x": 560, "y": 70
+              },
+              {
+                "map": "Mastery",
+                "x": 1550, "y": 1010
+              }
+            ]
+          },
+          {
+            "name": "Hero Mastery - Tracer - Veteran",
+            "access_rules": [
+              "Mastery_Tracer, HeroMastery_complete",
+              "Mastery_Tracer:3, HeroMastery_progressive"
+            ],
+            "sections": [
+              {
+                "name": "Tracer - Veteran - Check 1"
+              },
+              {
+                "name": "Tracer - Veteran - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
+              },
+              {
+                "name": "Tracer - Veteran - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
+              },
+              {
+                "name": "Tracer - Veteran - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
+              },
+              {
+                "name": "Tracer - Veteran - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main",
                 "x": 590, "y": 70
               },
               {
@@ -1553,32 +1553,32 @@
         ]
       },
       {
-        "name": "Hero Mastery - Brigitte",
+        "name": "Hero Mastery - Winston",
         "children": [
           {
-            "name": "Hero Mastery - Brigitte - Recruit",
+            "name": "Hero Mastery - Winston - Recruit",
             "access_rules": [
-              "Mastery_Brigitte, HeroMastery_complete",
-              "Mastery_Brigitte:1, HeroMastery_progressive"
+              "Mastery_Winston, HeroMastery_complete",
+              "Mastery_Winston:1, HeroMastery_progressive"
             ],
             "sections": [
               {
-                "name": "Brigitte - Recruit - Check 1"
+                "name": "Winston - Recruit - Check 1"
               },
               {
-                "name": "Brigitte - Recruit - Check 2",
+                "name": "Winston - Recruit - Check 2",
                 "visibility_rules": ["HeroMastery_CheckAmount:2"]
               },
               {
-                "name": "Brigitte - Recruit - Check 3",
+                "name": "Winston - Recruit - Check 3",
                 "visibility_rules": ["HeroMastery_CheckAmount:3"]
               },
               {
-                "name": "Brigitte - Recruit - Check 4",
+                "name": "Winston - Recruit - Check 4",
                 "visibility_rules": ["HeroMastery_CheckAmount:4"]
               },
               {
-                "name": "Brigitte - Recruit - Check 5",
+                "name": "Winston - Recruit - Check 5",
                 "visibility_rules": ["HeroMastery_CheckAmount:5"]
               }
             ],
@@ -1594,29 +1594,29 @@
             ]
           },
           {
-            "name": "Hero Mastery - Brigitte - Agent",
+            "name": "Hero Mastery - Winston - Agent",
             "access_rules": [
-              "Mastery_Brigitte, HeroMastery_complete",
-              "Mastery_Brigitte:2, HeroMastery_progressive"
+              "Mastery_Winston, HeroMastery_complete",
+              "Mastery_Winston:2, HeroMastery_progressive"
             ],
             "sections": [
               {
-                "name": "Brigitte - Agent - Check 1"
+                "name": "Winston - Agent - Check 1"
               },
               {
-                "name": "Brigitte - Agent - Check 2",
+                "name": "Winston - Agent - Check 2",
                 "visibility_rules": ["HeroMastery_CheckAmount:2"]
               },
               {
-                "name": "Brigitte - Agent - Check 3",
+                "name": "Winston - Agent - Check 3",
                 "visibility_rules": ["HeroMastery_CheckAmount:3"]
               },
               {
-                "name": "Brigitte - Agent - Check 4",
+                "name": "Winston - Agent - Check 4",
                 "visibility_rules": ["HeroMastery_CheckAmount:4"]
               },
               {
-                "name": "Brigitte - Agent - Check 5",
+                "name": "Winston - Agent - Check 5",
                 "visibility_rules": ["HeroMastery_CheckAmount:5"]
               }
             ],
@@ -1632,29 +1632,29 @@
             ]
           },
           {
-            "name": "Hero Mastery - Brigitte - Veteran",
+            "name": "Hero Mastery - Winston - Veteran",
             "access_rules": [
-              "Mastery_Brigitte, HeroMastery_complete",
-              "Mastery_Brigitte:3, HeroMastery_progressive"
+              "Mastery_Winston, HeroMastery_complete",
+              "Mastery_Winston:3, HeroMastery_progressive"
             ],
             "sections": [
               {
-                "name": "Brigitte - Veteran - Check 1"
+                "name": "Winston - Veteran - Check 1"
               },
               {
-                "name": "Brigitte - Veteran - Check 2",
+                "name": "Winston - Veteran - Check 2",
                 "visibility_rules": ["HeroMastery_CheckAmount:2"]
               },
               {
-                "name": "Brigitte - Veteran - Check 3",
+                "name": "Winston - Veteran - Check 3",
                 "visibility_rules": ["HeroMastery_CheckAmount:3"]
               },
               {
-                "name": "Brigitte - Veteran - Check 4",
+                "name": "Winston - Veteran - Check 4",
                 "visibility_rules": ["HeroMastery_CheckAmount:4"]
               },
               {
-                "name": "Brigitte - Veteran - Check 5",
+                "name": "Winston - Veteran - Check 5",
                 "visibility_rules": ["HeroMastery_CheckAmount:5"]
               }
             ],
@@ -1670,7 +1670,7 @@
             ]
           }
         ]
-      },
+      }
     ]
   }
 ]

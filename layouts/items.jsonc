@@ -202,22 +202,22 @@
             "item_size": "52,52",
             "rows": [
               [
-                "Mastery_Mercy",
-                "Mastery_Reinhardt",
-                "Mastery_Tracer",
-                "Mastery_Sojourn",
-                "Mastery_Winston",
+                "Mastery_Brigitte",
+                "Mastery_Cassidy",
                 "Mastery_DVa",
-                "Mastery_Echo"
+                "Mastery_Echo",
+                "Mastery_Genji",
+                "Mastery_Kiriko",
+                "Mastery_Lucio"
               ],
               [
-                "Mastery_Genji",
-                "Mastery_Lucio",
                 "Mastery_Mei",
+                "Mastery_Mercy",
+                "Mastery_Reinhardt",
+                "Mastery_Sojourn",
                 "Mastery_Soldier 76",
-                "Mastery_Kiriko",
-                "Mastery_Cassidy",
-                "Mastery_Brigitte"
+                "Mastery_Tracer",
+                "Mastery_Winston"
               ]				
             ]
           }
