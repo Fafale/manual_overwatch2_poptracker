@@ -455,7 +455,32 @@
     "codes": "Hero_Zenyatta"
   },
 
+  // Hero Roles (Categories)
 
+  {
+    "name": "Tank Heroes",
+    "type": "consumable",
+    "codes": "Category_Tank",
+
+    "initial_quantity": 0,
+    "max_quantity": 13
+  },
+  {
+    "name": "Damage Heroes",
+    "type": "consumable",
+    "codes": "Category_Damage",
+
+    "initial_quantity": 0,
+    "max_quantity": 18
+  },
+  {
+    "name": "Support Heroes",
+    "type": "consumable",
+    "codes": "Category_Support",
+
+    "initial_quantity": 0,
+    "max_quantity": 11
+  },
 
   ////////////////////////////
 
