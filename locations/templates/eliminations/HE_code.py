@@ -57,11 +57,15 @@ info = {
     ]
 }
 
-pos_main_start      = [295, 278]
-pos_main_offset     = [0, 112]
-pos_main_distance   = [118, 0]
+#pos_main_start      = [210, 1215]
+#pos_main_offset     = [119, 0]
+#pos_main_distance   = [0, 112]
 
-location_size = 70
+pos_main_start      = [210, 1215]
+pos_main_offset     = [119, 112]
+pos_main_distance   = [0, 112]
+
+location_size = 30
 
 template_start = open(r"locations/templates/eliminations/HE_main_start.txt", 'r')
 template_end = open(r"locations/templates/eliminations/HE_main_end.txt", 'r')
@@ -70,10 +74,11 @@ filepath_template = r"locations\templates\eliminations\HE_template.jsonc"
 
 final_template = template_start.read()
 
-for num in range(len(info)):
-    role_name = roles[num]
+for role_num in range(len(info)):
+    role_name = roles[role_num]
 
-    for hero_name in info[role_name]:
+    for hero_num in range(len(info[role_name])):
+        hero_name = list(info[role_name])[hero_num]
 
         file = open(filepath_template, 'r')
         new_text = file.read()
@@ -81,8 +86,29 @@ for num in range(len(info)):
 
         new_text = new_text.replace("ROLENAME", role_name)
 
-        pos_main_x = pos_main_start[0] + (num*pos_main_offset[0]) + (pos_main_distance[0]*(num % 7))
-        pos_main_y = pos_main_start[1] + (num*pos_main_offset[1]) + (pos_main_distance[1]*(num>6))
+        if role_num == 0:
+            pos_main_start      = [210, 1215]
+            pos_main_offset     = [119, 112]
+
+            if hero_num == 0:
+                pos_main_x = pos_main_start[0]
+                pos_main_y = pos_main_start[1]
+            else:
+                pos_main_x = (pos_main_start[0] + pos_main_offset[0]) + (((hero_num-1) % 4)*pos_main_offset[0])
+                pos_main_y = pos_main_start[1] + (((hero_num-1) // 4)*pos_main_offset[1])
+        elif role_num == 1:
+            pos_main_start      = [211 + (6*119), 1215]
+            pos_main_offset     = [119, 112]
+
+            print(f"{hero_num}: {(hero_num) % 6}, {(hero_num) // 6}")
+            pos_main_x = pos_main_start[0] + ((hero_num % 6)*pos_main_offset[0])
+            pos_main_y = pos_main_start[1] + ((hero_num // 6)*pos_main_offset[1])
+        else:
+            pos_main_start      = [211 + (13*119), 1215]
+            pos_main_offset     = [119, 112]
+
+            pos_main_x = pos_main_start[0] + ((hero_num % 4)*pos_main_offset[0])
+            pos_main_y = pos_main_start[1] + ((hero_num // 4)*pos_main_offset[1])
 
         new_text = new_text.replace(f"POS_MAIN_X", str(pos_main_x))
         new_text = new_text.replace(f"POS_MAIN_Y", str(pos_main_y))
@@ -101,4 +127,4 @@ output.write(final_template)
 
 output.close()
 
-print(final_template)
+#print(final_template)
