@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Include Hero DVa",
+    "type": "toggle",
+    "codes": "IncludeHero_DVa"
+  },
+  {
+    "name": "Include Hero Doomfist",
+    "type": "toggle",
+    "codes": "IncludeHero_Doomfist"
+  },
+  {
+    "name": "Include Hero Hazard",
+    "type": "toggle",
+    "codes": "IncludeHero_Hazard"
+  },
+  {
+    "name": "Include Hero Junker Queen",
+    "type": "toggle",
+    "codes": "IncludeHero_Junker Queen"
+  },
+  {
+    "name": "Include Hero Mauga",
+    "type": "toggle",
+    "codes": "IncludeHero_Mauga"
+  },
+  {
+    "name": "Include Hero Orisa",
+    "type": "toggle",
+    "codes": "IncludeHero_Orisa"
+  },
+  {
+    "name": "Include Hero Ramattra",
+    "type": "toggle",
+    "codes": "IncludeHero_Ramattra"
+  },
+  {
+    "name": "Include Hero Reinhardt",
+    "type": "toggle",
+    "codes": "IncludeHero_Reinhardt"
+  },
+  {
+    "name": "Include Hero Roadhog",
+    "type": "toggle",
+    "codes": "IncludeHero_Roadhog"
+  },
+  {
+    "name": "Include Hero Sigma",
+    "type": "toggle",
+    "codes": "IncludeHero_Sigma"
+  },
+  {
+    "name": "Include Hero Winston",
+    "type": "toggle",
+    "codes": "IncludeHero_Winston"
+  },
+  {
+    "name": "Include Hero Wrecking Ball",
+    "type": "toggle",
+    "codes": "IncludeHero_Wrecking Ball"
+  },
+  {
+    "name": "Include Hero Zarya",
+    "type": "toggle",
+    "codes": "IncludeHero_Zarya"
+  },
+  {
+    "name": "Include Hero Ashe",
+    "type": "toggle",
+    "codes": "IncludeHero_Ashe"
+  },
+  {
+    "name": "Include Hero Bastion",
+    "type": "toggle",
+    "codes": "IncludeHero_Bastion"
+  },
+  {
+    "name": "Include Hero Cassidy",
+    "type": "toggle",
+    "codes": "IncludeHero_Cassidy"
+  },
+  {
+    "name": "Include Hero Echo",
+    "type": "toggle",
+    "codes": "IncludeHero_Echo"
+  },
+  {
+    "name": "Include Hero Genji",
+    "type": "toggle",
+    "codes": "IncludeHero_Genji"
+  },
+  {
+    "name": "Include Hero Hanzo",
+    "type": "toggle",
+    "codes": "IncludeHero_Hanzo"
+  },
+  {
+    "name": "Include Hero Junkrat",
+    "type": "toggle",
+    "codes": "IncludeHero_Junkrat"
+  },
+  {
+    "name": "Include Hero Mei",
+    "type": "toggle",
+    "codes": "IncludeHero_Mei"
+  },
+  {
+    "name": "Include Hero Pharah",
+    "type": "toggle",
+    "codes": "IncludeHero_Pharah"
+  },
+  {
+    "name": "Include Hero Reaper",
+    "type": "toggle",
+    "codes": "IncludeHero_Reaper"
+  },
+  {
+    "name": "Include Hero Sojourn",
+    "type": "toggle",
+    "codes": "IncludeHero_Sojourn"
+  },
+  {
+    "name": "Include Hero Soldier 76",
+    "type": "toggle",
+    "codes": "IncludeHero_Soldier 76"
+  },
+  {
+    "name": "Include Hero Sombra",
+    "type": "toggle",
+    "codes": "IncludeHero_Sombra"
+  },
+  {
+    "name": "Include Hero Symmetra",
+    "type": "toggle",
+    "codes": "IncludeHero_Symmetra"
+  },
+  {
+    "name": "Include Hero Torbjorn",
+    "type": "toggle",
+    "codes": "IncludeHero_Torbjorn"
+  },
+  {
+    "name": "Include Hero Tracer",
+    "type": "toggle",
+    "codes": "IncludeHero_Tracer"
+  },
+  {
+    "name": "Include Hero Venture",
+    "type": "toggle",
+    "codes": "IncludeHero_Venture"
+  },
+  {
+    "name": "Include Hero Widowmaker",
+    "type": "toggle",
+    "codes": "IncludeHero_Widowmaker"
+  },
+  {
+    "name": "Include Hero Ana",
+    "type": "toggle",
+    "codes": "IncludeHero_Ana"
+  },
+  {
+    "name": "Include Hero Baptiste",
+    "type": "toggle",
+    "codes": "IncludeHero_Baptiste"
+  },
+  {
+    "name": "Include Hero Brigitte",
+    "type": "toggle",
+    "codes": "IncludeHero_Brigitte"
+  },
+  {
+    "name": "Include Hero Illari",
+    "type": "toggle",
+    "codes": "IncludeHero_Illari"
+  },
+  {
+    "name": "Include Hero Juno",
+    "type": "toggle",
+    "codes": "IncludeHero_Juno"
+  },
+  {
+    "name": "Include Hero Kiriko",
+    "type": "toggle",
+    "codes": "IncludeHero_Kiriko"
+  },
+  {
+    "name": "Include Hero Lifeweaver",
+    "type": "toggle",
+    "codes": "IncludeHero_Lifeweaver"
+  },
+  {
+    "name": "Include Hero Lucio",
+    "type": "toggle",
+    "codes": "IncludeHero_Lucio"
+  },
+  {
+    "name": "Include Hero Mercy",
+    "type": "toggle",
+    "codes": "IncludeHero_Mercy"
+  },
+  {
+    "name": "Include Hero Moira",
+    "type": "toggle",
+    "codes": "IncludeHero_Moira"
+  },
+  {
+    "name": "Include Hero Zenyatta",
+    "type": "toggle",
+    "codes": "IncludeHero_Zenyatta"
+  },
+  {
+    "name": "Include Mastery Brigitte",
+    "type": "toggle",
+    "img": "images/roles/tank.png"
+  },
+  {
+    "name": "Include Mastery Cassidy",
+    "type": "toggle",
+    "codes": "IncludeMastery_Cassidy"
+  },
+  {
+    "name": "Include Mastery DVa",
+    "type": "toggle",
+    "codes": "IncludeMastery_DVa"
+  },
+  {
+    "name": "Include Mastery Echo",
+    "type": "toggle",
+    "codes": "IncludeMastery_Echo"
+  },
+  {
+    "name": "Include Mastery Genji",
+    "type": "toggle",
+    "codes": "IncludeMastery_Genji"
+  },
+  {
+    "name": "Include Mastery Kiriko",
+    "type": "toggle",
+    "codes": "IncludeMastery_Kiriko"
+  },
+  {
+    "name": "Include Mastery Lucio",
+    "type": "toggle",
+    "codes": "IncludeMastery_Lucio"
+  },
+  {
+    "name": "Include Mastery Mei",
+    "type": "toggle",
+    "codes": "IncludeMastery_Mei"
+  },
+  {
+    "name": "Include Mastery Mercy",
+    "type": "toggle",
+    "codes": "IncludeMastery_Mercy"
+  },
+  {
+    "name": "Include Mastery Reinhardt",
+    "type": "toggle",
+    "codes": "IncludeMastery_Reinhardt"
+  },
+  {
+    "name": "Include Mastery Sojourn",
+    "type": "toggle",
+    "codes": "IncludeMastery_Sojourn"
+  },
+  {
+    "name": "Include Mastery Soldier 76",
+    "type": "toggle",
+    "codes": "IncludeMastery_Soldier 76"
+  },
+  {
+    "name": "Include Mastery Tracer",
+    "type": "toggle",
+    "codes": "IncludeMastery_Tracer"
+  },
+  {
+    "name": "Include Mastery Winston",
+    "type": "toggle",
+    "codes": "IncludeMastery_Winston"
+  }
+]
