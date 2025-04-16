@@ -28,4 +28,27 @@ function get_slot_options(slot_data)
         local stage = slot_data["deathmatch_check_amount"]
         obj.AcquiredCount = stage
     end
+
+    -- Included Roles
+
+    if slot_data["include_tank_heroes"] ~= nil then
+        local obj = Tracker:FindObjectForCode("IncludeRole_Tank")
+        local stage = slot_data["include_tank_heroes"]
+        
+        obj.Active = (stage == 1)
+    end
+
+    if slot_data["include_damage_heroes"] ~= nil then
+        local obj = Tracker:FindObjectForCode("IncludeRole_Damage")
+        local stage = slot_data["include_damage_heroes"]
+        
+        obj.Active = (stage == 1)
+    end
+
+    if slot_data["include_support_heroes"] ~= nil then
+        local obj = Tracker:FindObjectForCode("IncludeRole_Support")
+        local stage = slot_data["include_support_heroes"]
+        
+        obj.Active = (stage == 1)
+    end
 end

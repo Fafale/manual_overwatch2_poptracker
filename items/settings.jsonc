@@ -77,5 +77,26 @@
     "initial_quantity": 1,
     "codes": "Deathmatch_CheckAmount",
     "img": "images/items/consumable.png"
+  },
+
+  // Include Roles
+
+  {
+    "name": "Include Tank Heroes",
+    "type": "toggle",
+    "codes": "IncludeRole_Tank",
+    "img": "images/roles/tank.png"
+  },
+  {
+    "name": "Include Damage Heroes",
+    "type": "toggle",
+    "codes": "IncludeRole_Damage",
+    "img": "images/roles/damage.png"
+  },
+  {
+    "name": "Include Support Heroes",
+    "type": "toggle",
+    "codes": "IncludeRole_Support",
+    "img": "images/roles/support.png"
   }
 ]
