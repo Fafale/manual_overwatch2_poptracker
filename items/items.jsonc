@@ -460,6 +460,7 @@
   {
     "name": "Tank Heroes",
     "type": "consumable",
+    "img": "images/items/placeholder.png",
     "codes": "Category_Tank",
 
     "initial_quantity": 0,
@@ -468,6 +469,7 @@
   {
     "name": "Damage Heroes",
     "type": "consumable",
+    "img": "images/items/placeholder.png",
     "codes": "Category_Damage",
 
     "initial_quantity": 0,
@@ -476,6 +478,7 @@
   {
     "name": "Support Heroes",
     "type": "consumable",
+    "img": "images/items/placeholder.png",
     "codes": "Category_Support",
 
     "initial_quantity": 0,
