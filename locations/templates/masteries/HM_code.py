@@ -27,10 +27,10 @@ pos_mastery_offset = [50, 10]
 
 location_size = 30
 
-template_start = open(r"locations/templates/masteries/masteries_main_start.txt", 'r')
-template_end = open(r"locations/templates/masteries/masteries_main_end.txt", 'r')
+template_start = open(r"locations/templates/masteries/HM_main_start.txt", 'r')
+template_end = open(r"locations/templates/masteries/HM_main_end.txt", 'r')
 
-filepath_template = r"locations\templates\masteries\masteries_hero.jsonc"
+filepath_template = r"locations\templates\masteries\HM_template.jsonc"
 
 final_template = template_start.read()
 
