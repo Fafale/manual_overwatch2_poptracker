@@ -18,12 +18,14 @@ heroes = [
 ]
 
 
-pos_main_start      = [30, 30]
-pos_main_offset     = [30, 0]
-pos_main_distance   = [0, 100]
+pos_main_start      = [1095, 420]
+pos_main_offset     = [45, 0]
+pos_main_distance   = [168, 320]
 
 pos_mastery_start  = [300, 500]
 pos_mastery_offset = [50, 10]
+
+location_size = 30
 
 template_start = open(r"locations/templates/masteries_main_start.txt", 'r')
 template_end = open(r"locations/templates/masteries_main_end.txt", 'r')
@@ -39,10 +41,11 @@ for hero_num in range(len(heroes)):
     hero_text = file.read()
 
     hero_text = hero_text.replace("HERONAME", hero_name)
+    hero_text = hero_text.replace("CHECK_SIZE", str(location_size))
 
     for i in range(0, 3):
-        pos_main_x = pos_main_start[0] + (i*pos_main_offset[0]) + (100*(hero_num % 7))
-        pos_main_y = pos_main_start[1] + (i*pos_main_offset[1]) + (40*(hero_num>6))
+        pos_main_x = pos_main_start[0] + (i*pos_main_offset[0]) + (pos_main_distance[0]*(hero_num % 7))
+        pos_main_y = pos_main_start[1] + (i*pos_main_offset[1]) + (pos_main_distance[1]*(hero_num>6))
 
         pos_mastery_x = pos_mastery_start[0] + (i*pos_mastery_offset[0]) + (100*hero_num)
         pos_mastery_y = pos_mastery_start[1] + (i*pos_mastery_offset[1]) + (100*(hero_num % 7))

@@ -30,7 +30,7 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
+                "map": "Main", "size": CHECK_SIZE,
                 "x": POS_MAIN_X_1, "y": POS_MAIN_Y_1
               },
               {
@@ -68,7 +68,7 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
+                "map": "Main", "size": CHECK_SIZE,
                 "x": POS_MAIN_X_2, "y": POS_MAIN_Y_2
               },
               {
@@ -106,7 +106,7 @@
             ],
             "map_locations": [
               {
-                "map": "Main",
+                "map": "Main", "size": CHECK_SIZE,
                 "x": POS_MAIN_X_3, "y": POS_MAIN_Y_3
               },
               {
