@@ -10,4 +10,10 @@ function get_slot_options(slot_data)
             obj.CurrentStage = 2
         end
     end
+
+    if slot_data["hero_mastery_check_amount"] ~= nil then
+        local obj = Tracker:FindObjectForCode("HeroMastery_CheckAmount")
+        local stage = slot_data["hero_mastery_check_amount"]
+        obj.AcquiredCount = stage
+    end
 end
