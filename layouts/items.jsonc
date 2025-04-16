@@ -256,5 +256,23 @@
         "item": "Medal"
       }
     ]
+  },
+  "Heroes Roles":{
+    "type": "group",
+    "title": "Heroes Roles",
+    "content":[
+      {
+        "type": "itemgrid",
+        "item_size": "40",
+        "item_margin": "2",
+        "rows": [
+          [
+            "Category_Tank",
+            "Category_Damage",
+            "Category_Support"
+          ]
+        ]
+      }
+    ]
   }
 }
