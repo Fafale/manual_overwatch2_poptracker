@@ -1,5 +1,8 @@
       {
         "name": "Hero Mastery - HERONAME",
+        "visibility_rules": [
+          "IncludeMastery_HERONAME"
+        ],
         "children": [
           {
             "name": "Hero Mastery - HERONAME - Recruit",

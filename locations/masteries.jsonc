@@ -7,6 +7,9 @@
     ],
     "children": [      {
         "name": "Hero Mastery - Brigitte",
+        "visibility_rules": [
+          "IncludeMastery_Brigitte"
+        ],
         "children": [
           {
             "name": "Hero Mastery - Brigitte - Recruit",
@@ -126,6 +129,9 @@
       },
       {
         "name": "Hero Mastery - Cassidy",
+        "visibility_rules": [
+          "IncludeMastery_Cassidy"
+        ],
         "children": [
           {
             "name": "Hero Mastery - Cassidy - Recruit",
@@ -245,6 +251,9 @@
       },
       {
         "name": "Hero Mastery - DVa",
+        "visibility_rules": [
+          "IncludeMastery_DVa"
+        ],
         "children": [
           {
             "name": "Hero Mastery - DVa - Recruit",
@@ -364,6 +373,9 @@
       },
       {
         "name": "Hero Mastery - Echo",
+        "visibility_rules": [
+          "IncludeMastery_Echo"
+        ],
         "children": [
           {
             "name": "Hero Mastery - Echo - Recruit",
@@ -483,6 +495,9 @@
       },
       {
         "name": "Hero Mastery - Genji",
+        "visibility_rules": [
+          "IncludeMastery_Genji"
+        ],
         "children": [
           {
             "name": "Hero Mastery - Genji - Recruit",
@@ -602,6 +617,9 @@
       },
       {
         "name": "Hero Mastery - Kiriko",
+        "visibility_rules": [
+          "IncludeMastery_Kiriko"
+        ],
         "children": [
           {
             "name": "Hero Mastery - Kiriko - Recruit",
@@ -721,6 +739,9 @@
       },
       {
         "name": "Hero Mastery - Lucio",
+        "visibility_rules": [
+          "IncludeMastery_Lucio"
+        ],
         "children": [
           {
             "name": "Hero Mastery - Lucio - Recruit",
@@ -840,6 +861,9 @@
       },
       {
         "name": "Hero Mastery - Mei",
+        "visibility_rules": [
+          "IncludeMastery_Mei"
+        ],
         "children": [
           {
             "name": "Hero Mastery - Mei - Recruit",
@@ -959,6 +983,9 @@
       },
       {
         "name": "Hero Mastery - Mercy",
+        "visibility_rules": [
+          "IncludeMastery_Mercy"
+        ],
         "children": [
           {
             "name": "Hero Mastery - Mercy - Recruit",
@@ -1078,6 +1105,9 @@
       },
       {
         "name": "Hero Mastery - Reinhardt",
+        "visibility_rules": [
+          "IncludeMastery_Reinhardt"
+        ],
         "children": [
           {
             "name": "Hero Mastery - Reinhardt - Recruit",
@@ -1197,6 +1227,9 @@
       },
       {
         "name": "Hero Mastery - Sojourn",
+        "visibility_rules": [
+          "IncludeMastery_Sojourn"
+        ],
         "children": [
           {
             "name": "Hero Mastery - Sojourn - Recruit",
@@ -1316,6 +1349,9 @@
       },
       {
         "name": "Hero Mastery - Soldier 76",
+        "visibility_rules": [
+          "IncludeMastery_Soldier 76"
+        ],
         "children": [
           {
             "name": "Hero Mastery - Soldier 76 - Recruit",
@@ -1435,6 +1471,9 @@
       },
       {
         "name": "Hero Mastery - Tracer",
+        "visibility_rules": [
+          "IncludeMastery_Tracer"
+        ],
         "children": [
           {
             "name": "Hero Mastery - Tracer - Recruit",
@@ -1554,6 +1593,9 @@
       },
       {
         "name": "Hero Mastery - Winston",
+        "visibility_rules": [
+          "IncludeMastery_Winston"
+        ],
         "children": [
           {
             "name": "Hero Mastery - Winston - Recruit",
@@ -1670,7 +1712,7 @@
             ]
           }
         ]
-      }
+      },
     ]
   }
 ]
