@@ -12,16 +12,20 @@
                 "name": "HERONAME - Recruit - Check 1"
               },
               {
-                "name": "HERONAME - Recruit - Check 2"
+                "name": "HERONAME - Recruit - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
               },
               {
-                "name": "HERONAME - Recruit - Check 3"
+                "name": "HERONAME - Recruit - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
               },
               {
-                "name": "HERONAME - Recruit - Check 4"
+                "name": "HERONAME - Recruit - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
               },
               {
-                "name": "HERONAME - Recruit - Check 5"
+                "name": "HERONAME - Recruit - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
               }
             ],
             "map_locations": [
@@ -46,16 +50,20 @@
                 "name": "HERONAME - Agent - Check 1"
               },
               {
-                "name": "HERONAME - Agent - Check 2"
+                "name": "HERONAME - Agent - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
               },
               {
-                "name": "HERONAME - Agent - Check 3"
+                "name": "HERONAME - Agent - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
               },
               {
-                "name": "HERONAME - Agent - Check 4"
+                "name": "HERONAME - Agent - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
               },
               {
-                "name": "HERONAME - Agent - Check 5"
+                "name": "HERONAME - Agent - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
               }
             ],
             "map_locations": [
@@ -80,16 +88,20 @@
                 "name": "HERONAME - Veteran - Check 1"
               },
               {
-                "name": "HERONAME - Veteran - Check 2"
+                "name": "HERONAME - Veteran - Check 2",
+                "visibility_rules": ["HeroMastery_CheckAmount:2"]
               },
               {
-                "name": "HERONAME - Veteran - Check 3"
+                "name": "HERONAME - Veteran - Check 3",
+                "visibility_rules": ["HeroMastery_CheckAmount:3"]
               },
               {
-                "name": "HERONAME - Veteran - Check 4"
+                "name": "HERONAME - Veteran - Check 4",
+                "visibility_rules": ["HeroMastery_CheckAmount:4"]
               },
               {
-                "name": "HERONAME - Veteran - Check 5"
+                "name": "HERONAME - Veteran - Check 5",
+                "visibility_rules": ["HeroMastery_CheckAmount:5"]
               }
             ],
             "map_locations": [
