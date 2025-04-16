@@ -1,0 +1,301 @@
+[
+  {
+    "name": "Win as Roles",
+    "children": [
+      {
+        "name": "Win as Tank",
+        "access_rules": [
+          "Category_Tank:1"
+        ],
+        "children": [
+          {
+            "name": "Win Control as Tank",
+            "sections": [
+              {
+                "name": "Win Control as Tank",
+                "clear_as_group": "true"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main", "size": 70,
+                "x": 295, "y": 278
+              }
+            ]
+          },
+          {
+            "name": "Win Escort as Tank",
+            "sections": [
+              {
+                "name": "Win Escort as Tank",
+                "clear_as_group": "true"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main", "size": 70,
+                "x": 295, "y": 390
+              }
+            ]
+          },
+          {
+            "name": "Win Flashpoint as Tank",
+            "sections": [
+              {
+                "name": "Win Flashpoint as Tank",
+                "clear_as_group": "true"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main", "size": 70,
+                "x": 295, "y": 502
+              }
+            ]
+          },
+          {
+            "name": "Win Hybrid as Tank",
+            "sections": [
+              {
+                "name": "Win Hybrid as Tank",
+                "clear_as_group": "true"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main", "size": 70,
+                "x": 295, "y": 614
+              }
+            ]
+          },
+          {
+            "name": "Win Push as Tank",
+            "sections": [
+              {
+                "name": "Win Push as Tank",
+                "clear_as_group": "true"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main", "size": 70,
+                "x": 295, "y": 726
+              }
+            ]
+          },
+          {
+            "name": "Win Clash as Tank",
+            "sections": [
+              {
+                "name": "Win Clash as Tank",
+                "clear_as_group": "true"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main", "size": 70,
+                "x": 295, "y": 838
+              }
+            ]
+          },
+        ]
+      },
+      {
+        "name": "Win as Damage",
+        "access_rules": [
+          "Category_Damage:1"
+        ],
+        "children": [
+          {
+            "name": "Win Control as Damage",
+            "sections": [
+              {
+                "name": "Win Control as Damage",
+                "clear_as_group": "true"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main", "size": 70,
+                "x": 413, "y": 278
+              }
+            ]
+          },
+          {
+            "name": "Win Escort as Damage",
+            "sections": [
+              {
+                "name": "Win Escort as Damage",
+                "clear_as_group": "true"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main", "size": 70,
+                "x": 413, "y": 390
+              }
+            ]
+          },
+          {
+            "name": "Win Flashpoint as Damage",
+            "sections": [
+              {
+                "name": "Win Flashpoint as Damage",
+                "clear_as_group": "true"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main", "size": 70,
+                "x": 413, "y": 502
+              }
+            ]
+          },
+          {
+            "name": "Win Hybrid as Damage",
+            "sections": [
+              {
+                "name": "Win Hybrid as Damage",
+                "clear_as_group": "true"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main", "size": 70,
+                "x": 413, "y": 614
+              }
+            ]
+          },
+          {
+            "name": "Win Push as Damage",
+            "sections": [
+              {
+                "name": "Win Push as Damage",
+                "clear_as_group": "true"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main", "size": 70,
+                "x": 413, "y": 726
+              }
+            ]
+          },
+          {
+            "name": "Win Clash as Damage",
+            "sections": [
+              {
+                "name": "Win Clash as Damage",
+                "clear_as_group": "true"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main", "size": 70,
+                "x": 413, "y": 838
+              }
+            ]
+          },
+        ]
+      },
+      {
+        "name": "Win as Support",
+        "access_rules": [
+          "Category_Support:1"
+        ],
+        "children": [
+          {
+            "name": "Win Control as Support",
+            "sections": [
+              {
+                "name": "Win Control as Support",
+                "clear_as_group": "true"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main", "size": 70,
+                "x": 531, "y": 278
+              }
+            ]
+          },
+          {
+            "name": "Win Escort as Support",
+            "sections": [
+              {
+                "name": "Win Escort as Support",
+                "clear_as_group": "true"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main", "size": 70,
+                "x": 531, "y": 390
+              }
+            ]
+          },
+          {
+            "name": "Win Flashpoint as Support",
+            "sections": [
+              {
+                "name": "Win Flashpoint as Support",
+                "clear_as_group": "true"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main", "size": 70,
+                "x": 531, "y": 502
+              }
+            ]
+          },
+          {
+            "name": "Win Hybrid as Support",
+            "sections": [
+              {
+                "name": "Win Hybrid as Support",
+                "clear_as_group": "true"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main", "size": 70,
+                "x": 531, "y": 614
+              }
+            ]
+          },
+          {
+            "name": "Win Push as Support",
+            "sections": [
+              {
+                "name": "Win Push as Support",
+                "clear_as_group": "true"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main", "size": 70,
+                "x": 531, "y": 726
+              }
+            ]
+          },
+          {
+            "name": "Win Clash as Support",
+            "sections": [
+              {
+                "name": "Win Clash as Support",
+                "clear_as_group": "true"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main", "size": 70,
+                "x": 531, "y": 838
+              }
+            ]
+          },
+        ]
+      },
+    ]
+  }
+]
