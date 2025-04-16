@@ -1,0 +1,7 @@
+
+      {
+        "name": "Win as ROLENAME",
+        "access_rules": [
+          "Category_ROLENAME:1"
+        ],
+        "children": [

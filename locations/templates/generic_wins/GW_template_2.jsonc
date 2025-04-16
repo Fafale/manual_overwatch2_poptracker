@@ -1,0 +1,15 @@
+          {
+            "name": "Win MODENAME as ROLENAME",
+            "sections": [
+              {
+                "name": "Win MODENAME as ROLENAME",
+                "clear_as_group": "true"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "Main", "size": CHECK_SIZE,
+                "x": POS_MAIN_X, "y": POS_MAIN_Y
+              }
+            ]
+          },
