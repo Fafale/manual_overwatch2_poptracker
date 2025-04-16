@@ -28,6 +28,32 @@
             ]
           }
         ]
+      },
+      {
+        "type": "group",
+        "dock": "top",
+        "header": "Deathmatch",
+        "header_background": "#3e4b57",
+        "content": [
+          {
+            "type": "array",
+            "orientation": "vertical",
+            "content": [
+              { 
+                "type": "item",
+                "item": "Deathmatch",
+                "h_alignment": "center",
+                "v_alignment": "stretch"
+              },
+              {
+                "type": "item",
+                "item": "Deathmatch_CheckAmount",
+                "h_alignment": "center",
+                "v_alignment": "stretch"
+              }
+            ]
+          }
+        ]
       }
     ]
   }

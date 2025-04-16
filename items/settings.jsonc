@@ -1,4 +1,5 @@
 [
+  // Hero Mastery
   {
     "name": "Include Hero Masteries",
     "type": "progressive",
@@ -32,6 +33,49 @@
     "max_quantity": 5,
     "initial_quantity": 1,
     "codes": "HeroMastery_CheckAmount",
+    "img": "images/items/consumable.png"
+  },
+
+  // Deathmatch
+
+  {
+    "name": "Include Deathmatch Checks",
+    "type": "progressive",
+    "loop": false,
+    "capturable": false,
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "codes": "Deathmatch",
+    "stages": [
+      {
+        "img": "images/items/toggle.png",
+        "inherit_codes": false,
+        "codes": "Deathmatch_off"
+      },
+      {
+        "img": "images/items/progressive.png",
+        "inherit_codes": false,
+        "codes": "Deathmatch_solo"
+      },
+      {
+        "img": "images/items/progressive_2.png",
+        "inherit_codes": false,
+        "codes": "Deathmatch_team"
+      },
+      {
+        "img": "images/items/consumable.png",
+        "inherit_codes": false,
+        "codes": "Deathmatch_both"
+      }
+    ]
+  },
+  {
+    "name": "Deathmatch Check Amount",
+    "type": "consumable",
+    "min_quantity": 1,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "codes": "Deathmatch_CheckAmount",
     "img": "images/items/consumable.png"
   }
 ]
