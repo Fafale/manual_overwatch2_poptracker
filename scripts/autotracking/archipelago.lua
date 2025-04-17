@@ -7,6 +7,8 @@
 ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
 
+ScriptHost:LoadScript("scripts/autotracking/sectionID.lua")
+
 ScriptHost:LoadScript("scripts/autotracking/slot_data.lua")
 
 CUR_INDEX = -1
@@ -275,3 +277,22 @@ if AUTOTRACKER_ENABLE_LOCATION_TRACKING then
 end
 -- Archipelago:AddScoutHandler("scout handler", onScout)
 -- Archipelago:AddBouncedHandler("bounce handler", onBounce)
+
+ScriptHost:AddOnLocationSectionChangedHandler("manual", function(section)
+    local sectionID = section.FullID
+    if (section.AvailableChestCount == 0) then  -- this only works for 1 chest per section
+        -- AP location cleared
+        local sectionID = section.FullID
+        local apID = sectionIDToAPID[sectionID]
+        if apID ~= nil then
+            local res = Archipelago:LocationChecks({apID})
+            if res then
+                print("Sent " .. tostring(apID) .. " for " .. tostring(sectionID))
+            else
+                print("Error sending " .. tostring(apID) .. " for " .. tostring(sectionID))
+            end
+        else
+            print(tostring(sectionID) .. " is not an AP location")
+        end
+    end
+end)

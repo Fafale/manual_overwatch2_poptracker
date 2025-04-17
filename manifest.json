@@ -1,5 +1,6 @@
 {
   "name": "Overwatch 2 - AP Tracker",
+  "game_name": "Manual_Overwatch2_Fafale",
   "package_version": "1.0.0",
   "package_uid": "ow2_ap",
   "author": "Fafale",
@@ -8,6 +9,7 @@
     "standard": {
       "display_name": "Map Tracker",
       "flags": [
+        "apmanual",
         "ap"
       ]
     },
