@@ -6,7 +6,7 @@
     ],
     "children": [
       {
-        "name": "Hero Eliminations - DVa",
+        "name": "DVa",
         "access_rules": [
           "Hero_DVa"
         ],
@@ -42,7 +42,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Doomfist",
+        "name": "Doomfist",
         "access_rules": [
           "Hero_Doomfist"
         ],
@@ -78,7 +78,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Hazard",
+        "name": "Hazard",
         "access_rules": [
           "Hero_Hazard"
         ],
@@ -114,7 +114,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Junker Queen",
+        "name": "Junker Queen",
         "access_rules": [
           "Hero_Junker Queen"
         ],
@@ -150,7 +150,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Mauga",
+        "name": "Mauga",
         "access_rules": [
           "Hero_Mauga"
         ],
@@ -186,7 +186,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Orisa",
+        "name": "Orisa",
         "access_rules": [
           "Hero_Orisa"
         ],
@@ -222,7 +222,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Ramattra",
+        "name": "Ramattra",
         "access_rules": [
           "Hero_Ramattra"
         ],
@@ -258,7 +258,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Reinhardt",
+        "name": "Reinhardt",
         "access_rules": [
           "Hero_Reinhardt"
         ],
@@ -294,7 +294,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Roadhog",
+        "name": "Roadhog",
         "access_rules": [
           "Hero_Roadhog"
         ],
@@ -330,7 +330,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Sigma",
+        "name": "Sigma",
         "access_rules": [
           "Hero_Sigma"
         ],
@@ -366,7 +366,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Winston",
+        "name": "Winston",
         "access_rules": [
           "Hero_Winston"
         ],
@@ -402,7 +402,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Wrecking Ball",
+        "name": "Wrecking Ball",
         "access_rules": [
           "Hero_Wrecking Ball"
         ],
@@ -438,7 +438,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Zarya",
+        "name": "Zarya",
         "access_rules": [
           "Hero_Zarya"
         ],
@@ -474,7 +474,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Ashe",
+        "name": "Ashe",
         "access_rules": [
           "Hero_Ashe"
         ],
@@ -510,7 +510,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Bastion",
+        "name": "Bastion",
         "access_rules": [
           "Hero_Bastion"
         ],
@@ -546,7 +546,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Cassidy",
+        "name": "Cassidy",
         "access_rules": [
           "Hero_Cassidy"
         ],
@@ -582,7 +582,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Echo",
+        "name": "Echo",
         "access_rules": [
           "Hero_Echo"
         ],
@@ -618,7 +618,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Genji",
+        "name": "Genji",
         "access_rules": [
           "Hero_Genji"
         ],
@@ -654,7 +654,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Hanzo",
+        "name": "Hanzo",
         "access_rules": [
           "Hero_Hanzo"
         ],
@@ -690,7 +690,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Junkrat",
+        "name": "Junkrat",
         "access_rules": [
           "Hero_Junkrat"
         ],
@@ -726,7 +726,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Mei",
+        "name": "Mei",
         "access_rules": [
           "Hero_Mei"
         ],
@@ -762,7 +762,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Pharah",
+        "name": "Pharah",
         "access_rules": [
           "Hero_Pharah"
         ],
@@ -798,7 +798,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Reaper",
+        "name": "Reaper",
         "access_rules": [
           "Hero_Reaper"
         ],
@@ -834,7 +834,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Sojourn",
+        "name": "Sojourn",
         "access_rules": [
           "Hero_Sojourn"
         ],
@@ -870,7 +870,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Soldier 76",
+        "name": "Soldier 76",
         "access_rules": [
           "Hero_Soldier 76"
         ],
@@ -906,7 +906,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Sombra",
+        "name": "Sombra",
         "access_rules": [
           "Hero_Sombra"
         ],
@@ -942,7 +942,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Symmetra",
+        "name": "Symmetra",
         "access_rules": [
           "Hero_Symmetra"
         ],
@@ -978,7 +978,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Torbjorn",
+        "name": "Torbjorn",
         "access_rules": [
           "Hero_Torbjorn"
         ],
@@ -1014,7 +1014,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Tracer",
+        "name": "Tracer",
         "access_rules": [
           "Hero_Tracer"
         ],
@@ -1050,7 +1050,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Venture",
+        "name": "Venture",
         "access_rules": [
           "Hero_Venture"
         ],
@@ -1086,7 +1086,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Widowmaker",
+        "name": "Widowmaker",
         "access_rules": [
           "Hero_Widowmaker"
         ],
@@ -1122,7 +1122,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Ana",
+        "name": "Ana",
         "access_rules": [
           "Hero_Ana"
         ],
@@ -1158,7 +1158,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Baptiste",
+        "name": "Baptiste",
         "access_rules": [
           "Hero_Baptiste"
         ],
@@ -1194,7 +1194,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Brigitte",
+        "name": "Brigitte",
         "access_rules": [
           "Hero_Brigitte"
         ],
@@ -1230,7 +1230,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Illari",
+        "name": "Illari",
         "access_rules": [
           "Hero_Illari"
         ],
@@ -1266,7 +1266,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Juno",
+        "name": "Juno",
         "access_rules": [
           "Hero_Juno"
         ],
@@ -1302,7 +1302,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Kiriko",
+        "name": "Kiriko",
         "access_rules": [
           "Hero_Kiriko"
         ],
@@ -1338,7 +1338,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Lifeweaver",
+        "name": "Lifeweaver",
         "access_rules": [
           "Hero_Lifeweaver"
         ],
@@ -1374,7 +1374,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Lucio",
+        "name": "Lucio",
         "access_rules": [
           "Hero_Lucio"
         ],
@@ -1410,7 +1410,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Mercy",
+        "name": "Mercy",
         "access_rules": [
           "Hero_Mercy"
         ],
@@ -1446,7 +1446,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Moira",
+        "name": "Moira",
         "access_rules": [
           "Hero_Moira"
         ],
@@ -1482,7 +1482,7 @@
         ]
       },
       {
-        "name": "Hero Eliminations - Zenyatta",
+        "name": "Zenyatta",
         "access_rules": [
           "Hero_Zenyatta"
         ],
@@ -1516,7 +1516,7 @@
             "x": 1996, "y": 1439
           }
         ]
-      },
+      }
     ]
   }
 ]

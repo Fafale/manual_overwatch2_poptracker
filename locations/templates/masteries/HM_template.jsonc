@@ -1,11 +1,11 @@
       {
-        "name": "Hero Mastery - HERONAME",
+        "name": "HERONAME",
         "visibility_rules": [
           "IncludeMastery_HERONAME"
         ],
         "children": [
           {
-            "name": "Hero Mastery - HERONAME - Recruit",
+            "name": "Recruit",
             "access_rules": [
               "Mastery_HERONAME, HeroMastery_complete",
               "Mastery_HERONAME:1, HeroMastery_progressive"
@@ -43,7 +43,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - HERONAME - Agent",
+            "name": "Agent",
             "access_rules": [
               "Mastery_HERONAME, HeroMastery_complete",
               "Mastery_HERONAME:2, HeroMastery_progressive"
@@ -81,7 +81,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - HERONAME - Veteran",
+            "name": "Veteran",
             "access_rules": [
               "Mastery_HERONAME, HeroMastery_complete",
               "Mastery_HERONAME:3, HeroMastery_progressive"

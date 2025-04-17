@@ -1,6 +1,6 @@
 
       {
-        "name": "Hero Eliminations - HERONAME",
+        "name": "HERONAME",
         "access_rules": [
           "Hero_HERONAME"
         ],

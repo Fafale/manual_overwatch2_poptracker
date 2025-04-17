@@ -5,14 +5,15 @@
       "HeroMastery_progressive",
       "HeroMastery_complete"
     ],
-    "children": [      {
-        "name": "Hero Mastery - Brigitte",
+    "children": [
+      {
+        "name": "Brigitte",
         "visibility_rules": [
           "IncludeMastery_Brigitte"
         ],
         "children": [
           {
-            "name": "Hero Mastery - Brigitte - Recruit",
+            "name": "Recruit",
             "access_rules": [
               "Mastery_Brigitte, HeroMastery_complete",
               "Mastery_Brigitte:1, HeroMastery_progressive"
@@ -50,7 +51,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Brigitte - Agent",
+            "name": "Agent",
             "access_rules": [
               "Mastery_Brigitte, HeroMastery_complete",
               "Mastery_Brigitte:2, HeroMastery_progressive"
@@ -88,7 +89,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Brigitte - Veteran",
+            "name": "Veteran",
             "access_rules": [
               "Mastery_Brigitte, HeroMastery_complete",
               "Mastery_Brigitte:3, HeroMastery_progressive"
@@ -128,13 +129,13 @@
         ]
       },
       {
-        "name": "Hero Mastery - Cassidy",
+        "name": "Cassidy",
         "visibility_rules": [
           "IncludeMastery_Cassidy"
         ],
         "children": [
           {
-            "name": "Hero Mastery - Cassidy - Recruit",
+            "name": "Recruit",
             "access_rules": [
               "Mastery_Cassidy, HeroMastery_complete",
               "Mastery_Cassidy:1, HeroMastery_progressive"
@@ -172,7 +173,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Cassidy - Agent",
+            "name": "Agent",
             "access_rules": [
               "Mastery_Cassidy, HeroMastery_complete",
               "Mastery_Cassidy:2, HeroMastery_progressive"
@@ -210,7 +211,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Cassidy - Veteran",
+            "name": "Veteran",
             "access_rules": [
               "Mastery_Cassidy, HeroMastery_complete",
               "Mastery_Cassidy:3, HeroMastery_progressive"
@@ -250,13 +251,13 @@
         ]
       },
       {
-        "name": "Hero Mastery - DVa",
+        "name": "DVa",
         "visibility_rules": [
           "IncludeMastery_DVa"
         ],
         "children": [
           {
-            "name": "Hero Mastery - DVa - Recruit",
+            "name": "Recruit",
             "access_rules": [
               "Mastery_DVa, HeroMastery_complete",
               "Mastery_DVa:1, HeroMastery_progressive"
@@ -294,7 +295,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - DVa - Agent",
+            "name": "Agent",
             "access_rules": [
               "Mastery_DVa, HeroMastery_complete",
               "Mastery_DVa:2, HeroMastery_progressive"
@@ -332,7 +333,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - DVa - Veteran",
+            "name": "Veteran",
             "access_rules": [
               "Mastery_DVa, HeroMastery_complete",
               "Mastery_DVa:3, HeroMastery_progressive"
@@ -372,13 +373,13 @@
         ]
       },
       {
-        "name": "Hero Mastery - Echo",
+        "name": "Echo",
         "visibility_rules": [
           "IncludeMastery_Echo"
         ],
         "children": [
           {
-            "name": "Hero Mastery - Echo - Recruit",
+            "name": "Recruit",
             "access_rules": [
               "Mastery_Echo, HeroMastery_complete",
               "Mastery_Echo:1, HeroMastery_progressive"
@@ -416,7 +417,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Echo - Agent",
+            "name": "Agent",
             "access_rules": [
               "Mastery_Echo, HeroMastery_complete",
               "Mastery_Echo:2, HeroMastery_progressive"
@@ -454,7 +455,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Echo - Veteran",
+            "name": "Veteran",
             "access_rules": [
               "Mastery_Echo, HeroMastery_complete",
               "Mastery_Echo:3, HeroMastery_progressive"
@@ -494,13 +495,13 @@
         ]
       },
       {
-        "name": "Hero Mastery - Genji",
+        "name": "Genji",
         "visibility_rules": [
           "IncludeMastery_Genji"
         ],
         "children": [
           {
-            "name": "Hero Mastery - Genji - Recruit",
+            "name": "Recruit",
             "access_rules": [
               "Mastery_Genji, HeroMastery_complete",
               "Mastery_Genji:1, HeroMastery_progressive"
@@ -538,7 +539,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Genji - Agent",
+            "name": "Agent",
             "access_rules": [
               "Mastery_Genji, HeroMastery_complete",
               "Mastery_Genji:2, HeroMastery_progressive"
@@ -576,7 +577,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Genji - Veteran",
+            "name": "Veteran",
             "access_rules": [
               "Mastery_Genji, HeroMastery_complete",
               "Mastery_Genji:3, HeroMastery_progressive"
@@ -616,13 +617,13 @@
         ]
       },
       {
-        "name": "Hero Mastery - Kiriko",
+        "name": "Kiriko",
         "visibility_rules": [
           "IncludeMastery_Kiriko"
         ],
         "children": [
           {
-            "name": "Hero Mastery - Kiriko - Recruit",
+            "name": "Recruit",
             "access_rules": [
               "Mastery_Kiriko, HeroMastery_complete",
               "Mastery_Kiriko:1, HeroMastery_progressive"
@@ -660,7 +661,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Kiriko - Agent",
+            "name": "Agent",
             "access_rules": [
               "Mastery_Kiriko, HeroMastery_complete",
               "Mastery_Kiriko:2, HeroMastery_progressive"
@@ -698,7 +699,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Kiriko - Veteran",
+            "name": "Veteran",
             "access_rules": [
               "Mastery_Kiriko, HeroMastery_complete",
               "Mastery_Kiriko:3, HeroMastery_progressive"
@@ -738,13 +739,13 @@
         ]
       },
       {
-        "name": "Hero Mastery - Lucio",
+        "name": "Lucio",
         "visibility_rules": [
           "IncludeMastery_Lucio"
         ],
         "children": [
           {
-            "name": "Hero Mastery - Lucio - Recruit",
+            "name": "Recruit",
             "access_rules": [
               "Mastery_Lucio, HeroMastery_complete",
               "Mastery_Lucio:1, HeroMastery_progressive"
@@ -782,7 +783,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Lucio - Agent",
+            "name": "Agent",
             "access_rules": [
               "Mastery_Lucio, HeroMastery_complete",
               "Mastery_Lucio:2, HeroMastery_progressive"
@@ -820,7 +821,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Lucio - Veteran",
+            "name": "Veteran",
             "access_rules": [
               "Mastery_Lucio, HeroMastery_complete",
               "Mastery_Lucio:3, HeroMastery_progressive"
@@ -860,13 +861,13 @@
         ]
       },
       {
-        "name": "Hero Mastery - Mei",
+        "name": "Mei",
         "visibility_rules": [
           "IncludeMastery_Mei"
         ],
         "children": [
           {
-            "name": "Hero Mastery - Mei - Recruit",
+            "name": "Recruit",
             "access_rules": [
               "Mastery_Mei, HeroMastery_complete",
               "Mastery_Mei:1, HeroMastery_progressive"
@@ -904,7 +905,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Mei - Agent",
+            "name": "Agent",
             "access_rules": [
               "Mastery_Mei, HeroMastery_complete",
               "Mastery_Mei:2, HeroMastery_progressive"
@@ -942,7 +943,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Mei - Veteran",
+            "name": "Veteran",
             "access_rules": [
               "Mastery_Mei, HeroMastery_complete",
               "Mastery_Mei:3, HeroMastery_progressive"
@@ -982,13 +983,13 @@
         ]
       },
       {
-        "name": "Hero Mastery - Mercy",
+        "name": "Mercy",
         "visibility_rules": [
           "IncludeMastery_Mercy"
         ],
         "children": [
           {
-            "name": "Hero Mastery - Mercy - Recruit",
+            "name": "Recruit",
             "access_rules": [
               "Mastery_Mercy, HeroMastery_complete",
               "Mastery_Mercy:1, HeroMastery_progressive"
@@ -1026,7 +1027,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Mercy - Agent",
+            "name": "Agent",
             "access_rules": [
               "Mastery_Mercy, HeroMastery_complete",
               "Mastery_Mercy:2, HeroMastery_progressive"
@@ -1064,7 +1065,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Mercy - Veteran",
+            "name": "Veteran",
             "access_rules": [
               "Mastery_Mercy, HeroMastery_complete",
               "Mastery_Mercy:3, HeroMastery_progressive"
@@ -1104,13 +1105,13 @@
         ]
       },
       {
-        "name": "Hero Mastery - Reinhardt",
+        "name": "Reinhardt",
         "visibility_rules": [
           "IncludeMastery_Reinhardt"
         ],
         "children": [
           {
-            "name": "Hero Mastery - Reinhardt - Recruit",
+            "name": "Recruit",
             "access_rules": [
               "Mastery_Reinhardt, HeroMastery_complete",
               "Mastery_Reinhardt:1, HeroMastery_progressive"
@@ -1148,7 +1149,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Reinhardt - Agent",
+            "name": "Agent",
             "access_rules": [
               "Mastery_Reinhardt, HeroMastery_complete",
               "Mastery_Reinhardt:2, HeroMastery_progressive"
@@ -1186,7 +1187,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Reinhardt - Veteran",
+            "name": "Veteran",
             "access_rules": [
               "Mastery_Reinhardt, HeroMastery_complete",
               "Mastery_Reinhardt:3, HeroMastery_progressive"
@@ -1226,13 +1227,13 @@
         ]
       },
       {
-        "name": "Hero Mastery - Sojourn",
+        "name": "Sojourn",
         "visibility_rules": [
           "IncludeMastery_Sojourn"
         ],
         "children": [
           {
-            "name": "Hero Mastery - Sojourn - Recruit",
+            "name": "Recruit",
             "access_rules": [
               "Mastery_Sojourn, HeroMastery_complete",
               "Mastery_Sojourn:1, HeroMastery_progressive"
@@ -1270,7 +1271,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Sojourn - Agent",
+            "name": "Agent",
             "access_rules": [
               "Mastery_Sojourn, HeroMastery_complete",
               "Mastery_Sojourn:2, HeroMastery_progressive"
@@ -1308,7 +1309,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Sojourn - Veteran",
+            "name": "Veteran",
             "access_rules": [
               "Mastery_Sojourn, HeroMastery_complete",
               "Mastery_Sojourn:3, HeroMastery_progressive"
@@ -1348,13 +1349,13 @@
         ]
       },
       {
-        "name": "Hero Mastery - Soldier 76",
+        "name": "Soldier 76",
         "visibility_rules": [
           "IncludeMastery_Soldier 76"
         ],
         "children": [
           {
-            "name": "Hero Mastery - Soldier 76 - Recruit",
+            "name": "Recruit",
             "access_rules": [
               "Mastery_Soldier 76, HeroMastery_complete",
               "Mastery_Soldier 76:1, HeroMastery_progressive"
@@ -1392,7 +1393,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Soldier 76 - Agent",
+            "name": "Agent",
             "access_rules": [
               "Mastery_Soldier 76, HeroMastery_complete",
               "Mastery_Soldier 76:2, HeroMastery_progressive"
@@ -1430,7 +1431,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Soldier 76 - Veteran",
+            "name": "Veteran",
             "access_rules": [
               "Mastery_Soldier 76, HeroMastery_complete",
               "Mastery_Soldier 76:3, HeroMastery_progressive"
@@ -1470,13 +1471,13 @@
         ]
       },
       {
-        "name": "Hero Mastery - Tracer",
+        "name": "Tracer",
         "visibility_rules": [
           "IncludeMastery_Tracer"
         ],
         "children": [
           {
-            "name": "Hero Mastery - Tracer - Recruit",
+            "name": "Recruit",
             "access_rules": [
               "Mastery_Tracer, HeroMastery_complete",
               "Mastery_Tracer:1, HeroMastery_progressive"
@@ -1514,7 +1515,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Tracer - Agent",
+            "name": "Agent",
             "access_rules": [
               "Mastery_Tracer, HeroMastery_complete",
               "Mastery_Tracer:2, HeroMastery_progressive"
@@ -1552,7 +1553,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Tracer - Veteran",
+            "name": "Veteran",
             "access_rules": [
               "Mastery_Tracer, HeroMastery_complete",
               "Mastery_Tracer:3, HeroMastery_progressive"
@@ -1592,13 +1593,13 @@
         ]
       },
       {
-        "name": "Hero Mastery - Winston",
+        "name": "Winston",
         "visibility_rules": [
           "IncludeMastery_Winston"
         ],
         "children": [
           {
-            "name": "Hero Mastery - Winston - Recruit",
+            "name": "Recruit",
             "access_rules": [
               "Mastery_Winston, HeroMastery_complete",
               "Mastery_Winston:1, HeroMastery_progressive"
@@ -1636,7 +1637,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Winston - Agent",
+            "name": "Agent",
             "access_rules": [
               "Mastery_Winston, HeroMastery_complete",
               "Mastery_Winston:2, HeroMastery_progressive"
@@ -1674,7 +1675,7 @@
             ]
           },
           {
-            "name": "Hero Mastery - Winston - Veteran",
+            "name": "Veteran",
             "access_rules": [
               "Mastery_Winston, HeroMastery_complete",
               "Mastery_Winston:3, HeroMastery_progressive"
