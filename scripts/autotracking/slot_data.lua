@@ -93,6 +93,10 @@ function get_medal_goal(slot_data)
     local obj2 = Tracker:FindObjectForCode("GoalCounter_2")
     local obj3 = Tracker:FindObjectForCode("GoalCounter_3")
 
+    obj1.IgnoreUserInput = true
+    obj2.IgnoreUserInput = true
+    obj3.IgnoreUserInput = true
+
     local goal = -1
 
     if slot_data["goal"] ~= nil then
