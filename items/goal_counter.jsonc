@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Goal Counter 100s",
+    "type": "progressive",
+    "img": "images/items/medal.png",
+    "codes": "GoalCounter_1",
+
+    "loop": true,
+    "capturable": false,
+    "allow_disabled": false,
+
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/numbers/0.png"
+      },
+      {
+        "img": "images/numbers/1.png"
+      },
+      {
+        "img": "images/numbers/2.png"
+      },
+      {
+        "img": "images/numbers/3.png"
+      },
+      {
+        "img": "images/numbers/4.png"
+      },
+      {
+        "img": "images/numbers/5.png"
+      },
+      {
+        "img": "images/numbers/6.png"
+      },
+      {
+        "img": "images/numbers/7.png"
+      },
+      {
+        "img": "images/numbers/8.png"
+      },
+      {
+        "img": "images/numbers/9.png"
+      }
+    ]
+  },{
+    "name": "Goal Counter 10s",
+    "type": "progressive",
+    "img": "images/items/medal.png",
+    "codes": "GoalCounter_2",
+
+    "loop": true,
+    "capturable": false,
+    "allow_disabled": false,
+
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/numbers/0.png"
+      },
+      {
+        "img": "images/numbers/1.png"
+      },
+      {
+        "img": "images/numbers/2.png"
+      },
+      {
+        "img": "images/numbers/3.png"
+      },
+      {
+        "img": "images/numbers/4.png"
+      },
+      {
+        "img": "images/numbers/5.png"
+      },
+      {
+        "img": "images/numbers/6.png"
+      },
+      {
+        "img": "images/numbers/7.png"
+      },
+      {
+        "img": "images/numbers/8.png"
+      },
+      {
+        "img": "images/numbers/9.png"
+      }
+    ]
+  },{
+    "name": "Goal Counter 1s",
+    "type": "progressive",
+    "img": "images/items/medal.png",
+    "codes": "GoalCounter_3",
+
+    "loop": true,
+    "capturable": false,
+    "allow_disabled": false,
+
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/numbers/0.png"
+      },
+      {
+        "img": "images/numbers/1.png"
+      },
+      {
+        "img": "images/numbers/2.png"
+      },
+      {
+        "img": "images/numbers/3.png"
+      },
+      {
+        "img": "images/numbers/4.png"
+      },
+      {
+        "img": "images/numbers/5.png"
+      },
+      {
+        "img": "images/numbers/6.png"
+      },
+      {
+        "img": "images/numbers/7.png"
+      },
+      {
+        "img": "images/numbers/8.png"
+      },
+      {
+        "img": "images/numbers/9.png"
+      }
+    ]
+  }
+]

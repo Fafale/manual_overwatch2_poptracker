@@ -11,6 +11,8 @@ ScriptHost:LoadScript("scripts/autotracking/sectionID.lua")
 
 ScriptHost:LoadScript("scripts/autotracking/slot_data.lua")
 
+SLOT_MEDAL_GOAL = -1
+
 CUR_INDEX = -1
 LOCAL_ITEMS = {}
 GLOBAL_ITEMS = {}
@@ -83,6 +85,8 @@ end
 -- apply everything needed from slot_data, called from onClear
 function apply_slot_data(slot_data)
 	get_slot_options(slot_data)
+
+	SLOT_MEDAL_GOAL = get_medal_goal(slot_data)
 	-- put any code here that slot_data should affect (toggling setting items for example)
 end
 

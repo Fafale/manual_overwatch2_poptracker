@@ -87,3 +87,30 @@ function get_slot_options(slot_data)
         end
     end
 end
+
+function get_medal_goal(slot_data)
+    local obj1 = Tracker:FindObjectForCode("GoalCounter_1")
+    local obj2 = Tracker:FindObjectForCode("GoalCounter_2")
+    local obj3 = Tracker:FindObjectForCode("GoalCounter_3")
+
+    local goal = -1
+
+    if slot_data["goal"] ~= nil then
+        goal = slot_data["goal"]
+        value = goal
+
+        local v1 = value // 100
+  
+        value = value - v1*100
+        local v2 = value // 10
+        
+        value = value - v2*10
+        local v3 = value
+
+        obj1.CurrentStage = v1
+        obj2.CurrentStage = v2
+        obj3.CurrentStage = v3
+    end
+
+    return goal
+end

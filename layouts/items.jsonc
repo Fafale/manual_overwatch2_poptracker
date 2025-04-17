@@ -250,10 +250,35 @@
     "title": "Received Medals",
     "content":[
       {
-        "type": "item",
-        "item_h_alignment": "center",
-        "item_size": "32,32",
-        "item": "Medal"
+        "type": "array",
+        "orientation": "horizontal",
+        "v_alignment": "center",
+        "content": [
+          {
+            "type": "item",
+            "item_h_alignment": "center",
+            "item_size": "32,32",
+            "item": "Medal"
+          },
+          {
+            "type": "group",
+            "header": "Medal Goal",
+            "content": [
+              {
+                "type": "itemgrid",
+                "item_margin": "2",
+                "item_size": "32,72",
+                "rows": [
+                  [
+                    "GoalCounter_1",
+                    "GoalCounter_2",
+                    "GoalCounter_3"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   },
