@@ -19,13 +19,13 @@
   {
     "name": "Solo Deathmatch",
     "type": "toggle",
-    "img": "images/items/toggle.png",
+    "img": "images/items/solo_deathmatch.png",
     "codes": "Solo_Deathmatch"
   },
   {
     "name": "Team Deathmatch",
     "type": "toggle",
-    "img": "images/items/toggle.png",
+    "img": "images/items/team_deathmatch.png",
     "codes": "Team_Deathmatch"
   },
 

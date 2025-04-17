@@ -11,17 +11,17 @@
     "codes": "HeroMastery",
     "stages": [
       {
-        "img": "images/items/toggle.png",
+        "img": "images/settings/masteries/hm_disabled.png",
         "inherit_codes": false,
         "codes": "HeroMastery_off"
       },
       {
-        "img": "images/items/progressive.png",
+        "img": "images/settings/masteries/hm_progressive.png",
         "inherit_codes": false,
         "codes": "HeroMastery_progressive"
       },
       {
-        "img": "images/items/progressive_2.png",
+        "img": "images/settings/masteries/hm_complete.png",
         "inherit_codes": false,
         "codes": "HeroMastery_complete"
       }
@@ -34,7 +34,7 @@
     "max_quantity": 5,
     "initial_quantity": 1,
     "codes": "HeroMastery_CheckAmount",
-    "img": "images/items/consumable.png"
+    "img": "images/settings/masteries/hm_amount.png"
   },
 
   // Hero Eliminations
@@ -43,7 +43,7 @@
     "name": "Include Hero Eliminations",
     "type": "toggle",
     "codes": "HeroElimination_Include",
-    "img": "images/items/toggle.png"
+    "img": "images/settings/eliminations/he_on.png"
   },
   {
     "name": "Hero Eliminations Check Amount",
@@ -52,7 +52,7 @@
     "max_quantity": 5,
     "initial_quantity": 1,
     "codes": "HeroElimination_CheckAmount",
-    "img": "images/items/consumable.png"
+    "img": "images/settings/eliminations/he_amount.png"
   },
 
   // Deathmatch
@@ -67,22 +67,22 @@
     "codes": "Deathmatch",
     "stages": [
       {
-        "img": "images/items/toggle.png",
+        "img": "images/settings/deathmatch/dm_none.png",
         "inherit_codes": false,
         "codes": "Deathmatch_off"
       },
       {
-        "img": "images/items/progressive.png",
+        "img": "images/settings/deathmatch/dm_solo.png",
         "inherit_codes": false,
         "codes": "Deathmatch_solo"
       },
       {
-        "img": "images/items/progressive_2.png",
+        "img": "images/settings/deathmatch/dm_team.png",
         "inherit_codes": false,
         "codes": "Deathmatch_team"
       },
       {
-        "img": "images/items/consumable.png",
+        "img": "images/settings/deathmatch/dm_both.png",
         "inherit_codes": false,
         "codes": "Deathmatch_both"
       }
@@ -95,7 +95,7 @@
     "max_quantity": 5,
     "initial_quantity": 1,
     "codes": "Deathmatch_CheckAmount",
-    "img": "images/items/consumable.png"
+    "img": "images/settings/deathmatch/dm_amount.png"
   },
 
   // Include Roles

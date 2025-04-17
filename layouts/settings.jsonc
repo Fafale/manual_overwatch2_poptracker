@@ -5,26 +5,36 @@
     "content": [
       {
         "type": "group",
-        "dock": "top",
+        "header": "Hero Eliminations",
+        "header_background": "#3e4b57",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_size": "64",
+            "item_margin": 0,
+            "rows": [
+              [
+                "HeroElimination_Include",
+                "HeroElimination_CheckAmount"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "type": "group",
         "header": "Hero Masteries",
         "header_background": "#3e4b57",
         "content": [
           {
-            "type": "array",
-            "orientation": "vertical",
-            "content": [
-              { 
-                "type": "item",
-                "item": "HeroMastery",
-                "h_alignment": "center",
-                "v_alignment": "stretch"
-              },
-              {
-                "type": "item",
-                "item": "HeroMastery_CheckAmount",
-                "h_alignment": "center",
-                "v_alignment": "stretch"
-              }
+            "type": "itemgrid",
+            "item_size": "64",
+            "item_margin": 0,
+            "rows": [
+              [
+                "HeroMastery",
+                "HeroMastery_CheckAmount"
+              ]
             ]
           }
         ]
@@ -35,21 +45,14 @@
         "header_background": "#3e4b57",
         "content": [
           {
-            "type": "array",
-            "orientation": "vertical",
-            "content": [
-              { 
-                "type": "item",
-                "item": "Deathmatch",
-                "h_alignment": "center",
-                "v_alignment": "stretch"
-              },
-              {
-                "type": "item",
-                "item": "Deathmatch_CheckAmount",
-                "h_alignment": "center",
-                "v_alignment": "stretch"
-              }
+            "type": "itemgrid",
+            "item_size": "64",
+            "item_margin": 0,
+            "rows": [
+              [
+                "Deathmatch",
+                "Deathmatch_CheckAmount"
+              ]
             ]
           }
         ]
@@ -61,15 +64,13 @@
         "content": [
           {
             "type": "itemgrid",
+            "item_size": "64",
+            "item_margin": 0,
             "rows": [
               [
                 "IncludeRole_Tank",
                 "IncludeRole_Damage",
                 "IncludeRole_Support"
-              ],
-              [
-                "HeroElimination_Include",
-                "HeroElimination_CheckAmount"
               ]
             ]
           }

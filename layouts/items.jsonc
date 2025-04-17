@@ -230,17 +230,14 @@
     "title": "Deathmatch Items",
     "content": [
       {
-        "type": "array",
-        "orientation": "vertical",
-        "content": [
-          {
-            "type": "item",
-            "item": "Solo_Deathmatch"
-          },
-          {
-            "type": "item",
-            "item": "Team_Deathmatch"
-          }
+        "type": "itemgrid",
+        "item_size": 64,
+        "item_margin": 1,
+        "rows": [
+          [
+            "Solo_Deathmatch",
+            "Team_Deathmatch"
+          ]
         ]
       }
     ]
@@ -256,6 +253,7 @@
         "content": [
           {
             "type": "item",
+            "max_width": 128,
             "item_h_alignment": "center",
             "item_size": "32,32",
             "item": "Medal"
