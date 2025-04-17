@@ -11,6 +11,7 @@ ScriptHost:LoadScript("scripts/autotracking/sectionID.lua")
 
 ScriptHost:LoadScript("scripts/autotracking/slot_data.lua")
 
+VICTORY_LOCATION_ID = "Goal Location/Goal Location - Win the game/Send after reaching medal goal amount"
 SLOT_MEDAL_GOAL = -1
 
 CUR_INDEX = -1
@@ -20,6 +21,11 @@ GLOBAL_ITEMS = {}
 -- resets an item to its initial state
 function resetItem(item_code, item_type)
 	local obj = Tracker:FindObjectForCode(item_code)
+
+	if item_code == "Medal" then
+		obj.IgnoreUserInput = true
+	end
+
 	if obj then
 		item_type = item_type or obj.Type
 		if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
@@ -287,16 +293,35 @@ ScriptHost:AddOnLocationSectionChangedHandler("manual", function(section)
     if (section.AvailableChestCount == 0) then  -- this only works for 1 chest per section
         -- AP location cleared
         local sectionID = section.FullID
-        local apID = sectionIDToAPID[sectionID]
-        if apID ~= nil then
-            local res = Archipelago:LocationChecks({apID})
-            if res then
-                print("Sent " .. tostring(apID) .. " for " .. tostring(sectionID))
-            else
-                print("Error sending " .. tostring(apID) .. " for " .. tostring(sectionID))
-            end
-        else
-            print(tostring(sectionID) .. " is not an AP location")
-        end
+		if sectionID == VICTORY_LOCATION_ID then
+			local collected_medals = Tracker:FindObjectForCode("Medal").AcquiredCount
+
+			print("Collected " .. tostring(collected_medals) .. ", need " .. tostring(SLOT_MEDAL_GOAL))
+			if collected_medals >= SLOT_MEDAL_GOAL then
+				print("Enough medals, can goal")
+				local res = Archipelago:StatusUpdate(Archipelago.ClientStatus.GOAL)
+				if res then
+					print("Sent Victory")
+				else
+					print("Error sending Victory")
+				end
+			else
+				print("Insufficient medals, cannot goal")
+				section.AvailableChestCount = 1
+			end
+		else
+			local apID = sectionIDToAPID[sectionID]
+			if apID ~= nil then
+				local res = Archipelago:LocationChecks({apID})
+				if res then
+					print("Sent " .. tostring(apID) .. " for " .. tostring(sectionID))
+				else
+					print("Error sending " .. tostring(apID) .. " for " .. tostring(sectionID))
+				end
+			else
+				print(tostring(sectionID) .. " is not an AP location")
+			end
+		end
     end
 end)
+
