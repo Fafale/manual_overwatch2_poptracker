@@ -14,6 +14,20 @@ function get_slot_options(slot_data)
         obj.AcquiredCount = stage
     end
 
+    -- Hero Eliminations
+    
+    if slot_data["enable_hero_elimination_checks"] ~= nil then
+        local obj = Tracker:FindObjectForCode("HeroElimination_Include")
+        local stage = slot_data["enable_hero_elimination_checks"]
+
+        obj.Active = stage
+    end
+
+    if slot_data["hero_elimination_check_amount"] ~= nil then
+        local obj = Tracker:FindObjectForCode("HeroElimination_CheckAmount")
+        local stage = slot_data["hero_elimination_check_amount"]
+        obj.AcquiredCount = stage
+    end
 
     -- Deathmatch
 
