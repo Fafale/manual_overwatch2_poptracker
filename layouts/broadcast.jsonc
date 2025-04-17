@@ -1,6 +1,6 @@
 {
   //sets the layout for the broadcast view
-  "tracker_broadcast": {
+  "tracker_broadcast OFF": {
     "type": "array",
     "orientation": "vertical",
     "margin": "0,0",
