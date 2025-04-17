@@ -126,26 +126,9 @@
           ]
         },
         {
-          "type": "tabbed",
-          "tabs": [
-            {
-              "title": "All Checks",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "Main"
-                ]
-              }
-            },
-            {
-              "title": "Hero Masteries",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "Mastery"
-                ]
-              }
-            }
+          "type": "map",
+          "maps": [
+            "Main"
           ]
         }
       ]
