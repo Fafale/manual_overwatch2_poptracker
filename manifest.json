@@ -6,16 +6,10 @@
   "author": "Fafale",
   "target_poptracker_version": "0.31.0",
   "variants": {
-    "standard": {
-      "display_name": "Map Tracker",
+    "standard_manual": {
+      "display_name": "Archipelago Manual",
       "flags": [
         "apmanual",
-        "ap"
-      ]
-    },
-    "var_itemsonly": {
-      "display_name": "Items Only",
-      "flags": [
         "ap"
       ]
     }
