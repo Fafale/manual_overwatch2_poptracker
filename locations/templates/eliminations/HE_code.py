@@ -27,6 +27,7 @@ info = {
         "Bastion",
         "Cassidy",
         "Echo",
+        "Freja",
         "Genji",
         "Hanzo",
         "Junkrat",
@@ -101,8 +102,16 @@ for role_num in range(len(info)):
             pos_main_offset     = [119, 112]
 
             print(f"{hero_num}: {(hero_num) % 6}, {(hero_num) // 6}")
-            pos_main_x = pos_main_start[0] + ((hero_num % 6)*pos_main_offset[0])
-            pos_main_y = pos_main_start[1] + ((hero_num // 6)*pos_main_offset[1])
+            if hero_num <= 5:
+                pos_main_x = pos_main_start[0] + ((hero_num % 6)*pos_main_offset[0])
+                pos_main_y = pos_main_start[1] + ((hero_num // 6)*pos_main_offset[1])
+            elif hero_num >= 13:
+                pos_main_x = pos_main_start[0] + (((hero_num-1) % 6)*pos_main_offset[0])
+                pos_main_y = pos_main_start[1] + (((hero_num-1) // 6)*pos_main_offset[1])
+            else:
+                pos_main_x = pos_main_start[0] + ((hero_num-6)*pos_main_offset[0]) - 60
+                pos_main_y = pos_main_start[1] + ((6 // 6)*pos_main_offset[1])
+
         else:
             pos_main_start      = [211 + (13*119), 1215]
             pos_main_offset     = [119, 112]

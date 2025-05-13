@@ -305,6 +305,12 @@
     "codes": "Hero_Echo"
   },
   {
+    "name": "Freja",
+    "type": "toggle",
+    "img": "images/heroes/Freja.png",
+    "codes": "Hero_Freja"
+  },
+  {
     "name": "Genji",
     "type": "toggle",
     "img": "images/heroes/Genji.png",
