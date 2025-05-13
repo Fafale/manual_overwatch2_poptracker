@@ -618,6 +618,42 @@
         ]
       },
       {
+        "name": "Freja",
+        "access_rules": [
+          "Hero_Freja"
+        ],
+        "visibility_rules": [
+          "IncludeHero_Freja, IncludeRole_Damage"
+        ],
+        "sections": [
+          {
+            "name": "Freja - Get Eliminations (1)"
+          },
+          {
+            "name": "Freja - Get Eliminations (2)",
+            "visibility_rules": "HeroElimination_CheckAmount:2"
+          },
+          {
+            "name": "Freja - Get Eliminations (3)",
+            "visibility_rules": "HeroElimination_CheckAmount:3"
+          },
+          {
+            "name": "Freja - Get Eliminations (4)",
+            "visibility_rules": "HeroElimination_CheckAmount:4"
+          },
+          {
+            "name": "Freja - Get Eliminations (5)",
+            "visibility_rules": "HeroElimination_CheckAmount:5"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Main", "size": 30,
+            "x": 1401, "y": 1215
+          }
+        ]
+      },
+      {
         "name": "Genji",
         "access_rules": [
           "Hero_Genji"
@@ -649,7 +685,7 @@
         "map_locations": [
           {
             "map": "Main", "size": 30,
-            "x": 1401, "y": 1215
+            "x": 1520, "y": 1215
           }
         ]
       },
@@ -685,7 +721,7 @@
         "map_locations": [
           {
             "map": "Main", "size": 30,
-            "x": 1520, "y": 1215
+            "x": 865, "y": 1327
           }
         ]
       },
@@ -721,7 +757,7 @@
         "map_locations": [
           {
             "map": "Main", "size": 30,
-            "x": 925, "y": 1327
+            "x": 984, "y": 1327
           }
         ]
       },
@@ -757,7 +793,7 @@
         "map_locations": [
           {
             "map": "Main", "size": 30,
-            "x": 1044, "y": 1327
+            "x": 1103, "y": 1327
           }
         ]
       },
@@ -793,7 +829,7 @@
         "map_locations": [
           {
             "map": "Main", "size": 30,
-            "x": 1163, "y": 1327
+            "x": 1222, "y": 1327
           }
         ]
       },
@@ -829,7 +865,7 @@
         "map_locations": [
           {
             "map": "Main", "size": 30,
-            "x": 1282, "y": 1327
+            "x": 1341, "y": 1327
           }
         ]
       },
@@ -865,7 +901,7 @@
         "map_locations": [
           {
             "map": "Main", "size": 30,
-            "x": 1401, "y": 1327
+            "x": 1460, "y": 1327
           }
         ]
       },
@@ -901,7 +937,7 @@
         "map_locations": [
           {
             "map": "Main", "size": 30,
-            "x": 1520, "y": 1327
+            "x": 1579, "y": 1327
           }
         ]
       },
@@ -1516,7 +1552,7 @@
             "x": 1996, "y": 1439
           }
         ]
-      }
+      },
     ]
   }
 ]

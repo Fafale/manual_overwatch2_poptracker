@@ -85,6 +85,11 @@
     "codes": "IncludeHero_Echo"
   },
   {
+    "name": "Include Hero Freja",
+    "type": "toggle",
+    "codes": "IncludeHero_Freja"
+  },
+  {
     "name": "Include Hero Genji",
     "type": "toggle",
     "codes": "IncludeHero_Genji"

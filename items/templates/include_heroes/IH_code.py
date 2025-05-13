@@ -16,6 +16,7 @@ heroes = [
     "Bastion",
     "Cassidy",
     "Echo",
+    "Freja",
     "Genji",
     "Hanzo",
     "Junkrat",
