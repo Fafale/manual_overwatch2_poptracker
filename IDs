@@ -8,6 +8,7 @@ item_name_to_id:
   DVa: 3
   Doomfist: 4
   Echo: 19
+  Freja: 61
   Genji: 20
   Hanzo: 21
   Hazard: 5
@@ -37,7 +38,7 @@ item_name_to_id:
   Mei: 23
   Mercy: 42
   Moira: 43
-  Nothing: 61
+  Nothing: 62
   Orisa: 8
   Pharah: 24
   Ramattra: 9
@@ -106,6 +107,11 @@ location_name_to_id:
   Echo - Get Eliminations (3): 1084
   Echo - Get Eliminations (4): 1085
   Echo - Get Eliminations (5): 1086
+  Freja - Get Eliminations (1): 1450
+  Freja - Get Eliminations (2): 1451
+  Freja - Get Eliminations (3): 1452
+  Freja - Get Eliminations (4): 1453
+  Freja - Get Eliminations (5): 1454
   Gather 1 Medal: 2
   Gather 10 Medals: 11
   Gather 100 Medals: 101
