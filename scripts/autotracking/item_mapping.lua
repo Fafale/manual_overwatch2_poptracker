@@ -43,6 +43,7 @@ ITEM_MAPPING = {
 	[17]				= {{ "Hero_Bastion", 		"toggle"}, { "Category_Damage", 	"consumable"}},
 	[18]				= {{ "Hero_Cassidy", 		"toggle"}, { "Category_Damage", 	"consumable"}},
 	[19]				= {{ "Hero_Echo", 			"toggle"}, { "Category_Damage", 	"consumable"}},
+	[61]				= {{ "Hero_Freja", 			"toggle"}, { "Category_Damage",		"consumable"}},
 	[20]				= {{ "Hero_Genji", 			"toggle"}, { "Category_Damage", 	"consumable"}},
 	[21]				= {{ "Hero_Hanzo", 			"toggle"}, { "Category_Damage", 	"consumable"}},
 	[22]				= {{ "Hero_Junkrat", 		"toggle"}, { "Category_Damage", 	"consumable"}},
@@ -76,5 +77,5 @@ ITEM_MAPPING = {
   	[60] = {{ "Team_Deathmatch", "toggle"}},
 
 	-- Filler
-  	[61] = {}, -- Nothing (Filler item)
+  	[62] = {}, -- Nothing (Filler item)
 }
